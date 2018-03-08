@@ -1,0 +1,515 @@
+Kode,Provinsi,Kabupaten,Bahasa_Indonesia,Bahasa_Inggris,Matematika,Fisika,Kimia,Biologi
+1114,Aceh,Aceh Tamiang,62.21,35.23,30.04,20.88,27.97,40.51
+1106,Aceh,Aceh Tengah,55.12,36.45,32.24,17.57,15.81,36.85
+1104,Aceh,Aceh Tenggara,45.74,36.48,26.28,16.26,16.84,31.37
+1105,Aceh,Aceh Timur,52.93,35.49,30.17,11.65,18.64,30.46
+1111,Aceh,Aceh Utara,51.15,34.08,29.65,19.03,16.02,34.71
+1117,Aceh,Bener Meriah,56.97,30.5,28.06,13.11,15.38,35.76
+1110,Aceh,Bireuen,53.51,30.45,28.35,16.1,20.34,34.15
+1113,Aceh,Gayo Lues,53.32,34.69,29.4,17.55,28.33,29.35
+1109,Aceh,Pidie,52.48,30.24,27.77,17.53,15.25,33.6
+1118,Aceh,Pidie Jaya,52.99,44.83,43.77,21.64,22.14,36.4
+1171,Aceh,Banda Aceh,69.91,58.81,56.77,24.94,29.56,47.96
+1174,Aceh,Lhokseumawe,59.94,38.54,31.94,25.89,21.51,40.04
+5103,Bali,Badung,70.35,66.69,39.46,34.45,43.11,51.22
+5106,Bali,Bangli,67.93,46.94,33.6,21.4,41.22,40.56
+5108,Bali,Buleleng,69.39,55.43,35.42,26.25,37.07,45.28
+5104,Bali,Gianyar,68.67,54.64,37.19,29.31,42.52,49.85
+5101,Bali,Jembrana,66.4,55.62,36.4,21.18,31.73,43.35
+5107,Bali,Karang Asem,72.57,58.5,42.09,29.38,42.33,44.33
+5105,Bali,Klungkung,70.67,64.69,46.08,24.8,24.16,54.71
+5102,Bali,Tabanan,67.76,54.39,35.43,33.05,30.03,44.82
+5171,Bali,Denpasar,74.97,77.22,51.79,44.51,48.24,58.26
+1901,Bangka Belitung,Bangka,72.01,43.66,36.83,33.05,35.68,47.85
+1903,Bangka Belitung,Bangka Barat,71.52,42.16,35.53,27.71,41.41,46.41
+1905,Bangka Belitung,Bangka Selatan,64.51,35.49,29.83,28.57,35.74,39.08
+1904,Bangka Belitung,Bangka Tengah,73.88,42.12,39.34,28.73,50.78,46.89
+1902,Bangka Belitung,Belitung,73.03,45.13,37.1,36.89,37.81,50.44
+1906,Bangka Belitung,Belitung Timur,76.76,46.81,39.09,36.65,54.72,50.44
+1971,Bangka Belitung,Pangkalpinang,76.99,57.63,44.78,47.77,47.43,58.6
+3602,Banten,Lebak,63.36,35.66,29.28,26.1,29.49,39.56
+3601,Banten,Pandeglang,62.58,37.04,30.22,21.63,21.93,38.83
+3604,Banten,Serang,62.96,37.46,29.84,22.79,25.7,38.58
+3603,Banten,Tangerang,66.1,46.85,36.01,29.58,31.99,45.08
+3672,Banten,Cilegon,64.81,40.88,29.02,20.34,20.98,38.43
+3673,Banten,Serang,65.6,42.19,31.84,19.99,25.79,40.42
+3671,Banten,Tangerang,70.84,54.61,39.77,31.32,37.5,48.85
+3674,Banten,Tangerang Selatan,76.54,66.7,47.2,48.02,48.59,56.29
+1701,Bengkulu,Bengkulu Selatan,63.16,39.18,30.24,31.59,37.72,40
+1709,Bengkulu,Bengkulu Tengah,65.54,36.01,26.52,29.55,36.04,36.65
+1703,Bengkulu,Bengkulu Utara,67.56,38,31.06,20.37,35.51,44.06
+1704,Bengkulu,Kaur,65.67,37.96,28.67,29.42,32.51,35.95
+1708,Bengkulu,Kepahiang,62.44,35.65,27.71,15.42,17.45,38.6
+1707,Bengkulu,Lebong,71.13,40.13,29.16,38.56,33.54,40.55
+1706,Bengkulu,Muko-muko,64.96,38.28,26.58,22.58,21.89,36.78
+1702,Bengkulu,Rejang Lebong,66.17,40.69,32.01,19.88,27.04,41.8
+1705,Bengkulu,Seluma,59.8,31.63,22.17,20.14,20.86,30.26
+1771,Bengkulu,Bengkulu,69.79,45.94,36.71,37.92,38.56,48.21
+3402,D.I. Yogyakarta,Bantul,78.05,52.45,42.03,44.57,47.03,53.43
+3403,D.I. Yogyakarta,Gunung Kidul,80.64,53.42,44.25,29.65,50.77,56.93
+3401,D.I. Yogyakarta,Kulon Progo,79.06,51.83,43.65,37.8,35.96,57.21
+3404,D.I. Yogyakarta,Sleman,76.69,56.05,43.37,39.89,39.93,52.99
+3471,D.I. Yogyakarta,Yogyakarta,77.43,62.14,47.96,47.44,49.23,55.51
+3174,D.K.I. Jakarta,Jakarta Barat,78.16,69.35,54.17,52.45,48.41,55.42
+3173,D.K.I. Jakarta,Jakarta Pusat,77.83,65.21,50.48,47.43,50.99,56.62
+3171,D.K.I. Jakarta,Jakarta Selatan,76.53,67.76,47.01,45.64,43.44,55.23
+3172,D.K.I. Jakarta,Jakarta Timur,75.43,61.56,45.75,44.17,49.54,54.27
+3175,D.K.I. Jakarta,Jakarta Utara,76.13,68.79,52.8,48.3,47.8,51.9
+7501,Gorontalo,Boalemo,63.18,34.08,30.09,27.08,27.48,40.33
+7504,Gorontalo,Bone Bolango,65.98,44.63,34.39,34.65,39.77,42.55
+7502,Gorontalo,Gorontalo,63.96,34.94,29.92,34.16,29.72,40.11
+7505,Gorontalo,Gorontalo Utara,60.37,41.02,26.64,25.15,38.32,34.57
+7503,Gorontalo,Pohuwato,63.51,40.3,34.99,33.12,39.51,46.22
+7502,Gorontalo,Gorontalo,63.2,42.73,38.62,25.77,32.47,47.6
+1504,Jambi,Batang Hari,65.63,36.09,29.8,20.69,23.33,43.02
+1509,Jambi,Bungo,61.61,37.27,29.2,20.31,20.85,38.76
+1501,Jambi,Kerinci,59.46,36,23.84,22.5,23.1,32.35
+1502,Jambi,Merangin,61.85,40.02,32.16,20.37,33.03,44.93
+1505,Jambi,Muaro Jambi,64.38,37.31,32.12,32.66,32.78,40.94
+1503,Jambi,Sarolangun,62.04,37.02,29.69,27.79,30.38,37.15
+1507,Jambi,Tanjung Jabung Barat,64.12,40.22,30.95,21.23,24.77,39.45
+1506,Jambi,Tanjung Jabung Timur,63.18,46.64,38.81,44.23,38.93,45.36
+1508,Jambi,Tebo,67.03,41.67,34.05,29.31,32.32,43.58
+1571,Jambi,Jambi,70.49,52.77,44.09,37.54,45.86,49.38
+1572,Jambi,Sungai Penuh,61.55,35.7,31.46,25.05,24.07,38.07
+3204,Jawa Barat,Bandung,66,41.62,32.81,23.95,31.64,43.83
+3217,Jawa Barat,Bandung Barat,68.37,46.43,35.17,30.84,36.99,44.25
+3216,Jawa Barat,Bekasi,66.49,45.38,35.08,30.31,32.39,42.34
+3201,Jawa Barat,Bogor,68.88,47.77,35.32,30.55,35.03,45.9
+3207,Jawa Barat,Ciamis,70.77,42.18,33.51,34.14,35.14,45.54
+3203,Jawa Barat,Cianjur,65.49,42.62,33.68,18.82,25.55,43.59
+3209,Jawa Barat,Cirebon,65.09,38.48,31.01,25.26,29.04,40.92
+3205,Jawa Barat,Garut,59.49,34.2,25.08,16.17,20.61,32.21
+3212,Jawa Barat,Indramayu,62.87,37.05,30.47,20.66,23.66,41.27
+3215,Jawa Barat,Karawang,65.06,40.59,31.99,30.27,34.49,41.66
+3208,Jawa Barat,Kuningan,70.47,43.32,34.48,36.8,46.33,44.46
+3210,Jawa Barat,Majalengka,70.34,41.7,32.57,30.51,32.68,46.19
+3218,Jawa Barat,Pangandaran,66.86,37.92,30.7,41.68,40.33,37.6
+3214,Jawa Barat,Purwakarta,66.55,40.96,31.88,35.48,32.22,43.16
+3213,Jawa Barat,Subang,66.37,41.2,33.17,32.04,37.28,43.71
+3202,Jawa Barat,Sukabumi,67.03,43.85,37.35,27.59,36.76,45.49
+3211,Jawa Barat,Sumedang,68.85,43,33,34.06,42.21,46.4
+3206,Jawa Barat,Tasikmalaya,66.98,43.09,35.54,28.19,27.11,45.82
+3273,Jawa Barat,Bandung,73.04,57.02,42.12,38.25,42.31,50.37
+6303,Jawa Barat,Banjar,69.3,41.31,34.06,26.1,20.46,45.87
+3275,Jawa Barat,Bekasi,74.08,58.58,42,40.7,46.06,53.29
+3271,Jawa Barat,Bogor,72.81,57.27,41.98,37.9,44.42,52.84
+3277,Jawa Barat,Cimahi,71.73,50.64,38.07,36.04,40.81,49.89
+3274,Jawa Barat,Cirebon,74.84,56.08,42.86,46.08,47.84,52.11
+3276,Jawa Barat,Depok,75.28,59.83,41.51,43.51,46.85,53.72
+3272,Jawa Barat,Sukabumi,72.73,54.37,39.87,38.86,42.04,50.9
+3278,Jawa Barat,Tasikmalaya,66.63,46.09,36.75,32.28,37.59,44.57
+3304,Jawa Tengah,Banjarnegara,76.93,51.03,39.17,46.19,48.41,55.42
+3302,Jawa Tengah,Banyumas,78.88,54.65,45.7,45.64,51.55,55.2
+3325,Jawa Tengah,Batang,67.1,46.1,32.75,26.94,29.34,47.95
+3316,Jawa Tengah,Blora,71.24,43.75,38.45,35.86,41.79,47.99
+3309,Jawa Tengah,Boyolali,76.41,47.34,40.38,37.25,44.22,53.62
+3329,Jawa Tengah,Brebes,68.46,40.61,30.91,28.27,34.76,41.55
+3301,Jawa Tengah,Cilacap,75.42,46.92,40.01,42.46,45.37,52.08
+3321,Jawa Tengah,Demak,63.17,42.61,31.59,9.76,14.93,43.06
+3315,Jawa Tengah,Grobogan,68.97,41.62,32.92,29.33,29.96,46.58
+3320,Jawa Tengah,Jepara,73.74,45.98,37.1,40.62,44.58,52.72
+3313,Jawa Tengah,Karanganyar,79.09,54.02,45.46,50.14,53.05,57.72
+3305,Jawa Tengah,Kebumen,77.02,51.38,44.12,46.71,46.9,55.16
+3324,Jawa Tengah,Kendal,71.15,46.26,37.21,41.43,37.17,49.73
+3310,Jawa Tengah,Klaten,75.52,52.37,41.71,43.63,47.02,56.04
+3319,Jawa Tengah,Kudus,76.66,55.83,44.57,45.67,55.95,57.6
+3308,Jawa Tengah,Magelang,80.78,59.2,51.08,51.21,55.57,62.53
+3318,Jawa Tengah,Pati,73.04,48.24,41.07,38.2,40.28,53.11
+3326,Jawa Tengah,Pekalongan,72.16,46.08,34.05,27.23,33.75,48.58
+3327,Jawa Tengah,Pemalang,70.02,42.69,35.43,32.14,36.71,46.94
+3303,Jawa Tengah,Purbalingga,80.43,51.73,45.49,41.21,48.25,59.23
+3306,Jawa Tengah,Purworejo,79.6,54.08,45.22,39.09,43.46,58.33
+3317,Jawa Tengah,Rembang,76.77,51.56,42.39,43.1,45.15,51.94
+3322,Jawa Tengah,Semarang,75.45,51.65,40.22,35.04,45.52,52.56
+3314,Jawa Tengah,Sragen,75.43,49.88,40.55,42.97,34.38,56.56
+3311,Jawa Tengah,Sukoharjo,76.17,52.69,43.22,36,43.27,52.7
+3328,Jawa Tengah,Tegal,70.28,43.93,31.99,28.44,34.24,45.28
+3323,Jawa Tengah,Temanggung,74.65,53.92,40.82,41.28,35.73,55.38
+3312,Jawa Tengah,Wonogiri,77.59,53.42,42.85,45.46,42.66,56.98
+3307,Jawa Tengah,Wonosobo,76.76,48.53,40.96,35.28,37.31,54.97
+3371,Jawa Tengah,Magelang,81.04,62.41,50.61,48.38,56.78,62.92
+3375,Jawa Tengah,Pekalongan,78.64,59.71,49.84,47.45,61.72,64.59
+3373,Jawa Tengah,Salatiga,77.25,66.65,45.94,41.12,49.15,56.78
+3374,Jawa Tengah,Semarang,76.81,60.51,44.53,40.39,46.15,54.46
+3372,Jawa Tengah,Surakarta,80.35,62.27,53.96,52.56,57.06,62.08
+3376,Jawa Tengah,Tegal,74.78,52.4,45.62,43.37,46.76,56.81
+3526,Jawa Timur,Bangkalan,57.02,36.05,31.74,25.06,27.49,39.82
+3510,Jawa Timur,Banyuwangi,67.69,43.12,35.21,27.43,31.39,46.16
+3505,Jawa Timur,Blitar,73.1,47.72,37.83,34.2,37.51,52.58
+3522,Jawa Timur,Bojonegoro,68.49,42.56,35.04,24.86,29.41,47.89
+3511,Jawa Timur,Bondowoso,62.79,38.17,31.56,24.06,27.92,43.76
+3525,Jawa Timur,Gresik,67.72,43.87,36.63,24.4,29.78,51.13
+3509,Jawa Timur,Jember,67.48,42.11,34.85,26.75,31.16,46.25
+3517,Jawa Timur,Jombang,72.92,49.03,39.48,31.36,37.51,53.6
+3506,Jawa Timur,Kediri,73.03,45.04,36.13,35.95,37.21,49.03
+3524,Jawa Timur,Lamongan,64.92,39.39,32.53,16.52,27.06,45.6
+3508,Jawa Timur,Lumajang,71.31,45.48,37.96,37.45,46.18,49.65
+3519,Jawa Timur,Madiun,75.01,50.75,41.13,43.43,44.56,54.42
+3520,Jawa Timur,Magetan,70.8,47.52,37.42,33.89,45.34,53.6
+3507,Jawa Timur,Malang,72.64,45.86,36.18,31.57,36.59,48.57
+3516,Jawa Timur,Mojokerto,72.56,49.27,39.13,34.25,38.97,52.75
+3518,Jawa Timur,Nganjuk,71.63,44.95,36.84,40.98,40.25,50.52
+3521,Jawa Timur,Ngawi,72.51,45.41,35.2,33.81,36.75,51.03
+3501,Jawa Timur,Pacitan,74.41,47.05,35.74,41.46,41.43,51.42
+3528,Jawa Timur,Pamekasan,54.91,35.99,32.67,22.11,20.06,40.22
+3514,Jawa Timur,Pasuruan,70.6,46.77,35.62,30.05,31.09,49.59
+3502,Jawa Timur,Ponorogo,74.51,49.61,37.14,37.57,40.34,53.77
+3513,Jawa Timur,Probolinggo,67.63,42.31,34.76,26.13,28.75,47.62
+3527,Jawa Timur,Sampang,55.91,33.06,30.54,16.69,17.29,39.31
+3515,Jawa Timur,Sidoarjo,71.91,52.55,40.56,36.19,43.59,54.52
+3529,Jawa Timur,Sumenep,63.37,38,34.78,19.38,23.05,43.79
+3503,Jawa Timur,Trenggalek,75.44,50.97,37.55,27.71,49.54,56.54
+3523,Jawa Timur,Tuban,69.57,42.52,34.96,27.43,25.38,45.71
+3504,Jawa Timur,Tulungagung,73.94,51.85,40.21,36.76,49.14,54.9
+3579,Jawa Timur,Batu,76.58,50.54,39.52,39.62,48.88,51.59
+3572,Jawa Timur,Blitar,74.21,50.83,41.05,35.73,38.09,50.76
+3571,Jawa Timur,Kediri,74.56,52.92,42.75,38.62,48.52,53.07
+3577,Jawa Timur,Madiun,75.16,54.29,40.31,36.57,45.91,53.42
+3573,Jawa Timur,Malang,77.41,60.75,48.72,42.6,48.95,55
+3576,Jawa Timur,Mojokerto,72.53,49.35,40.33,36.95,43.86,49.43
+3575,Jawa Timur,Pasuruan,71.94,51.01,41.52,34.75,36.87,52.25
+3578,Jawa Timur,Surabaya,73.39,58.5,43.33,38.97,40.37,52.03
+6102,Kalimantan Barat,Bengkayang,61.79,33.7,23.75,20.62,27.29,32.07
+6108,Kalimantan Barat,Kapuas Hulu,65.67,34.95,25.44,24.53,22.59,37.54
+6111,Kalimantan Barat,Kayong Utara,67.06,35.69,26.33,27.93,34.57,38.42
+6106,Kalimantan Barat,Ketapang,66.04,37.71,28.91,27.18,32.45,36.91
+6112,Kalimantan Barat,Kuburaya,65.73,40.19,30.07,26.2,29.17,38.95
+6103,Kalimantan Barat,Landak,61.96,30.29,23.86,18.39,19.19,32.45
+6110,Kalimantan Barat,Melawi,61.95,31.83,23.66,24.04,17.83,34.73
+6104,Kalimantan Barat,Mempawah,62.98,38.43,27.21,20.27,31.9,36.07
+6101,Kalimantan Barat,Sambas,71.26,41.52,32.61,35.67,40.16,41.36
+6109,Kalimantan Barat,Sekadau,68.07,45.91,36.2,19.46,26.06,43.53
+6171,Kalimantan Barat,Pontianak,70.96,50.15,38.41,38.51,39.35,46.99
+6172,Kalimantan Barat,Singkawang,70.22,41.51,32.32,22.8,34.08,43.33
+6311,Kalimantan Selatan,Balangan,66.12,44.36,29.12,20.97,27.44,39.77
+6303,Kalimantan Selatan,Banjar,71.4,48.48,32.67,31.34,27.42,38.86
+6304,Kalimantan Selatan,Barito Kuala,69.8,47.87,33.53,23.06,29.14,40.6
+6306,Kalimantan Selatan,Hulu Sungai Selatan,70.93,50.19,34.5,32.12,37.12,39.41
+6309,Kalimantan Selatan,Tabalong,70.59,46.81,31.59,26.6,37.22,39.25
+6310,Kalimantan Selatan,Tanah Bumbu,69.07,46.33,30,28.03,33.17,41.17
+6301,Kalimantan Selatan,Tanah Laut,70.1,43.18,31.02,27.21,22.53,39.07
+6372,Kalimantan Selatan,Banjarbaru,72.51,56.94,36.74,25.3,36.34,46.21
+6371,Kalimantan Selatan,Banjarmasin,70.03,52.44,34.83,32.19,36.82,42.66
+6204,Kalimantan Tengah,Barito Selatan,70.31,52.88,52.09,25.36,28.09,48.33
+6212,Kalimantan Tengah,Barito Timur,63.59,43.01,31.56,34.18,32.89,42.89
+6205,Kalimantan Tengah,Barito Utara,65.86,46,34.11,11.04,10.28,40.13
+6211,Kalimantan Tengah,Gunung Mas,60.27,47.53,40.86,25.5,16.79,37.11
+6203,Kalimantan Tengah,Kapuas,66.93,50.32,44.7,18.24,17.45,48.79
+6209,Kalimantan Tengah,Katingan,63.6,43.57,34.02,15.03,17.89,34.7
+6202,Kalimantan Tengah,Kotawaringin Timur,67.47,42.35,32.58,29.8,32.57,40.93
+6207,Kalimantan Tengah,Lamandau,63.04,42.6,34.55,13.37,30.37,31.46
+6213,Kalimantan Tengah,Murung Raya,64.61,46.21,38.2,21.54,25.39,44.59
+6210,Kalimantan Tengah,Pulang Pisau,64.33,47.78,42.64,22.21,29.92,43.45
+6208,Kalimantan Tengah,Seruyan,66.31,37.05,26.47,16.34,26.57,33.88
+6271,Kalimantan Tengah,Palangka Raya,61.95,42.54,28.94,16.01,18.53,38.4
+6405,Kalimantan Timur,Berau,66.59,47.22,33.18,29.35,32.78,34.63
+6402,Kalimantan Timur,Kutai Barat,67.09,49.55,34.51,22.86,27.62,40.8
+6403,Kalimantan Timur,Kutai Kartanegara,64.35,52.39,46.6,25.89,30.94,48.14
+6404,Kalimantan Timur,Kutai Timur,69.76,51.11,37.72,28.99,27.7,42.81
+6401,Kalimantan Timur,Paser,68.51,48.5,30.5,30.22,35.66,35.63
+6409,Kalimantan Timur,Penajam Paser Utara,76.78,55.66,38.56,41.13,39.88,45.83
+6471,Kalimantan Timur,Balikpapan,73.98,62.19,39.41,35.95,47.45,48.34
+6474,Kalimantan Timur,Bontang,75.1,62.04,46.8,38.16,44.77,54.52
+6472,Kalimantan Timur,Samarinda,70.19,56.28,36.36,39.27,42.35,42.64
+6502,Kalimantan Utara,Bulungan,63.7,39.63,30.71,21.23,28.57,37.11
+6501,Kalimantan Utara,Malinau,61.78,37.58,26.07,20.07,24.91,33.46
+6504,Kalimantan Utara,Nunukan,64.22,43.69,33.34,31.49,37.94,41.29
+6571,Kalimantan Utara,Tarakan,69.84,47.21,33.84,33.93,40.62,44.83
+2102,Kepulauan Riau,Bintan,70.05,49.72,39.18,33.71,48.35,49.28
+2101,Kepulauan Riau,Karimun,67.21,51.87,38.36,38.35,42.53,43.56
+2171,Kepulauan Riau,Batam,74.6,64.93,53.29,43.79,40.27,53.01
+2172,Kepulauan Riau,Tanjungpinang,76.96,62.55,45.65,40.34,55.37,53.69
+1803,Lampung,Lampung Selatan,65.69,41.82,32.03,18.31,26.68,42.21
+1805,Lampung,Lampung Tengah,64.56,39.67,29.33,24.53,22.97,40.42
+1804,Lampung,Lampung Timur,62.77,38.57,27.09,19.43,26.18,38.68
+1806,Lampung,Lampung Utara,61.12,35.76,26.41,17.08,23.61,36.45
+1810,Lampung,Pringsewu,71.25,42.62,34.67,30.83,32.12,48.05
+1802,Lampung,Tanggamus,63.31,34.27,29.68,22.63,26.01,38.59
+1808,Lampung,Tulang Bawang,61.6,34.32,27.23,15.28,22.39,37.55
+1807,Lampung,Way Kanan,62.55,35.44,31.55,29.09,29.77,39.67
+1871,Lampung,Bandar Lampung,67.33,52.57,39.67,30.47,34.74,50.42
+1872,Lampung,Metro,69.92,46.52,36.81,31.67,39.22,47.12
+8109,Maluku,Buru Selatan,61.67,66.75,46.75,28.77,52.65,55.14
+8103,Maluku,Maluku Tengah,58.61,58.76,53.8,30.41,45.58,58.12
+8102,Maluku,Maluku Tenggara,47.5,33.21,23.2,20.21,24.33,31.24
+8101,Maluku,Maluku Tenggara Barat,46.33,33.63,19.76,22.12,18.56,31.25
+8106,Maluku,Seram Bagian Barat,61.33,62.32,53.9,29.18,38.27,60.03
+8171,Maluku,Ambon,56.89,55.54,46.99,32.84,48.1,51.39
+8201,Maluku Utara,Halmahera Barat,50.35,44.28,34.26,16.93,19.05,39.47
+8204,Maluku Utara,Halmahera Selatan,53.43,51.41,39.62,27.15,21.45,44.71
+8202,Maluku Utara,Halmahera Tengah,58.26,49.58,42.27,24.01,25.45,39.11
+8206,Maluku Utara,Halmahera Timur,56.96,52.39,37.29,15.53,21.27,45.39
+8205,Maluku Utara,halmahera Utara,46.81,42.42,27.9,16.16,15.2,32.8
+8207,Maluku Utara,Kepulauan Morotai,52.01,51.62,33.73,12.75,13.1,49.13
+8203,Maluku Utara,Kepulauan Sula,65.27,58.47,55.61,17.21,29.9,55.25
+8271,Maluku Utara,Ternate,53.83,40,29.22,20.75,29.86,36.14
+8272,Maluku Utara,Tidore Kepulauan,61.14,55.89,54.18,13.31,35.24,50.34
+5206,Nusa Tenggara Barat,Bima,47.31,37.07,27.33,20.73,20.49,28.38
+5205,Nusa Tenggara Barat,Dompu,46.66,36.1,24.95,19.92,21.41,25.66
+5201,Nusa Tenggara Barat,Lombok Barat,60.64,41.02,27.87,21.1,21.3,32.62
+5202,Nusa Tenggara Barat,Lombok Tengah,58.49,40.31,28.64,23.53,21.41,37.23
+5203,Nusa Tenggara Barat,Lombok Timur,61.91,38.58,30.42,27.99,29.21,32.96
+5208,Nusa Tenggara Barat,Lombok Utara,60.94,38.8,26.51,27.08,25.92,33.55
+5204,Nusa Tenggara Barat,Sumbawa,63.92,44.91,29.55,27.78,36.62,38.53
+5207,Nusa Tenggara Barat,Sumbawa Barat,67.16,46.34,31.74,30.44,44.97,41.72
+5272,Nusa Tenggara Barat,Bima,46.62,30.83,27.08,21.27,22.96,31.45
+5271,Nusa Tenggara Barat,Mataram,68.15,53.07,36.16,37.53,35.45,43.3
+5307,Nusa Tenggara Timur,Alor,52.52,37.92,25.43,21.32,20.83,39.26
+5306,Nusa Tenggara Timur,Belu,56.91,36.04,26.92,19.62,31.84,34.22
+5311,Nusa Tenggara Timur,Ende,62.11,37.37,25.66,26.66,25.97,39.55
+5309,Nusa Tenggara Timur,Flores Timur,63,39.64,26.98,29.85,37.05,39.29
+5303,Nusa Tenggara Timur,Kupang,51.57,40.82,26.68,25.99,26.01,40.88
+5313,Nusa Tenggara Timur,Manggarai,60.58,46.17,35.33,30.66,38.17,41.05
+5315,Nusa Tenggara Timur,Manggarai Barat,61.39,48.52,39.57,30.56,35.63,46.53
+5319,Nusa Tenggara Timur,Manggarai Timur,62.62,50.62,40.27,29,35.76,44.35
+5318,Nusa Tenggara Timur,Nagakeo,63.99,39.25,27.49,30.41,37.01,40.01
+5314,Nusa Tenggara Timur,Rote-Ndao,58.84,41.42,29.24,31.83,21.42,40.2
+5310,Nusa Tenggara Timur,Sikka,63.92,40.79,27.96,31.45,32.83,43.07
+5301,Nusa Tenggara Timur,Sumba Barat,53.52,35.84,22.61,29.29,36.14,33.08
+5316,Nusa Tenggara Timur,Sumba Tengah,53.05,30.94,21.91,27.81,30.81,33.57
+5302,Nusa Tenggara Timur,Sumba Timur,57.8,38.84,24.29,31.46,35.02,35.97
+5304,Nusa Tenggara Timur,Timor Tengah Selatan,55.58,52,45.06,36.61,33.97,50.67
+5371,Nusa Tenggara Timur,Kupang,58.58,43.2,29.95,25.08,26.8,40.59
+9409,Papua,Biak Numfor,49.12,37.23,29.82,19.75,19.06,35.02
+9408,Papua,Kepulauan Yapen,47.6,34.55,24.43,12.36,20.68,40.05
+9412,Papua,Mimika,53.05,39.54,26.34,33.8,33.53,33.56
+9404,Papua,Nabire,54.62,40.1,26.41,20.36,20.91,36.24
+9403,Papua,Jayapura,58.1,42.84,30.28,28.41,26.07,38.26
+9107,Papua Barat,Sorong,62.55,57.05,51.32,25.86,24.98,55.03
+1408,Riau,Bengkalis,66.54,42.99,34.05,22.54,28.3,42.35
+1403,Riau,Indragiri Hilir,66.85,46.6,41.06,29.49,35.93,44.28
+1402,Riau,Indragiri Hulu,68.05,40.21,29.5,29.84,35.22,40.74
+1406,Riau,Kampar,64.68,42.39,28.85,19.37,21.94,37.78
+1410,Riau,Kepulauan Meranti,65.79,38.97,31.61,29.38,25.56,40.68
+1401,Riau,Kuantan Singingi,68.24,41.97,29.27,22.7,28.04,39.14
+1404,Riau,Pelalawan,70.14,48.71,35.62,28.56,30.29,44.47
+1409,Riau,Rokan Hilir,64.02,40.3,32.23,24.51,25.85,38.76
+1407,Riau,Rokan Hulu,67.7,39.78,36.12,26.49,30.98,44.81
+1405,Riau,Siak,67.91,42.57,36.54,25.58,34,41.25
+1473,Riau,Dumai,72.91,48.54,38.01,34.31,41.97,47.35
+1471,Riau,Pekanbaru,73.69,55.67,43.59,37.64,47.5,50.92
+7601,Sulawesi Barat,Majene,62.54,41.21,29.43,33.24,45.3,36.62
+7603,Sulawesi Barat,Mamasa,62.3,46.63,33.89,12.13,11.55,35.81
+7604,Sulawesi Barat,Mamuju,56.07,39.74,25.67,8.19,7.93,32.75
+7606,Sulawesi Barat,Mamuju Tengah,58.15,36.09,25.31,8.41,5.46,30.17
+7605,Sulawesi Barat,Mamuju Utara,56.6,39.41,24.78,15.23,27.55,31.74
+7602,Sulawesi Barat,Polewali Mandar,59.63,36.46,28.32,26.27,33.89,35.54
+7303,Sulawesi Selatan,Bantaeng,57.69,47.52,32.91,28.13,38.35,38.1
+7310,Sulawesi Selatan,Barru,67.56,44.25,33.65,29.37,29.58,44.75
+7311,Sulawesi Selatan,Bone,72.34,76.25,72.52,22.41,49.71,62.05
+7302,Sulawesi Selatan,Bulukumba,54.89,56.41,44.5,31.69,41.16,60.5
+7316,Sulawesi Selatan,Enrekang,61.11,73.78,43.29,44.4,44.87,74.98
+7306,Sulawesi Selatan,Gowa,52.91,43.45,29.45,22.36,21.93,38.4
+7304,Sulawesi Selatan,Jeneponto,56.27,52.81,34.91,23.29,23.64,40.88
+7301,Sulawesi Selatan,Kepulauan Selayar,66.64,53.44,35.97,20.74,33.26,43.41
+7317,Sulawesi Selatan,Luwu,54.53,43.05,29.5,24.74,27.13,40.15
+7325,Sulawesi Selatan,Luwu Timur,63.69,53.21,33.47,29.37,42.65,56.76
+7322,Sulawesi Selatan,Luwu Utara,60.14,42.41,36.86,26.44,31.2,40.74
+7308,Sulawesi Selatan,Maros,56.3,52.4,33.74,19.32,22.66,49.56
+7309,Sulawesi Selatan,Pangkajene Kepulauan,66.75,50.75,36.35,24,27.51,37.11
+7315,Sulawesi Selatan,Pinrang,58.47,48.51,35.81,30.43,32.14,46.98
+7314,Sulawesi Selatan,Sidenreng Rappang,59.76,59.31,40.57,17.5,27.88,64.94
+7307,Sulawesi Selatan,Sinjai,60.95,68.51,51.73,35.58,24.42,72.12
+7312,Sulawesi Selatan,Soppeng,67.66,62.99,52.7,28.86,39.49,64.73
+7305,Sulawesi Selatan,Takalar,50.38,45.59,27.47,14.08,25.92,38.8
+7318,Sulawesi Selatan,Tana Toraja,66,46.48,36.73,31.46,30.66,41.38
+7326,Sulawesi Selatan,Toraja Utara,62.21,45.6,34.57,24.82,27.18,41.97
+7313,Sulawesi Selatan,Wajo,63.69,53.16,43.99,30.66,27.48,49.46
+7371,Sulawesi Selatan,Makassar,55.78,49.89,32.34,18.66,20.79,40.06
+7373,Sulawesi Selatan,Palopo,58.99,43.68,34.09,28.53,33.39,37.75
+7372,Sulawesi Selatan,Parepare,62.37,50.37,47.12,28.81,38.09,51.2
+7202,Sulawesi Tengah,Banggai,63.57,52.62,32.88,21.92,31.8,42.21
+7201,Sulawesi Tengah,Banggai Kepulauan,67.25,55.3,39.86,24.13,33.04,49.4
+7207,Sulawesi Tengah,Buol,57.6,40.08,24.62,22.68,29.46,30.63
+7205,Sulawesi Tengah,Donggala,59.91,41.02,24.44,23.24,31.83,32.66
+7203,Sulawesi Tengah,Morowali,64.38,55.22,38.23,32.47,32.57,43.3
+7212,Sulawesi Tengah,Morowali Utara,65.41,44.97,25.93,26.28,17.63,36.73
+7208,Sulawesi Tengah,Parigi Moutong,62.52,43.13,31.21,24.06,37.12,37.19
+7204,Sulawesi Tengah,Poso,68.54,51.43,33.61,31.29,42.68,37.25
+7210,Sulawesi Tengah,Sigi,55.73,41.73,24.45,21.57,22.1,30.15
+7209,Sulawesi Tengah,Tojo Una-Una,59.97,43.55,32.74,14.4,20.66,35.93
+7206,Sulawesi Tengah,Tolitoli,61.97,45.63,27.36,25.56,33.88,37.91
+7271,Sulawesi Tengah,Palu,64.74,49.15,31.84,29.49,34.6,37.87
+7406,Sulawesi Tenggara,Bombana,66.96,69.8,73.01,56.05,61.06,68.44
+7409,Sulawesi Tenggara,Buton Utara,74.57,70.79,73.71,65.14,66.64,54.69
+7404,Sulawesi Tenggara,Kolaka,59.9,56.23,34.49,40.66,49.59,50.31
+7411,Sulawesi Tenggara,Kolaka Timur,68.17,65.63,66.1,50.44,34.24,50.43
+7403,Sulawesi Tenggara,Konawe,59.3,59.9,51.42,39.23,37.19,54.14
+7405,Sulawesi Tenggara,Konawe Selatan,68.97,59.74,56.34,52.79,48.91,59.93
+7410,Sulawesi Tenggara,Konawe Utara,68.04,63.75,56.8,41.84,51.47,46.06
+7402,Sulawesi Tenggara,Muna,67.02,68.47,66.55,49.69,59.83,59.18
+7413,Sulawesi Tenggara,Muna Barat,68.2,65.17,56.27,47.28,59.31,58.19
+7407,Sulawesi Tenggara,Wakatobi,64.02,69.75,66.16,41.48,50.25,66.19
+7472,Sulawesi Tenggara,Baubau,58.17,67.42,68.2,45.37,42.03,66.57
+7471,Sulawesi Tenggara,Kendari,59.59,60.12,56.3,37.52,43.11,55.84
+7101,Sulawesi Utara,Bolaang Mongondow,56,48.61,32.11,19.32,28.52,36.31
+7103,Sulawesi Utara,Kep. Sangihe,60.64,50.82,40.56,19.68,19.79,42.85
+7104,Sulawesi Utara,Kepulauan Talaud,65.66,56.33,49.7,30.53,31.51,46.23
+7102,Sulawesi Utara,Minahasa,60.52,55.03,35.63,14.74,18.38,37.65
+7105,Sulawesi Utara,Minahasa Selatan,56.88,57.92,39.85,29.41,19.14,39.81
+7109,Sulawesi Utara,Minahasa Tenggara,54.48,47.14,31.98,7.92,3.06,37.95
+7106,Sulawesi Utara,Minahasa Utara,57,50.87,31.21,21.97,22.37,35.9
+7172,Sulawesi Utara,Bitung,53.2,40.88,26.93,21.09,16.78,31.98
+7174,Sulawesi Utara,Kotamobagu,55.85,42.67,24.51,21.4,19.3,32.26
+7171,Sulawesi Utara,Manado,57.84,51.31,31.56,22.45,22.09,33.8
+7173,Sulawesi Utara,Tomohon,67.65,61.2,38.55,25.62,16.63,44.12
+1307,Sumatera Barat,Agam,77.85,50.9,43.31,43.09,51.14,52.83
+1311,Sumatera Barat,Dharmasraya,71.96,43.48,33.85,32.86,35.61,46.77
+1301,Sumatera Barat,Kepulauan Mentawai,56.5,33.65,23.14,24.39,25.83,29.18
+1308,Sumatera Barat,Lima Puluh Koto,71.75,52.62,50.55,45.79,42.77,47.31
+1306,Sumatera Barat,Padang Pariaman,67,48.03,43.68,42.41,46.27,48.96
+1309,Sumatera Barat,Pasaman,69.92,60.85,64.3,46.92,45.49,54.17
+1312,Sumatera Barat,Pasaman Barat,71.63,47.87,45.2,46.34,44.26,51.73
+1302,Sumatera Barat,Pesisir Selatan,63.55,58.28,52.98,55.68,49.65,52.61
+1304,Sumatera Barat,Sijunjung,76.53,45.74,38.42,35.38,53.46,50.28
+1303,Sumatera Barat,Solok,69.4,48.01,43.6,36.29,33.22,49.13
+1310,Sumatera Barat,Solok Selatan,66.81,59.84,60.53,51.16,34.61,57.66
+1305,Sumatera Barat,Tanah Datar,74.41,52.86,46.73,52.62,59.37,54.18
+1375,Sumatera Barat,Bukittinggi,73.17,51.16,43.17,44.8,41.32,53.33
+1371,Sumatera Barat,Padang,67.44,58.07,55.1,43.68,37.57,53.72
+1374,Sumatera Barat,Padang Panjang,81.21,61.67,56.21,52.72,63.71,60.95
+1377,Sumatera Barat,Pariaman,69.12,52.45,51.12,47.25,39.66,55.25
+1376,Sumatera Barat,Payakumbuh,79.29,55.49,46.64,46.05,44.13,55.15
+1373,Sumatera Barat,Sawah Lunto,78.26,51.06,42.18,38.64,51.59,51.07
+1372,Sumatera Barat,Solok,71.28,53.68,48.09,54.86,40.08,51.95
+1607,Sumatera Selatan,Banyuasin,62.06,33.94,26.54,14.96,17.05,36.17
+1604,Sumatera Selatan,Lahat,61.19,35.84,26.64,22.64,22.13,36.56
+1603,Sumatera Selatan,Muara Enim,63.22,36.62,29.84,25.57,23.64,38.64
+1606,Sumatera Selatan,Musi Banyuasin,60.34,33.38,25,12.43,13.92,33.74
+1605,Sumatera Selatan,Musi Rawas,69.16,52.17,50.04,18.07,22.77,52.15
+1610,Sumatera Selatan,Ogan Ilir,59.9,33.92,26.42,18.26,23.04,34.86
+1602,Sumatera Selatan,Ogan Komering Ilir,60.6,35.44,31.21,22.75,26.51,35.65
+1601,Sumatera Selatan,Ogan Komering Ulu,62.06,37.15,29.63,25.14,29.19,40.65
+1608,Sumatera Selatan,Ogan Komering Ulu Selatan,60.39,38.18,31.81,18.61,25.82,32.53
+1609,Sumatera Selatan,Ogan Komering Ulu Timur,64.71,35.93,31.34,24.16,27.9,41.08
+1674,Sumatera Selatan,Lubuk Linggau,63.28,41.57,35.21,23.81,25.87,42.96
+1673,Sumatera Selatan,Pagar Alam,59.55,34.69,24.8,22.47,30.02,32.61
+1671,Sumatera Selatan,Palembang,66.46,44.96,34.71,27.23,30.8,43.94
+1672,Sumatera Selatan,Prabumulih,61.69,39.02,32.51,17.06,26.98,42.95
+1208,Sumatera Utara,Asahan,63.47,55.61,51.43,25.33,23.87,56.82
+1219,Sumatera Utara,Batubara,53.85,33.52,30.26,18.07,27.91,37.83
+1212,Sumatera Utara,Deli Serdang,66.79,62.05,60.21,21.46,18.38,59.75
+1211,Sumatera Utara,Karo,70.62,53.89,55.45,38.43,38.61,57.71
+1223,Sumatera Utara,Labuhan Batu Utara,63.98,43.65,36.69,34.83,42.91,43.45
+1202,Sumatera Utara,Mandailing Natal,58.61,33.67,31.19,28.37,22.51,35.78
+1220,Sumatera Utara,Padang Lawas utara,52.47,36.45,31.69,23.38,23.15,35.13
+1216,Sumatera Utara,Pakpak Bharat,74.34,72.23,78.26,67.25,64.12,70.86
+1218,Sumatera Utara,Serdang Bedagai,56.58,38.4,31.22,14.61,18.55,37.97
+1203,Sumatera Utara,Tapanuli Selatan,61.34,36.74,32.55,24.62,34.17,38.96
+1205,Sumatera Utara,Tapanuli Utara,61.98,48.19,45.57,43.37,41.05,53.29
+1206,Sumatera Utara,Toba Samosir,68.77,47.08,42,38.54,42.47,46.72
+1276,Sumatera Utara,Binjai,61.82,50.22,40.74,23.83,25.37,51
+1278,Sumatera Utara,Gunungsitoli,68.68,55.82,51.1,45.11,45.42,56.89
+1275,Sumatera Utara,Medan,67.42,54.67,46.13,36.02,34.16,51.16
+1277,Sumatera Utara,Padang Sidimpuan,60.49,41.51,31.9,22.45,29.23,40.65
+1273,Sumatera Utara,Pematangsiantar,70.23,57.54,49.16,38.01,34.58,55.99
+1274,Sumatera Utara,Tebing Tinggi,61.91,41.13,32.85,25.9,27.45,41.36
+1107,Aceh,Aceh Barat,55.13,38.92,33.76,21,20.29,30.16
+1112,Aceh,Aceh Barat Daya,58.14,31.92,29.73,16.65,21.68,37.62
+1108,Aceh,Aceh Besar,54.41,33.44,29.16,23.02,17.87,36.59
+1116,Aceh,Aceh Jaya,59.47,49.7,33.88,6.96,24.88,40.79
+1103,Aceh,Aceh Selatan,59.59,38.07,32.25,18.02,31.09,40.89
+1102,Aceh,Aceh Singkil,59.6,38.76,33.88,22.06,24.67,41.35
+1115,Aceh,Nagan Raya,51.64,29.71,28.74,15,18.22,34.23
+1101,Aceh,Simeulue,54.05,44.7,32.62,21.01,34.07,40.23
+1173,Aceh,Langsa,56.45,45.11,48.61,21.42,30.9,32.03
+1172,Aceh,Sabang,59.52,38.25,28.94,34.14,33.89,38.59
+1175,Aceh,Subulussalam,57.63,41.59,33.59,11.41,14.18,42.97
+3101,D.K.I. Jakarta,Kepulauan Seribu,65.5,33.76,28.27,37.81,30.5,38.77
+3512,Jawa Timur,Situbondo,64.38,40.5,35.02,40.44,34.72,43.26
+3574,Jawa Timur,Probolinggo,70,48.66,38.42,33.5,40.15,53.42
+6105,Kalimantan Barat,Sanggau,67.09,37.49,26.4,22.94,25.25,36.17
+6107,Kalimantan Barat,Sintang,67.21,37.36,28.15,22.45,26.23,34.99
+6307,Kalimantan Selatan,Hulu Sungai Tengah,69.8,51.09,39.04,30,19.09,46.53
+6308,Kalimantan Selatan,Hulu Sungai Utara,69.01,54.28,35.19,31.58,33.07,36.67
+6302,Kalimantan Selatan,Baru,66.95,43.96,32.87,18.81,19.27,37.81
+6305,Kalimantan Selatan,Tapin,68.95,51.77,32.85,35.66,36.07,40.26
+6201,Kalimantan Tengah,Kotawaringin Barat,67.64,41.65,27.67,26.39,31.24,40.49
+6206,Kalimantan Tengah,Sukamara,64.49,37.76,31.51,25.83,31.97,41.71
+6411,Kalimantan Timur,Mahakam Ulu,65.25,62.11,57.43,35.83,34.5,47.52
+2105,Kepulauan Riau,Kepulauan Anambas,64.7,37.82,25.46,21.88,35.35,37.82
+2104,Kepulauan Riau,Lingga,69.62,39.42,28.32,26.53,44.9,41.95
+2103,Kepulauan Riau,Natuna,66.88,39.75,30.39,28.97,32.77,39.19
+1801,Lampung,Lampung Barat,66.87,37.43,30.08,28.86,29.38,37.54
+1811,Lampung,Mesuji,60.48,32.96,27.14,17.99,15.58,34.68
+1809,Lampung,Pesawaran,63.11,33.69,28.96,23.55,29.39,40.7
+1813,Lampung,Pesisir Barat,61.91,31.69,24.45,26.6,20.91,31.97
+1812,Lampung,Tulang Bawang Barat,67.16,36.77,31.83,29.64,28.26,42
+8104,Maluku,Buru,65.57,68.43,65.13,35.44,47.08,60.17
+8105,Maluku,Kepulauan Aru,52.64,40.59,29.3,24.3,34.67,35.5
+8108,Maluku,Maluku Barat Daya,54.27,45.87,39.06,15.69,28.39,48.75
+8107,Maluku,Seram Bagian Timur,63.93,67.54,64.95,40.72,40.37,61.2
+8172,Maluku,Tual,50,35.76,26.91,19.15,30.65,35.52
+8208,Maluku Utara,Pulau Taliabu,56.44,49.55,45.55,0,22.05,47.81
+5308,Nusa Tenggara Timur,Lembata,62.33,42.67,24.68,24.32,37.38,40.58
+5321,Nusa Tenggara Timur,Malaka,47.67,34.53,21.35,20.68,21.1,30.38
+5312,Nusa Tenggara Timur,Ngada,69.46,44.75,34.7,38.59,41.75,46.04
+5320,Nusa Tenggara Timur,Sabu Raijua,51.96,32.98,21.57,31.22,29.39,36.56
+5317,Nusa Tenggara Timur,Sumba Barat Daya,51.65,46.61,26.79,31.21,32.26,43.88
+5305,Nusa Tenggara Timur,Timor Tengah Utara,57.35,39.88,25.62,20.02,25.96,35.72
+9415,Papua,Asmat,61.15,57.18,46.51,33.27,19.27,57.48
+9413,Papua,Boven Digoel,55.01,40.48,30.51,0,0,40.62
+9436,Papua,Deiyai,49.79,38.54,31.88,0,0,26.77
+9434,Papua,Dogiyai,69.11,60.67,56.11,0,0,55.28
+9402,Papua,Jaya Wijaya,54.95,52.91,53.8,32.83,37.74,39.31
+9403,Papua,Jayapura,48.25,35.56,26.71,21.44,24.29,33.21
+9420,Papua,Keerom,53.54,44.43,35.27,30.33,26.48,48.69
+9430,Papua,Lanny Jaya,45.91,61.29,44.28,63.25,73.03,73.33
+9414,Papua,Mappi,45.76,38.27,27.19,0,0,33.53
+9401,Papua,Merauke,58.79,42.57,30.79,16.43,24.69,39.07
+9410,Papua,Paniai,39.82,63.58,51.77,0,0,44.65
+9417,Papua,Pegunungan Bintang,52.39,52.42,35.81,48.31,37.08,50.54
+9433,Papua,Puncak,59.33,75.33,50.42,0,0,23.33
+9411,Papua,Puncak Jaya,44.33,30.11,18.89,23.33,20,37.31
+9419,Papua,Sarmi,58.9,46.61,43.35,41.38,52.81,40.85
+9427,Papua,Supiori,42.51,40.28,21.4,8.8,10,31.52
+9418,Papua,Tolikara,73.59,54.41,54.12,0,0,52.72
+9426,Papua,Waropen,44.69,29.78,19.94,12.09,22.13,29.45
+9416,Papua,Yahukimo,53.26,49.71,54.2,0,0,49.53
+9432,Papua,Yalimo,69.85,60.97,23.8,54.28,61.6,59.28
+9101,Papua Barat,Fak-Fak,62.52,51.04,54.43,27.91,48.3,59.57
+9102,Papua Barat,Kaimana,55.13,35.27,24.38,28.7,29.81,34.24
+9105,Papua Barat,Manokwari,58.74,50.64,37.77,18.13,13.98,47.99
+9111,Papua Barat,Manokwari Selatan,47.61,29.93,20.38,23.13,26.25,30
+9110,Papua Barat,Maybrat,59.02,61.58,37.79,15.16,15.83,47.61
+9108,Papua Barat,Raja Ampat,66.62,57.63,56.64,34.27,13.99,46.51
+9106,Papua Barat,Sorong Selatan,57.36,45.44,30.76,25.2,50.27,36.36
+9109,Papua Barat,Tambrauw,49.36,52.77,45.38,26.05,0,14.67
+9104,Papua Barat,Teluk Bintuni,60.03,52.09,50.39,38.76,38.14,55.7
+9103,Papua Barat,Teluk Wondama,56.71,48.46,48.23,47.4,52.67,40.92
+9171,Papua Barat,Sorong,53.98,48.47,38.11,24.25,30.54,39.95
+7211,Sulawesi Tengah,Banggai Laut,68.36,51.59,34.48,24.52,12.01,53.08
+7401,Sulawesi Tenggara,Buton,62.65,65.44,66.34,53.24,51,62.42
+7415,Sulawesi Tenggara,Buton Selatan,65.45,72.12,75.16,50.19,51.37,69.84
+7414,Sulawesi Tenggara,Buton Tengah,67.13,68.23,57.49,31.59,57.51,61.48
+7408,Sulawesi Tenggara,Kolaka Utara,59.04,65.77,63.48,51.77,47.6,67.83
+7412,Sulawesi Tenggara,Konawe Kepulauan,73.29,68.32,64.25,15.81,43.29,33.74
+7110,Sulawesi Utara,Bolaang Mongondow Selatan,58.49,42.09,29.19,24.08,33.33,42.15
+7111,Sulawesi Utara,Bolaang Mongondow Timur,60.26,37.97,30.61,11.25,25.31,34.78
+7107,Sulawesi Utara,Bolaang Mongondow Utara,57.65,38.21,28,15.96,32.23,34.03
+7108,Sulawesi Utara,Kepulauan Sitaro,67.21,59.73,59.04,37.39,29.96,51.82
+1611,Sumatera Selatan,Empat Lawang,58.45,30.69,22.95,15.9,22.77,28.76
+1613,Sumatera Selatan,Musi Rawas Utara,56.64,31.53,26.99,26.81,30.33,33.35
+1612,Sumatera Selatan,Penukal Abab Lematang Ilir,58.41,31.26,28.07,24.27,25.92,35.79
+1210,Sumatera Utara,Dairi,70.11,65.79,58.22,45.98,35.9,65.23
+1215,Sumatera Utara,Humbang Hasudutan,67.72,54.23,54.37,47.27,43.12,53.75
+1207,Sumatera Utara,Labuhan Batu,63.76,62.83,65.43,38.06,37.56,63.86
+1222,Sumatera Utara,Labuhan Batu Selatan,62.37,39.68,34.25,22.13,30.77,42.48
+1213,Sumatera Utara,Langkat,66.77,58.13,62.84,24.06,21.92,59.15
+1201,Sumatera Utara,Nias,53.87,49.15,39.07,46.8,43.29,54.5
+1225,Sumatera Utara,Nias Barat,59.23,51.45,44.01,42.34,46.4,51.06
+1214,Sumatera Utara,Nias Selatan,53.97,51.98,45.9,32.52,27.33,44.08
+1224,Sumatera Utara,Nias Utara,59.14,50.15,43.83,41.05,42.21,50.63
+1221,Sumatera Utara,Padang Lawas,56.35,50.69,44.25,41.99,41.74,39.22
+1217,Sumatera Utara,Samosir,67.21,56.73,51.8,49.3,36.86,57.31
+1209,Sumatera Utara,Simalungun,69.21,67.45,68.27,42.09,33.22,67.66
+1204,Sumatera Utara,Tapanuli Tengah,59.48,42.87,38.18,23.3,32.51,42.45
+1271,Sumatera Utara,Sibolga,63.69,40.35,35.69,36.84,37.59,41.4
+1272,Sumatera Utara,Tanjung Balai,69.05,68.78,65.01,52.41,49.2,67.49
+9112,Papua Barat,Pegunungan Arfak,52.57,47.43,27.86,0,0,42.14
+9429,Papua,Nduga,0,0,0,0,0,0
+6503,Kalimantan Utara,Tana Tidung,65.69,38.26,30.78,33.54,50.83,48.83
+9435,Papua,Intan Jaya,60.67,65.2,57,57.5,0,48.08
+9428,Papua,Memberamo Raya,42.41,42.16,51.64,29.5,31.54,47.86
+9431,Papua,Membramo Tengah,64.35,69.65,66,75.75,53.54,64.38
