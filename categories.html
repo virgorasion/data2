@@ -1,0 +1,90 @@
+{% set stats = h.get_site_statistics() %}
+
+<div class="box stats">
+  <div class="inner text-center">
+    <h3>{{ _('Categories') }}</h3>
+    <!-- <font size="2">This is some text!</font> -->
+    <ul>
+      {% block stats_group %}
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/agroindustri') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Agroindustri') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/demografi') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Demografi') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/ekonomi-dan-makro') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Ekonomi dan Makro') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/energi') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Energi') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/kelautan') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Kelautan') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/ketenagakerjaan') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Ketenagakerjaan') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/keuangan') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Keuangan') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/moneter') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Moneter') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/pasar') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Pasar') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/pdb') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('PDB') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/perdagangan') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Perdagangan') }}
+        </a>
+      </li>
+      <li class="margin-categories-bottom">
+        <a href="{{ h.url_for('/group/teknologi-dan-komunikasi') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Teknologi dan Komunikasi') }}
+        </a>
+      </li>
+      <li>
+        <a href="{{ h.url_for('/group/utilitas') }}">
+          <b><img src="{{ h.url_for_static('/base/images/katadata.svg') }}" alt="Placeholder" width="50" height="50" /></b>
+          {{ _('Utilitas') }}
+        </a>
+      </li>
+      {% endblock %}
+    </ul>
+  </div>
+</div>
