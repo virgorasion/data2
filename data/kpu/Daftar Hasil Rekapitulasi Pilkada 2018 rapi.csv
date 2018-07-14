@@ -1,0 +1,523 @@
+Nomor,Tahun,Daerah,No Pasangan,Jabatan,Nama,Jumlah Suara,Persentase Suara (%),wakil,,,
+1,2018,Provinsi Bali,1,Wakil Gubernur,"Dr. Ir. Tjok Oka Artha Ardhana Sukawati, M.Si.",1211517,57.62,TRUE,0,100,
+1,2018,Provinsi Bali,2,Wakil Gubernur,Drs. I Ketut Sudikerta,891062,42.38,TRUE,1,,100
+2,2018,Provinsi Jawa Barat,1,Wakil Gubernur,"H. Uu Ruzhanul Ulum, Se",7236448,32.9,TRUE,0,45.57,
+2,2018,Provinsi Jawa Barat,2,Wakil Gubernur,"Irjen. Pol (Purn.) Dr. Drs. H. Anton Charliyan, M.P.K.N.",2786052,12.67,TRUE,0,41.33,
+2,2018,Provinsi Jawa Barat,3,Wakil Gubernur,H. Ahmad Syaikhu,6303255,28.66,TRUE,0,54.44,
+2,2018,Provinsi Jawa Barat,4,Wakil Gubernur,"H. Dedi Mulyadi, Sh",5669513,25.78,TRUE,1,,54.44
+3,2018,Provinsi Jawa Tengah,1,Wakil Gubernur,H. Taj Yasin,9903485,59.52,TRUE,0,100,
+3,2018,Provinsi Jawa Tengah,2,Wakil Gubernur,Hj. Ida Fauziyah,6734913,40.48,TRUE,1,,100
+4,2018,Provinsi Jawa Timur,1,Wakil Gubernur,"Dr. Emil Elestianto Dardak, M.Sc.",10327690,53.56,TRUE,0,100,
+4,2018,Provinsi Jawa Timur,2,Wakil Gubernur,"Hj. Puti Guntur Soekarno, S.Ip",8955979,46.44,TRUE,1,,100
+5,2018,Provinsi Kalimantan Barat,1,Wakil Gubernur,"H. Boyman Harun, S.H.",344006,13.01,TRUE,0,52.26,
+5,2018,Provinsi Kalimantan Barat,2,Wakil Gubernur,"Suryadman Gidot, M.Pd.",1037424,39.25,TRUE,0,86.99,
+5,2018,Provinsi Kalimantan Barat,3,Wakil Gubernur,"Drs. H. Ria Norsan, M.M., M.H.",1261758,47.74,TRUE,1,,86.99
+6,2018,Provinsi Kalimantan Timur,1,Wakil Gubernur,"H.M. Rizal Effendi, Se",288665,21.65,TRUE,0,44.36,
+6,2018,Provinsi Kalimantan Timur,2,Wakil Gubernur,"H. Awang Ferdian Hidayat, Se, Mm",302826,22.71,TRUE,0,54,
+6,2018,Provinsi Kalimantan Timur,3,Wakil Gubernur,"H. Hadi Mulyadi, S.Si, M.Si",417139,31.29,TRUE,0,55.64,
+6,2018,Provinsi Kalimantan Timur,4,Wakil Gubernur,Drs. H. Safaruddin,324617,24.35,TRUE,1,,55.64
+7,2018,Provinsi Lampung,1,Wakil Gubernur,"Bachtiar Basri, Sh., Mm",934407,22,TRUE,0,46.32,
+7,2018,Provinsi Lampung,2,Wakil Gubernur,"Ir. Sutono, Mm",1033159,24.32,TRUE,0,61.09,
+7,2018,Provinsi Lampung,3,Wakil Gubernur,"Hj. Chusnunia, Ph.D",1562020,36.77,TRUE,0,53.67,
+7,2018,Provinsi Lampung,4,Wakil Gubernur,"H. Ahmad Jajuli Sip.,M.Si",717974,16.9,TRUE,1,,53.67
+8,2018,Provinsi Maluku,1,Wakil Gubernur,Ir.Anderias Rentanubun,246583,31.76,TRUE,0,71.25,
+8,2018,Provinsi Maluku,2,Wakil Gubernur,Drs. Barnabas Orno,306636,39.49,TRUE,0,68.24,
+8,2018,Provinsi Maluku,3,Wakil Gubernur,"H.Abdullah Vanath,S.Sos,Mmp",223198,28.75,TRUE,1,,68.24
+9,2018,Provinsi Maluku Utara,1,Wakil Gubernur,Dr. Rivai Umar,176973,31.91,TRUE,0,57.78,
+9,2018,Provinsi Maluku Utara,2,Wakil Gubernur,"Drs. Ishak Jamaluddin, M.Pd.",143439,25.87,TRUE,0,56.34,
+9,2018,Provinsi Maluku Utara,3,Wakil Gubernur,"Ir. M. Al Yasin Ali, M.Mt.",168946,30.47,TRUE,0,42.22,
+9,2018,Provinsi Maluku Utara,4,Wakil Gubernur,"Drs. A. Madjid Husen, M.M.",65169,11.75,TRUE,1,,42.22
+10,2018,Provinsi Nusa Tenggara Barat,1,Wakil Gubernur,"H. Muh. Amin, Sh., M.Si",674954,26.44,TRUE,0,51.36,
+10,2018,Provinsi Nusa Tenggara Barat,2,Wakil Gubernur,"H. Mori Hanafi, Se.",636027,24.92,TRUE,0,56.71,
+10,2018,Provinsi Nusa Tenggara Barat,3,Wakil Gubernur,"Dr. Ir. Hj. Sitti Rohmi Djalilah, M.Pd",811489,31.79,TRUE,0,48.64,
+10,2018,Provinsi Nusa Tenggara Barat,4,Wakil Gubernur,"Tgh. Lalu Gede Muhamad Ali Wirasakti Amir Murni, Lc, Ma.",430136,16.85,TRUE,1,,48.64
+11,2018,Provinsi Nusa Tenggara Timur,1,Wakil Gubernur,Drs. Christian Rotok,447871,19.44,TRUE,0,44.78,
+11,2018,Provinsi Nusa Tenggara Timur,2,Wakil Gubernur,Ir. Emelia Julia Nomleni,583794,25.34,TRUE,0,46.06,
+11,2018,Provinsi Nusa Tenggara Timur,3,Wakil Gubernur,"Drs. Benny Alexander Litelnoni, Sh., M.Si",477252,20.72,TRUE,0,55.22,
+11,2018,Provinsi Nusa Tenggara Timur,4,Wakil Gubernur,Josef Adreanus Nae Soi,794695,34.5,TRUE,1,,55.22
+12,2018,Provinsi Papua,1,Wakil Gubernur,"Klemen Tinal, Se.,Mm",846105,62.36,TRUE,0,100,
+12,2018,Provinsi Papua,2,Wakil Gubernur,"Dr. Habel Melkias Suwae, S.Sos,. Mm",51068,37.64,TRUE,1,,100
+13,2018,Provinsi Riau,1,Wakil Gubernur,H. Edy Nasution,720695,31.87,TRUE,0,47.78,
+13,2018,Provinsi Riau,2,Wakil Gubernur,"Hardianto, Se",35979,15.91,TRUE,0,35.18,
+13,2018,Provinsi Riau,3,Wakil Gubernur,"H. Rusli Effendi, Se, S.Pd.I, M.Si",435725,19.27,TRUE,0,52.23,
+13,2018,Provinsi Riau,4,Wakil Gubernur,"H. Suyatno, Amp",745389,32.96,TRUE,1,,52.23
+14,2018,Provinsi Sulawesi Selatan,1,Wakil Gubernur,Dr. Ir. H. Abd. Aziz Qahhar Mudzakkar,1153814,27.36,TRUE,0,37.39,
+14,2018,Provinsi Sulawesi Selatan,2,Wakil Gubernur,"Mayjen Tni (Purn) Drs. Tanribali Lamo, Sh",422889,10.03,TRUE,0,53.3,
+14,2018,Provinsi Sulawesi Selatan,3,Wakil Gubernur,"Andi Sudirman Sulaiman, St",1824516,43.27,TRUE,0,62.61,
+14,2018,Provinsi Sulawesi Selatan,4,Wakil Gubernur,"Ir. H. Andi Muzakkar, Mh",815316,19.34,TRUE,1,,62.61
+15,2018,Provinsi Sulawesi Tenggara,1,Wakil Gubernur,"Dr. H. Lukman Abunawas, Sh, M.Si",495283,43.64,TRUE,0,68.39,
+15,2018,Provinsi Sulawesi Tenggara,2,Wakil Gubernur,Ir. Hugua,280834,24.75,TRUE,0,56.36,
+15,2018,Provinsi Sulawesi Tenggara,3,Wakil Gubernur,Ir.H.Lm. Sjafei Kahar,358763,31.61,TRUE,1,,56.36
+16,2018,Provinsi Sumatera Selatan,1,Wakil Gubernur,Ir. H. Mawardi Yahya,776988,29.57,TRUE,0,39.77,
+16,2018,Provinsi Sumatera Selatan,2,Wakil Gubernur,"H.M. Irwansyah, S.Sos, M.Si",268144,10.2,TRUE,0,26.9,
+16,2018,Provinsi Sumatera Selatan,3,Wakil Gubernur,"Yudha Pratomo, M.Sc. Ph.D",438839,16.7,TRUE,0,60.22,
+16,2018,Provinsi Sumatera Selatan,4,Wakil Gubernur,"H.M Giri Ramanda N. Kiemas Se, Mm",1143617,43.52,TRUE,1,,60.22
+17,2018,Provinsi Sumatera Utara,1,Wakil Gubernur,Musa Rajekshah,3234017,57.41,TRUE,0,100,
+17,2018,Provinsi Sumatera Utara,2,Wakil Gubernur,Sihar P.H. Sitorus,2399218,42.59,TRUE,1,,100
+18,2018,Kabupaten Aceh Selatan,1,Wakil Bupati,"Dr. Mustafril, St, M.Si",5796,4.47,TRUE,0,40.13,
+18,2018,Kabupaten Aceh Selatan,2,Wakil Bupati,Tgk. Amran,46291,35.66,TRUE,0,36.74,
+18,2018,Kabupaten Aceh Selatan,3,Wakil Bupati,M. Jasa,1396,1.08,TRUE,0,2.38,
+18,2018,Kabupaten Aceh Selatan,4,Wakil Bupati,"Baital Makmur, Se",1693,1.3,TRUE,0,30.09,
+18,2018,Kabupaten Aceh Selatan,5,Wakil Bupati,"Drs. H. Harmaini, M.Si",37372,28.79,TRUE,0,54.78,
+18,2018,Kabupaten Aceh Selatan,6,Wakil Bupati,"Zirhan, Sp",33739,25.99,TRUE,0,28.7,
+18,2018,Kabupaten Aceh Selatan,7,Wakil Bupati,H. Afdhal Yasin,352,2.71,TRUE,1,,28.7
+19,2018,Kota Subulussalam,1,Wakil Walikota,Wagiman,139,0.3,TRUE,0,29.98,
+19,2018,Kota Subulussalam,2,Wakil Walikota,"Dedi Anwar Bancin, Se",13673,29.68,TRUE,0,55.65,
+19,2018,Kota Subulussalam,3,Wakil Walikota,"Hj. Asmidar, S.Pd",11962,25.97,TRUE,0,28.61,
+19,2018,Kota Subulussalam,4,Wakil Walikota,Sabaruddin S. S.Pd.I,1214,2.64,TRUE,0,44.05,
+19,2018,Kota Subulussalam,5,Wakil Walikota,"Drs. Salmaza, M.Ap",19073,41.41,TRUE,1,,44.05
+20,2018,Kabupaten Pidie Jaya,1,Wakil Bupati,Kolonel (Purn) Saifullah,23543,29.62,TRUE,0,81.13,
+20,2018,Kabupaten Pidie Jaya,2,Wakil Bupati,"Said Mulyadi, Se, M.Si",40945,51.51,TRUE,0,62.82,
+20,2018,Kabupaten Pidie Jaya,3,Wakil Bupati,H. M. Yusuf Ibrahim,8987,11.31,TRUE,0,18.88,
+20,2018,Kabupaten Pidie Jaya,4,Wakil Bupati,Ir.Anwar Ishak,6014,7.57,TRUE,1,,18.88
+21,2018,Kabupaten Gianyar,1,Wakil Bupati,"Pande Istri Maharani Prima Dewi,Se.,Mm.",94666,32.96,TRUE,0,100,
+21,2018,Kabupaten Gianyar,2,Wakil Bupati,"Anak Agung Gde Mayun, Sh.",192533,67.04,TRUE,1,,100
+22,2018,Kabupaten Klungkung,1,Wakil Bupati,I Ketut Mandia,29173,23.94,TRUE,0,100,
+22,2018,Kabupaten Klungkung,2,Wakil Bupati,I Made Kasta,92699,76.06,TRUE,1,,100
+23,2018,Kota Serang,1,Wakil Walikota,"Nurhasan, Se",24341,30.08,TRUE,0,56.95,
+23,2018,Kota Serang,2,Wakil Walikota,"Rohman, S.Pd.I, M.A.",21743,26.87,TRUE,0,69.91,
+23,2018,Kota Serang,3,Wakil Walikota,"H. Subadri Usuludin, Sh",34828,43.04,TRUE,1,,69.91
+24,2018,Kota Tangerang,1,Wakil Walikota,Drs. H. Sachrudin,604108,85.58,TRUE,1,,128.62
+25,2018,Kabupaten Lebak,1,Wakil Bupati,"H. Ade Sumardi, Se",453299,76.99,TRUE,1,,162.57
+26,2018,Kabupaten Tangerang,1,Wakil Bupati,"H. Mad Romli, Sh.,Mm",941111,83.73,TRUE,1,,160.72
+27,2018,Kota Bengkulu,1,Wakil Walikota,"Drs. Bakhsir, Mm",29688,22.3,TRUE,0,39.35,
+27,2018,Kota Bengkulu,2,Wakil Walikota,"H. Ahmad Zarkasi, S.P., M.Si",22699,17.05,TRUE,0,50.29,
+27,2018,Kota Bengkulu,3,Wakil Walikota,"Dedy Wahyudi, S.E, M.M",44254,33.24,TRUE,0,60.66,
+27,2018,Kota Bengkulu,4,Wakil Walikota,"Mirza, S.H., M.Kn",36506,27.42,TRUE,1,,60.66
+28,2018,Kabupaten Gorontalo Utara,1,Wakil Bupati,"Thariq Modanggu, S.Ag., M.Pd.I",31391,43.54,TRUE,0,67.81,
+28,2018,Kabupaten Gorontalo Utara,2,Wakil Bupati,Hj. Suhelah,17502,24.27,TRUE,0,56.46,
+28,2018,Kabupaten Gorontalo Utara,3,Wakil Bupati,Ir. H. Ismail Patamani,23208,32.19,TRUE,1,,56.46
+29,2018,Kota Gorontalo,1,Wakil Walikota,"Hardi Saleh Hemeto, Se, M.Si",37032,36.05,TRUE,0,77.33,
+29,2018,Kota Gorontalo,2,Wakil Walikota,"Ryan Fahrichsan Kono, B.Com",42399,41.28,TRUE,0,63.95,
+29,2018,Kota Gorontalo,3,Wakil Walikota,Dr. Rusliyanto Monoarfa,23282,22.67,TRUE,1,,63.95
+30,2018,Kabupaten Kerinci,1,Wakil Bupati,"Edison, Sh",42686,28.84,TRUE,0,66.23,
+30,2018,Kabupaten Kerinci,2,Wakil Bupati,Ir. H. Ami Taher,55341,37.39,TRUE,0,71.16,
+30,2018,Kabupaten Kerinci,3,Wakil Bupati,Arsal Apri,49989,33.77,TRUE,1,,71.16
+31,2018,Kota Jambi,1,Wakil Walikota,"Kemas Alfarizi, Se",116554,44.27,TRUE,0,100,
+31,2018,Kota Jambi,2,Wakil Walikota,"Dr. Dr. H. Maulana, Mkm",146704,55.73,TRUE,1,,100
+32,2018,Kabupaten Merangin,1,Wakil Bupati,Sujarmin,37333,19.88,TRUE,0,64.65,
+32,2018,Kabupaten Merangin,2,Wakil Bupati,"Mashuri, S.Pd., Mm.",84068,44.77,TRUE,0,80.12,
+32,2018,Kabupaten Merangin,3,Wakil Bupati,"Drs. H. Abdul Khafidh.,Mm.",66392,35.35,TRUE,1,,80.12
+33,2018,Kabupaten Bandung Barat,1,Wakil Bupati,"Drs. Maman Sulaeman Sunjaya, M.Si",195763,22.62,TRUE,0,51.55,
+33,2018,Kabupaten Bandung Barat,2,Wakil Bupati,"Dr. Hj. Pupu Sari Rohayati, Mh. Kes",250355,28.93,TRUE,0,77.38,
+33,2018,Kabupaten Bandung Barat,3,Wakil Bupati,Hengki Kurniawan,419225,48.45,TRUE,1,,77.38
+34,2018,Kabupaten Bogor,1,Wakil Bupati,H. R. Bayu Syahjohan,18355,8.26,TRUE,0,48.89,
+34,2018,Kabupaten Bogor,2,Wakil Bupati,"H. Iwan Setiawan, Se",903231,40.63,TRUE,0,79.36,
+34,2018,Kabupaten Bogor,3,Wakil Bupati,"Ingrid Maria Palupi Kansil, S.Sos",860958,38.73,TRUE,0,43.31,
+34,2018,Kabupaten Bogor,4,Wakil Bupati,Ficky Rhoma Irama,101711,4.58,TRUE,0,12.38,
+34,2018,Kabupaten Bogor,5,Wakil Bupati,"Asep Ruhiyat, S.Sos.,Mm",173378,7.8,TRUE,1,,12.38
+35,2018,Kabupaten Ciamis,1,Wakil Bupati,Yana Diana Putra,41456,59.59,TRUE,0,100,
+35,2018,Kabupaten Ciamis,2,Wakil Bupati,H. Oih Burhanudin,281177,40.41,TRUE,1,,100
+36,2018,Kabupaten Cirebon,1,Wakil Bupati,Dian Hernawa Susanty,272429,27.28,TRUE,0,58.22,
+36,2018,Kabupaten Cirebon,2,Wakil Bupati,Drs. H. Imron,309048,30.94,TRUE,0,46.31,
+36,2018,Kabupaten Cirebon,3,Wakil Bupati,Drs. H. Yayat Ruhyat,153524,15.37,TRUE,0,41.78,
+36,2018,Kabupaten Cirebon,4,Wakil Bupati,Nurul Qomar,263788,26.41,TRUE,1,,41.78
+37,2018,Kabupaten Garut,1,Wakil Bupati,Helmi Budiman,427463,35.83,TRUE,0,68.64,
+37,2018,Kabupaten Garut,2,Wakil Bupati,"Dedi Hasan, Se",391393,32.81,TRUE,0,43.99,
+37,2018,Kabupaten Garut,3,Wakil Bupati,"Wiwin Suwindaryati, Sh",133317,11.18,TRUE,0,31.36,
+37,2018,Kabupaten Garut,4,Wakil Bupati,Pradana Aditya Wicaksana,240702,20.18,TRUE,1,,31.36
+38,2018,Kota Bandung,1,Wakil Walikota,Chairul Yaqin Hidayat,302291,23.9,TRUE,0,49.98,
+38,2018,Kota Bandung,2,Wakil Walikota,"Aries Supriyatna, Sh., Mh",329878,26.08,TRUE,0,76.1,
+38,2018,Kota Bandung,3,Wakil Walikota,H. Yana Mulyana,632723,50.02,TRUE,1,,76.1
+39,2018,Kota Banjar,1,Wakil Walikota,Nana Suryana,5802,52.36,TRUE,0,100,
+39,2018,Kota Banjar,2,Wakil Walikota,Dr. Hj. Irma Darmawatie Bastaman,52784,47.64,TRUE,1,,100
+40,2018,Kota Bekasi,1,Wakil Walikota,"Dr. Tri Adhianto Tjahyono, Se, Mm",694446,67.5,TRUE,0,100,
+40,2018,Kota Bekasi,2,Wakil Walikota,"Dr. H. Adhy Firdaus Saady, Mm",334389,32.5,TRUE,1,,100
+41,2018,Kota Bogor,1,Wakil Walikota,Zaenul Mutaqin,146929,31.03,TRUE,0,43.59,
+41,2018,Kota Bogor,2,Wakil Walikota,Sefwelly Gynanjar Djoyodiningrat,59456,12.56,TRUE,0,56,
+41,2018,Kota Bogor,3,Wakil Walikota,"Drs. Dedie A Rachim, Ma",205686,43.44,TRUE,0,56.42,
+41,2018,Kota Bogor,4,Wakil Walikota,"Sugeng Teguh Santoso, S.H",61444,12.98,TRUE,1,,56.42
+42,2018,Kota Cirebon,1,Wakil Walikota,"Effendi Edo, Sap., M.Si",78587,49.42,TRUE,0,100,
+42,2018,Kota Cirebon,2,Wakil Walikota,Dra. Hj. Eti Herawati,80422,50.58,TRUE,1,,100
+43,2018,Kota Sukabumi,1,Wakil Walikota,"Dr. H. Muhamad Noor Hanafie Zain, M.Si.",38217,23.26,TRUE,0,74.4,
+43,2018,Kota Sukabumi,2,Wakil Walikota,H. Andri Setiawan Hamami,84032,51.14,TRUE,0,68.92,
+43,2018,Kota Sukabumi,3,Wakil Walikota,Hj. Ima Slamet,2922,17.78,TRUE,0,25.6,
+43,2018,Kota Sukabumi,4,Wakil Walikota,"Hikmat Nuristawan, Se., Mm.",12856,7.82,TRUE,1,,25.6
+44,2018,Kabupaten Kuningan,1,Wakil Bupati,"H. Yosa Octora Santono, S.Si,. M.M.",196002,32.58,TRUE,0,60.27,
+44,2018,Kabupaten Kuningan,2,Wakil Bupati,"H. Udin Kusnedi, S.E., M.Si.",166545,27.69,TRUE,0,67.42,
+44,2018,Kabupaten Kuningan,3,Wakil Bupati,"Muhammad Ridho Suganda, S.H., M.Si.",23902,39.73,TRUE,1,,67.42
+45,2018,Kabupaten Majalengka,1,Wakil Bupati,Jefry Romdonny,133433,19.87,TRUE,0,65.97,
+45,2018,Kabupaten Majalengka,2,Wakil Bupati,Tarsono D. Mardiana,309633,46.1,TRUE,0,80.13,
+45,2018,Kabupaten Majalengka,3,Wakil Bupati,Drs. H.M. Taufan Ansyar,228535,34.03,TRUE,1,,80.13
+46,2018,Kabupaten Purwakarta,1,Wakil Bupati,Acep Maman,87961,17.71,TRUE,0,61.5,
+46,2018,Kabupaten Purwakarta,2,Wakil Bupati,H. Aming,217488,43.79,TRUE,0,82.29,
+46,2018,Kabupaten Purwakarta,3,Wakil Bupati,"Luthfi, A. Md",191252,38.5,TRUE,1,,82.29
+47,2018,Kabupaten Subang,1,Wakil Bupati,"Ir. Agus Masykur Rosyadi, S.Si",307157,39.95,TRUE,0,69.71,
+47,2018,Kabupaten Subang,2,Wakil Bupati,Sutarno,228751,29.76,TRUE,0,60.05,
+47,2018,Kabupaten Subang,3,Wakil Bupati,"Dr. Drs. H. Budi Setiadi, M.Si",232858,30.29,TRUE,1,,60.05
+48,2018,Kabupaten Sumedang,1,Wakil Bupati,"Erwan Setiawan, S.E.",275323,42.83,TRUE,0,53.56,
+48,2018,Kabupaten Sumedang,2,Wakil Bupati,"Sonia Sugian, S.H.",68949,10.73,TRUE,0,29.42,
+48,2018,Kabupaten Sumedang,3,Wakil Bupati,"Asep Kurnia, S.H., M.H.",120163,18.69,TRUE,0,34.66,
+48,2018,Kabupaten Sumedang,4,Wakil Bupati,"Sidik Jafar, S.E.",10267,15.97,TRUE,0,27.74,
+48,2018,Kabupaten Sumedang,5,Wakil Bupati,"Mohamad Agung Anugrah, S.E., Ak.",75667,11.77,TRUE,1,,27.74
+49,2018,Kabupaten Banyumas,1,Wakil Bupati,"Dr. Ir. H. Ifan Haryanto, M.Sc",409408,44.32,TRUE,0,100,
+49,2018,Kabupaten Banyumas,2,Wakil Bupati,Drs. H. Sadewo Tri Lastiono,514412,55.68,TRUE,1,,100
+50,2018,Kabupaten Karanganyar,1,Wakil Bupati,"Ida Retno Wahyuningsih, Se",231356,43.8,TRUE,0,100,
+50,2018,Kabupaten Karanganyar,2,Wakil Bupati,"H. Rober Christanto, Se",296873,56.2,TRUE,1,,100
+51,2018,Kota Tegal,1,Wakil Walikota,H. Wartono,21029,15.48,TRUE,0,28.13,
+51,2018,Kota Tegal,2,Wakil Walikota,Dr. H. Muslih Dahlan,17189,12.65,TRUE,0,40.66,
+51,2018,Kota Tegal,3,Wakil Walikota,"Muhamad Jumadi, S.T., M.M.",38041,28.01,TRUE,0,55.82,
+51,2018,Kota Tegal,4,Wakil Walikota,"Hj. Tanty Prasetyo Ningrum, S.H., M.M.",3777,27.81,TRUE,0,43.86,
+51,2018,Kota Tegal,5,Wakil Walikota,Sugono,21802,16.05,TRUE,1,,43.86
+52,2018,Kabupaten Kudus,1,Wakil Bupati,"Drs. H. Noor Yasin, Mm",194205,38.52,TRUE,0,39.99,
+52,2018,Kabupaten Kudus,2,Wakil Bupati,"Junaidi, Sh",7389,1.47,TRUE,0,16.72,
+52,2018,Kabupaten Kudus,3,Wakil Bupati,"H. Setia Budi Wibowo, S.Ag, Mm",76904,15.25,TRUE,0,17.49,
+52,2018,Kabupaten Kudus,4,Wakil Bupati,"H. Hadi Sucipto, S.Pd, Mm",11315,2.24,TRUE,0,44.75,
+52,2018,Kabupaten Kudus,5,Wakil Bupati,"Hm. Hartopo, St, Mm, Mh",214313,42.51,TRUE,1,,44.75
+53,2018,Kabupaten Magelang,1,Wakil Bupati,"Edi Cahyana, Se",392996,55.6,TRUE,0,100,
+53,2018,Kabupaten Magelang,2,Wakil Bupati,"H. Rohadi Pratoto, Sh, M.Si",313817,44.4,TRUE,1,,100
+54,2018,Kabupaten Tegal,1,Wakil Bupati,"H. Fatchuddin, Se",6415,8.78,TRUE,0,29.04,
+54,2018,Kabupaten Tegal,2,Wakil Bupati,"H. Drajat Adi Prayitno, S.Kom, Mm",148037,20.26,TRUE,0,91.21,
+54,2018,Kabupaten Tegal,3,Wakil Bupati,"Sabilillah Ardie, B.Sc",518327,70.95,TRUE,1,,91.21
+55,2018,Kabupaten Temanggung,1,Wakil Bupati,Matoha,156964,32.97,TRUE,0,45.76,
+55,2018,Kabupaten Temanggung,2,Wakil Bupati,Irawan Prasetyadi,60894,12.79,TRUE,0,67.03,
+55,2018,Kabupaten Temanggung,3,Wakil Bupati,Drs.R.Heri Ibnu Wibowo,258243,54.24,TRUE,1,,67.03
+56,2018,Kabupaten Bangkalan,1,Wakil Bupati,"Drs. Ec. Sudarmawan, Mm",184358,33.85,TRUE,0,55.22,
+56,2018,Kabupaten Bangkalan,2,Wakil Bupati,Ir. H. Mondir A. Rofii,1164,21.37,TRUE,0,66.15,
+56,2018,Kabupaten Bangkalan,3,Wakil Bupati,"Drs. Mohni, Mm",243939,44.78,TRUE,1,,66.15
+57,2018,Kabupaten Bojonegoro,1,Wakil Bupati,"Hj. Mitro'Atin, S.Pd.",187487,25.49,TRUE,0,44.93,
+57,2018,Kabupaten Bojonegoro,2,Wakil Bupati,"Drs. H. Kuswiyanto, M.Si.",142948,19.44,TRUE,0,50,
+57,2018,Kabupaten Bojonegoro,3,Wakil Bupati,"Drs. H. Budi Irawanto, M.Pd.",224756,30.56,TRUE,0,55.07,
+57,2018,Kabupaten Bojonegoro,4,Wakil Bupati,"Pudji Dewanto, Sh., Mm.",180287,24.51,TRUE,1,,55.07
+58,2018,Kabupaten Bondowoso,1,Wakil Bupati,"H. Irwan Bachtiar Rachmat,Se.M.Si",227521,52.04,TRUE,0,100,
+58,2018,Kabupaten Bondowoso,2,Wakil Bupati,Drs. Hidayat.M.Si,20965,47.96,TRUE,1,,100
+59,2018,Kabupaten Jombang,1,Wakil Bupati,Sumrambah,308609,48.29,TRUE,0,82.64,
+59,2018,Kabupaten Jombang,2,Wakil Bupati,"Drs. M. Subaidi, M.Si.",219517,34.35,TRUE,0,51.71,
+59,2018,Kabupaten Jombang,3,Wakil Bupati,"H. Choirul Anam, St",11093,17.36,TRUE,1,,51.71
+60,2018,Kota Kediri,1,Wakil Walikota,Sudjono Teguh Widjaja,29848,20.15,TRUE,0,77.89,
+60,2018,Kota Kediri,2,Wakil Walikota,Lilik Muhibbah,85514,57.74,TRUE,0,79.85,
+60,2018,Kota Kediri,3,Wakil Walikota,"Teguh Juniadi, Se",32752,22.11,TRUE,1,,79.85
+61,2018,Kota Madiun,1,Wakil Walikota,"Inda Raya Ayu Miko Saputri, S.E., Mib",39465,38.53,TRUE,0,73.05,
+61,2018,Kota Madiun,2,Wakil Walikota,"Arief Rahman, S.T., M.M.",35353,34.52,TRUE,0,61.47,
+61,2018,Kota Madiun,3,Wakil Walikota,"Bambang Wahyudi, St",27608,26.95,TRUE,1,,61.47
+62,2018,Kota Malang,1,Wakil Walikota,H. Wanedi,70006,18.89,TRUE,0,55.49,
+62,2018,Kota Malang,2,Wakil Walikota,"H. Syamsul Mahmud, Se",135652,36.6,TRUE,0,81.11,
+62,2018,Kota Malang,3,Wakil Walikota,Sofyan Edi Jarwoko,164995,44.51,TRUE,1,,81.11
+63,2018,Kota Mojokerto,1,Wakil Walikota,Rambo Garudo,19853,27.63,TRUE,0,54.6,
+63,2018,Kota Mojokerto,2,Wakil Walikota,"Ade Ria Suryani, Sh., Mh",19378,26.97,TRUE,0,39.52,
+63,2018,Kota Mojokerto,3,Wakil Walikota,Moeljadi,9013,12.55,TRUE,0,45.4,
+63,2018,Kota Mojokerto,4,Wakil Walikota,Achmad Rizal Zakaria,236,32.85,TRUE,1,,45.4
+64,2018,Kota Probolinggo,1,Wakil Walikota,Ferry Rahyuwono,3342,2.66,TRUE,0,39.94,
+64,2018,Kota Probolinggo,2,Wakil Walikota,Ir. H. Zulfikar Imawan,46777,37.28,TRUE,0,49.25,
+64,2018,Kota Probolinggo,3,Wakil Walikota,"Kulup Widyono, Se",15022,11.97,TRUE,0,60.06,
+64,2018,Kota Probolinggo,4,Wakil Walikota,Moch. Soufis Subri,6035,48.09,TRUE,1,,60.06
+65,2018,Kabupaten Lumajang,1,Wakil Bupati,"Ir. Hj.  Indah Amperawati, M.Si",246954,42.53,TRUE,0,77.2,
+65,2018,Kabupaten Lumajang,2,Wakil Bupati,H. Thoriq,201305,34.67,TRUE,0,57.48,
+65,2018,Kabupaten Lumajang,3,Wakil Bupati,Ir. Nurul Huda,132431,22.81,TRUE,1,,57.48
+66,2018,Kabupaten Madiun,1,Wakil Bupati,"H.Hari Wuryanto,Sh,M.Ak",162012,40.17,TRUE,0,62.65,
+66,2018,Kabupaten Madiun,2,Wakil Bupati,Ir.Sukiman.M.Si,9067,22.48,TRUE,0,59.83,
+66,2018,Kabupaten Madiun,3,Wakil Bupati,"Suprapto,Se",150668,37.35,TRUE,1,,59.83
+67,2018,Kabupaten Magetan,1,Wakil Bupati,Nur Wahid,115395,30.09,TRUE,0,56.99,
+67,2018,Kabupaten Magetan,2,Wakil Bupati,"Joko Suyono, S.Sos",103176,26.9,TRUE,0,69.91,
+67,2018,Kabupaten Magetan,3,Wakil Bupati,"Hj. Nanik Endang Rusminiarti, M.Pd",164932,43.01,TRUE,1,,69.91
+68,2018,Kabupaten Nganjuk,1,Wakil Bupati,"Dr. Drs. H. Marhaen Djumadi, Se, Sh, Mm, Mba",303175,54.71,TRUE,0,89.78,
+68,2018,Kabupaten Nganjuk,2,Wakil Bupati,"Bimantoro Wiyono, Sh",194338,35.07,TRUE,0,45.28,
+68,2018,Kabupaten Nganjuk,3,Wakil Bupati,"Drs. Ainul Yakin, M.Si",56593,10.21,TRUE,1,,45.28
+69,2018,Kabupaten Pamekasan,1,Wakil Bupati,"Raja'E, S.Hi",259444,53.34,TRUE,0,100,
+69,2018,Kabupaten Pamekasan,2,Wakil Bupati,"Fathor Rohman, M.Si",226935,46.66,TRUE,1,,100
+70,2018,Kabupaten Pasuruan,1,Wakil Bupati,"K.H. A. Mujib Imron, Sh., Mh",535453,77.44,TRUE,1,,124.1
+71,2018,Kabupaten Probolinggo,1,Wakil Bupati,Drs. H. A. Timbul Prihanjoko,345797,57.66,TRUE,0,100,
+71,2018,Kabupaten Probolinggo,2,Wakil Bupati,"H. Mohammad Muzayyan, M.H.I",253918,42.34,TRUE,1,,100
+72,2018,Kabupaten Sampang,1,Wakil Bupati,H. Abdullah Hidayat,252078,38.22,TRUE,0,75.27,
+72,2018,Kabupaten Sampang,2,Wakil Bupati,H. Suparto,244348,37.05,TRUE,0,61.78,
+72,2018,Kabupaten Sampang,3,Wakil Bupati,H. Abdullah. Se,16311,24.73,TRUE,1,,61.78
+73,2018,Kabupaten Tulungagung,1,Wakil Bupati,Eko Prisdianto,237614,40.06,TRUE,0,100,
+73,2018,Kabupaten Tulungagung,2,Wakil Bupati,"Drs. H. Maryoto Birowo, Mm",355564,59.94,TRUE,1,,100
+74,2018,Kabupaten Kayong Utara,1,Wakil Bupati,"Zulkaslim Pebrata Tamura, S.Pd",19381,34.84,TRUE,0,79.75,
+74,2018,Kabupaten Kayong Utara,2,Wakil Bupati,"H. Effendi Ahmad, S.Pdi",24978,44.91,TRUE,0,65.16,
+74,2018,Kabupaten Kayong Utara,3,Wakil Bupati,Bukhori,11264,20.25,TRUE,1,,65.16
+75,2018,Kota Pontianak,1,Wakil Walikota,Yandi,53987,17.16,TRUE,0,81.06,
+75,2018,Kota Pontianak,2,Wakil Walikota,"Bahasan, Sh",201076,63.9,TRUE,0,82.84,
+75,2018,Kota Pontianak,3,Wakil Walikota,"Alpian Aminardi, Sh, Mh",59615,18.94,TRUE,1,,82.84
+76,2018,Kabupaten Kubu Raya,1,Wakil Bupati,"Sujiwo, Se",19445,69.9,TRUE,0,83.96,
+76,2018,Kabupaten Kubu Raya,2,Wakil Bupati,H. Muhammad Nasir Maksudi,39111,14.06,TRUE,0,30.1,
+76,2018,Kabupaten Kubu Raya,3,Wakil Bupati,Kohim,44624,16.04,TRUE,1,,30.1
+77,2018,Kabupaten Mempawah,1,Wakil Bupati,"Hermanto Lim,Se",16991,12.96,TRUE,0,35.55,
+77,2018,Kabupaten Mempawah,2,Wakil Bupati,"H.Ridwan Rusli,Sh.,Mm.",29621,22.59,TRUE,0,64.09,
+77,2018,Kabupaten Mempawah,3,Wakil Bupati,"H.Muhammad Pagi,S.Hi.,Mm.",54424,41.5,TRUE,0,64.46,
+77,2018,Kabupaten Mempawah,4,Wakil Bupati,Drs. H. Mochrizal,30114,22.96,TRUE,1,,64.46
+78,2018,Kabupaten Sanggau,1,Wakil Bupati,"Fransiskus  Ason, Sp",100004,42.91,TRUE,0,100,
+78,2018,Kabupaten Sanggau,2,Wakil Bupati,"Drs. Yohanes Ontot, M.Si",133032,57.09,TRUE,1,,100
+79,2018,Kabupaten Hulu Sungai Selatan,1,Wakil Bupati,"H.Muhamad Ridha, Sh",41349,34.54,TRUE,0,100,
+79,2018,Kabupaten Hulu Sungai Selatan,2,Wakil Bupati,"Syamsuri Arsyad, S.Ap",78371,65.46,TRUE,1,,100
+80,2018,Kabupaten Tabalong,1,Wakil Bupati,H.Eddyan Noor Idur,40765,32.93,TRUE,0,39.48,
+80,2018,Kabupaten Tabalong,2,Wakil Bupati,"H.Ali Sibqi, S.Pi",8103,6.55,TRUE,0,42.5,
+80,2018,Kabupaten Tabalong,3,Wakil Bupati,"Drs. H. Mawardi, M.Si",44496,35.95,TRUE,0,60.52,
+80,2018,Kabupaten Tabalong,4,Wakil Bupati,"Aspianor, S.Ikom, Sh,Mh",30418,24.57,TRUE,1,,60.52
+81,2018,Kabupaten Tanah Laut,1,Wakil Bupati,"Abdi Rahman, S.Pd",107798,62.3,TRUE,0,100,
+81,2018,Kabupaten Tanah Laut,2,Wakil Bupati,"Ir. H. Ahmad Nizar, S.Sos, M.Si",6522,37.7,TRUE,1,,100
+82,2018,Kabupaten Tapin,1,Wakil Bupati,"H. Syafrudin Noor, Se, S.Sos",8583,80.87,TRUE,1,,118.57
+83,2018,Kabupaten Barito Timur,1,Wakil Bupati,Drs. H. Mukhtar Abdul Rahman,12497,21.89,TRUE,0,57,
+83,2018,Kabupaten Barito Timur,2,Wakil Bupati,Yudha Nyampai,20049,35.11,TRUE,0,78.11,
+83,2018,Kabupaten Barito Timur,3,Wakil Bupati,Habib Said Abdul Saleh,24555,43,TRUE,1,,78.11
+84,2018,Kabupaten Barito Utara,1,Wakil Bupati,"Sugianto Panala Putra, Sh",39281,69.02,TRUE,0,100,
+84,2018,Kabupaten Barito Utara,2,Wakil Bupati,Drs. Ompie Herby,17631,30.98,TRUE,1,,100
+85,2018,Kabupaten Gunung Mas,1,Wakil Bupati,"Dr. Drs. Gaya, M.Pd.H",1279,22.97,TRUE,0,59.58,
+85,2018,Kabupaten Gunung Mas,2,Wakil Bupati,"Suprapto Sungan, Sh",20387,36.61,TRUE,0,77.03,
+85,2018,Kabupaten Gunung Mas,3,Wakil Bupati,"Ir. Efrensia L.P Umbing, M.Si",22509,40.42,TRUE,1,,77.03
+86,2018,Kabupaten Kapuas,1,Wakil Bupati,"Drs.H.M. Nafiah Ibnor,Mm",93062,56.4,TRUE,0,100,
+86,2018,Kabupaten Kapuas,2,Wakil Bupati,"Ir. H. Muhajirin, Mp",71937,43.6,TRUE,1,,100
+87,2018,Kabupaten Katingan,1,Wakil Bupati,Sunardi,1951,27.79,TRUE,0,48.6,
+87,2018,Kabupaten Katingan,2,Wakil Bupati,"Maspek J. Garang, Se",14608,20.81,TRUE,0,44.15,
+87,2018,Kabupaten Katingan,3,Wakil Bupati,"Winda Natalia,S.Hut,M.Si",16389,23.34,TRUE,0,36.35,
+87,2018,Kabupaten Katingan,4,Wakil Bupati,Ali Sameon Anom,9134,13.01,TRUE,0,28.07,
+87,2018,Kabupaten Katingan,5,Wakil Bupati,Drs. Elman D. Dangan,10572,15.06,TRUE,1,,28.07
+88,2018,Kota Palangkaraya,1,Wakil Walikota,"H. Rahmadi Hn,Sh.,Mpa",9822,8.65,TRUE,0,22.53,
+88,2018,Kota Palangkaraya,2,Wakil Walikota,"Rogas Usup, St",15757,13.88,TRUE,0,57.47,
+88,2018,Kota Palangkaraya,3,Wakil Walikota,"Hj. Umi Mastikah, Sh",49482,43.59,TRUE,0,77.46,
+88,2018,Kota Palangkaraya,4,Wakil Walikota,"Habib Said Akhmad Fawzi Zain Bachsin, S.Hi",38452,33.87,TRUE,1,,77.46
+89,2018,Kabupaten Lamandau,1,Wakil Bupati,Gandhi Nuswantara,2544,6.37,TRUE,0,11.06,
+89,2018,Kabupaten Lamandau,2,Wakil Bupati,"H. Karyadi, Sh",1872,4.69,TRUE,0,33.04,
+89,2018,Kabupaten Lamandau,3,Wakil Bupati,Taufik Hidayat,11317,28.35,TRUE,0,88.94,
+89,2018,Kabupaten Lamandau,4,Wakil Bupati,"Riko Porwanto, S.Stp",24189,60.59,TRUE,1,,88.94
+90,2018,Kabupaten Murung Raya,1,Wakil Bupati,"Susilo, Se, Mm",21708,41.15,TRUE,0,98.34,
+90,2018,Kabupaten Murung Raya,2,Wakil Bupati,"Rejikinoor, S.Sos",3017,57.19,TRUE,0,58.85,
+90,2018,Kabupaten Murung Raya,3,Wakil Bupati,"Dihasbi, S.Pd.I.,M.Pd",877,1.66,TRUE,1,,58.85
+91,2018,Kabupaten Pulang Pisau,1,Wakil Bupati,"H. Ahmad Jayadikarta, S.Ip.",33012,47.97,TRUE,0,100,
+91,2018,Kabupaten Pulang Pisau,2,Wakil Bupati,Pudjirustaty Narang,35811,52.03,TRUE,1,,100
+92,2018,Kabupaten Seruyan,1,Wakil Bupati,"Hairil Yadi, S.H.",20536,33.9,TRUE,0,54.47,
+92,2018,Kabupaten Seruyan,2,Wakil Bupati,"Soetoyo. S Darno, M.M.",12462,20.57,TRUE,0,66.1,
+92,2018,Kabupaten Seruyan,3,Wakil Bupati,"Hj. Iswanti, S.E., M.M.",27583,45.53,TRUE,1,,66.1
+93,2018,Kabupaten Sukamara,1,Wakil Bupati,Ir. H. Mohamad Yamin,10799,36.02,TRUE,0,52.63,
+93,2018,Kabupaten Sukamara,2,Wakil Bupati,"Daman Huri, S.Ip",4981,16.61,TRUE,0,63.98,
+93,2018,Kabupaten Sukamara,3,Wakil Bupati,"H. Ahmadi, Sh",14203,47.37,TRUE,1,,63.98
+94,2018,Kabupaten Penajam Paser Utara,1,Wakil Bupati,"Sofian Nur, St",13202,16.08,TRUE,0,54.63,
+94,2018,Kabupaten Penajam Paser Utara,2,Wakil Bupati,"H. Fadly Imawan, Sp.Mp",3166,38.55,TRUE,0,83.92,
+94,2018,Kabupaten Penajam Paser Utara,3,Wakil Bupati,Ir. H. Hamdam,37265,45.37,TRUE,1,,83.92
+95,2018,Kota Tarakan,1,Wakil Walikota,"H. Mahrudin Mado, Se",25611,28.13,TRUE,0,59,
+95,2018,Kota Tarakan,2,Wakil Walikota,Effendhi Djuprianto,28099,30.87,TRUE,0,50.56,
+95,2018,Kota Tarakan,3,Wakil Walikota,Ince A. Rifai,17924,19.69,TRUE,0,41,
+95,2018,Kota Tarakan,4,Wakil Walikota,"Sabar Santuso, St., Mpd",19399,21.31,TRUE,1,,41
+96,2018,Kabupaten Bangka,1,Wakil Bupati,"Amri Cahyadi, St",34706,28.48,TRUE,0,77.14,
+96,2018,Kabupaten Bangka,2,Wakil Bupati,"Syahbudin, S.Ip",59304,48.66,TRUE,0,71.52,
+96,2018,Kabupaten Bangka,3,Wakil Bupati,"Fadillah Sabri, St, M.Eng",27864,22.86,TRUE,1,,71.52
+97,2018,Kabupaten Belitung,1,Wakil Bupati,Drs. H. Erwandi A Rani,22458,26.13,TRUE,0,56.35,
+97,2018,Kabupaten Belitung,2,Wakil Bupati,Junaidi Rachman,25973,30.22,TRUE,0,40.88,
+97,2018,Kabupaten Belitung,3,Wakil Bupati,"Zulfriandi Afan, Se",9163,10.66,TRUE,0,43.66,
+97,2018,Kabupaten Belitung,4,Wakil Bupati,"Isyak Meirobie, S.Sn",28366,33,TRUE,1,,43.66
+98,2018,Kota Pangkalpinang,1,Wakil Walikota,"Ir. B. Sarjulianto, Dipl., S.E.",6562,8.58,TRUE,0,41.65,
+98,2018,Kota Pangkalpinang,2,Wakil Walikota,Drs. H. Edison,25283,33.07,TRUE,0,74.66,
+98,2018,Kota Pangkalpinang,3,Wakil Walikota,"Muhammad Sopian, B.A.",31792,41.59,TRUE,0,58.35,
+98,2018,Kota Pangkalpinang,4,Wakil Walikota,Ismiryadi,12812,16.76,TRUE,1,,58.35
+99,2018,Kota Tanjungpinang,1,Wakil Walikota,"Rahma, S.Ip",42559,51.45,TRUE,0,100,
+99,2018,Kota Tanjungpinang,2,Wakil Walikota,Dr.Maya Suryanti,40161,48.55,TRUE,1,,100
+100,2018,Kabupaten Lampung Utara,1,Wakil Bupati,"M. YUSRIZAL, ST",97014,32.84,TRUE,0,50.54,
+100,2018,Kabupaten Lampung Utara,2,Wakil Bupati,"Dra. ICE SURYANA, S.Pd",52276,17.7,TRUE,0,67.17,
+100,2018,Kabupaten Lampung Utara,3,Wakil Bupati,"H. BUDI UTOMO, SE. MM",146137,49.47,TRUE,1,,67.17
+101,2018,Kabupaten Tanggamus,1,Wakil Bupati,"Hi. Am. Syafi?I, S.Ag",170399,55.96,TRUE,0,100,
+101,2018,Kabupaten Tanggamus,2,Wakil Bupati,"Hi. Nuzul Irsan, Se",134084,44.04,TRUE,1,,100
+102,2018,Kota Tual,1,Wakil Walikota,"Eva Fransina Balubun, S.Pt",6297,19.59,TRUE,0,69.22,
+102,2018,Kota Tual,2,Wakil Walikota,Usman Tamnge,15956,49.63,TRUE,0,80.41,
+102,2018,Kota Tual,3,Wakil Walikota,"Fadillah Rahawarin, S.Pi",9896,30.78,TRUE,1,,80.41
+103,2018,Kabupaten Maluku Tenggara,1,Wakil Bupati,Hamza Rahayaan,13047,24.21,TRUE,0,57.18,
+103,2018,Kabupaten Maluku Tenggara,2,Wakil Bupati,"Abdurrahman Matdoan, S.Pd.I",17769,32.97,TRUE,0,75.8,
+103,2018,Kabupaten Maluku Tenggara,3,Wakil Bupati,"Ir. Petrus Beruatwarin, M.Si",23083,42.83,TRUE,1,,75.8
+104,2018,Kota Bima,1,Wakil Walikota,"Hj. Ferra Amelia, Se.,Mm",34902,39.54,TRUE,0,83.82,
+104,2018,Kota Bima,2,Wakil Walikota,"Feri Sofiyan, Sh",39081,44.28,TRUE,0,60.46,
+104,2018,Kota Bima,3,Wakil Walikota,Wahyudin,1428,16.18,TRUE,1,,60.46
+105,2018,Kabupaten Lombok Barat,1,Wakil Bupati,"Tgh. Khudari Ibrahim, Lc., Mh",73406,21.24,TRUE,0,54.13,
+105,2018,Kabupaten Lombok Barat,2,Wakil Bupati,"Tgh. Muammar Arafat, Sh., Mh",113642,32.89,TRUE,0,78.76,
+105,2018,Kabupaten Lombok Barat,3,Wakil Bupati,Hj. Sumiatun,158502,45.87,TRUE,1,,78.76
+106,2018,Kabupaten Lombok Timur,1,Wakil Bupati,"H. Machsun Ridwainny.,S.Sos.,M.B.A",174188,26.89,TRUE,0,31.99,
+106,2018,Kabupaten Lombok Timur,2,Wakil Bupati,"Putrawan Habibi, S.P.,M.P.",3303,5.1,TRUE,0,46.94,
+106,2018,Kabupaten Lombok Timur,3,Wakil Bupati,"Rumaksi Sj., S.H.",27107,41.84,TRUE,0,68.02,
+106,2018,Kabupaten Lombok Timur,4,Wakil Bupati,H. Najamuddin Moestafa,169607,26.18,TRUE,1,,68.02
+107,2018,Kabupaten Alor,1,Wakil Bupati,"H. Taufik Nampira, Sp. Mm",51796,46.35,TRUE,0,100,
+107,2018,Kabupaten Alor,2,Wakil Bupati,"Imran Duru, S.Pd",59953,53.65,TRUE,1,,100
+108,2018,Kabupaten Ende,1,Wakil Bupati,"H.Munawar.A Achmad,S.Sos",49796,37.92,TRUE,0,100,
+108,2018,Kabupaten Ende,2,Wakil Bupati,"Drs. H. Djafar Achmad, Mm",81532,62.08,TRUE,1,,100
+109,2018,Kabupaten Kupang,1,Wakil Bupati,"Aljery Esau Monas, S.Tp",37771,24.28,TRUE,0,57.28,
+109,2018,Kabupaten Kupang,2,Wakil Bupati,"Jerry Manafe, Sh, M.Th",51324,33,TRUE,0,48.23,
+109,2018,Kabupaten Kupang,3,Wakil Bupati,Bernard Paulus Thomas Wellem Bait,23693,15.23,TRUE,0,33.43,
+109,2018,Kabupaten Kupang,4,Wakil Bupati,"Joao Antonio De Jesus Costa, Sh",28307,18.2,TRUE,0,27.49,
+109,2018,Kabupaten Kupang,5,Wakil Bupati,"Johannis Silvester Ottemoesoe, Se",14448,9.29,TRUE,1,,27.49
+110,2018,Kabupaten Manggarai Timur,1,Wakil Bupati,Drs. Jaghur Stefanus,46501,32.62,TRUE,0,50.93,
+110,2018,Kabupaten Manggarai Timur,2,Wakil Bupati,Sirajudin Paskalis,26099,18.31,TRUE,0,48.29,
+110,2018,Kabupaten Manggarai Timur,3,Wakil Bupati,"Yoseph Byron Aur, S.Sos",4274,29.98,TRUE,0,40.13,
+110,2018,Kabupaten Manggarai Timur,4,Wakil Bupati,Fransiskus Anggal,14465,10.15,TRUE,0,19.1,
+110,2018,Kabupaten Manggarai Timur,5,Wakil Bupati,"Kasmir Don, Sh",12752,8.95,TRUE,1,,19.1
+111,2018,Kabupaten Nagekeo,1,Wakil Bupati,"Oskarianus Meta, Ss",2968,3.9,TRUE,0,34.94,
+111,2018,Kabupaten Nagekeo,2,Wakil Bupati,"Marianus Waja, Sh",23613,31.04,TRUE,0,59.8,
+111,2018,Kabupaten Nagekeo,3,Wakil Bupati,Servasius Phodi,2188,28.76,TRUE,0,35.44,
+111,2018,Kabupaten Nagekeo,4,Wakil Bupati,Ndait Adrianus,5081,6.68,TRUE,0,36.31,
+111,2018,Kabupaten Nagekeo,5,Wakil Bupati,Marselinus F. Ajo Bupu,22543,29.63,TRUE,1,,36.31
+112,2018,Kabupaten Rote Ndao,1,Wakil Bupati,"Dr. Adolfina Elisabeth Koamesakh, M.Th.,M.Hum",14204,21.72,TRUE,0,36.38,
+112,2018,Kabupaten Rote Ndao,2,Wakil Bupati,Drs. Samuel Conny Penna,9585,14.66,TRUE,0,48.45,
+112,2018,Kabupaten Rote Ndao,3,Wakil Bupati,"Stefanus M. Saek, Se, M.Si",22098,33.79,TRUE,0,63.62,
+112,2018,Kabupaten Rote Ndao,4,Wakil Bupati,"Drs. Erenst Salmun Zadrak Pella, M.Si",19504,29.83,TRUE,1,,63.62
+113,2018,Kabupaten Sikka,1,Wakil Bupati,"Fransiskus Stephanus Say, Se",49696,31.62,TRUE,0,71.73,
+113,2018,Kabupaten Sikka,2,Wakil Bupati,Romanus Woga,6304,40.11,TRUE,0,68.37,
+113,2018,Kabupaten Sikka,3,Wakil Bupati,"Rafael Raga, Sp",44417,28.26,TRUE,1,,68.37
+114,2018,Kabupaten Sumba Barat Daya,1,Wakil Bupati,"Gerson Tanggu Dendo, Sh",63886,44.58,TRUE,0,52.71,
+114,2018,Kabupaten Sumba Barat Daya,2,Wakil Bupati,"Kornelis Tanggu Bore, Sh",11658,8.13,TRUE,0,55.42,
+114,2018,Kabupaten Sumba Barat Daya,3,Wakil Bupati,"Marthen Christian Taka, S.Ip",67763,47.29,TRUE,1,,55.42
+115,2018,Kabupaten Sumba Tengah,1,Wakil Bupati,"Umbu Windi, S.Ipem",6965,18.67,TRUE,0,47.13,
+115,2018,Kabupaten Sumba Tengah,2,Wakil Bupati,Ir. Daniel Landa,10619,28.46,TRUE,0,45.56,
+115,2018,Kabupaten Sumba Tengah,3,Wakil Bupati,"Samuel Saki Pekulimu,S.Sos",6379,17.1,TRUE,0,30.04,
+115,2018,Kabupaten Sumba Tengah,4,Wakil Bupati,"Marthinus Umbu Djoka, S.Hut, M.Si",4827,12.94,TRUE,0,35.79,
+115,2018,Kabupaten Sumba Tengah,5,Wakil Bupati,Drs. Tagela Ibi Sola,8525,22.85,TRUE,1,,35.79
+116,2018,Kabupaten Timor Tengah Selatan,1,Wakil Bupati,Ir. Yaan Mazrich Jermias Tanaem,32192,16.3,TRUE,0,49.13,
+116,2018,Kabupaten Timor Tengah Selatan,2,Wakil Bupati,"Alexander Kase, S.Pd.K",64839,32.83,TRUE,0,65.54,
+116,2018,Kabupaten Timor Tengah Selatan,3,Wakil Bupati,"Johny Army Konay, Sh",64607,32.71,TRUE,0,50.87,
+116,2018,Kabupaten Timor Tengah Selatan,4,Wakil Bupati,"Yefta Ambrosius Lodowijk Mella, A.Md",35858,18.16,TRUE,1,,50.87
+117,2018,Kabupaten Biak Numfor,1,Wakil Bupati,"Justinus Wihelmus Noriwari, S.Th",12043,23.36,TRUE,0,66.25,
+117,2018,Kabupaten Biak Numfor,2,Wakil Bupati,"Nehemia Wospakrik, Se.,Mm.,B.Sc.",22108,42.89,TRUE,0,76.64,
+117,2018,Kabupaten Biak Numfor,3,Wakil Bupati,Ir. Akmal Bachri Hi Kalabe,17397,33.75,TRUE,1,,76.64
+118,2018,Kabupaten Deiyai,1,Wakil Bupati,Hengky Pigai S.Pt,15804,32.02,TRUE,0,47.03,
+118,2018,Kabupaten Deiyai,2,Wakil Bupati,Abraham Tekege,7411,15.01,TRUE,0,38.93,
+118,2018,Kabupaten Deiyai,3,Wakil Bupati,"Robert Dawapa, S.Sos",11808,23.92,TRUE,0,52.96,
+118,2018,Kabupaten Deiyai,4,Wakil Bupati,Anakletus Doo,14335,29.04,TRUE,1,,52.96
+119,2018,Kabupaten Jayawijaya,1,Wakil Bupati,"Marthin Yogobi Sh,M.Hum.",0,0,TRUE,1,,29.04
+120,2018,Kabupaten Mamberamo Tengah,1,Wakil Bupati,"Yonas Kenelak, S. Sos",0,0,TRUE,1,,0
+121,2018,Kabupaten Mimika,1,Wakil Bupati,Alpius Edowai,0,0,TRUE,0,7.93,
+121,2018,Kabupaten Mimika,2,Wakil Bupati,"Albert Bolang, Sh. Mh",129,7.93,TRUE,0,10.51,
+121,2018,Kabupaten Mimika,3,Wakil Bupati,"Athanasius Allo Rafra,Sh. Msi",42,2.58,TRUE,0,24.4,
+121,2018,Kabupaten Mimika,4,Wakil Bupati,"Abd Muis, S.T. M.M",355,21.82,TRUE,0,21.88,
+121,2018,Kabupaten Mimika,5,Wakil Bupati,"Yustus Way, S.Sos",1,0.06,TRUE,0,67.67,
+121,2018,Kabupaten Mimika,6,Wakil Bupati,"Johanes Rettob, S.Sos, M.M",11,67.61,TRUE,0,67.61,
+121,2018,Kabupaten Mimika,7,Wakil Bupati,H.Basri,0,0,TRUE,1,,67.61
+122,2018,Kabupaten Paniai,1,Wakil Bupati,Drs. Yeheskiel Tenouye,0,0,TRUE,0,0,
+122,2018,Kabupaten Paniai,2,Wakil Bupati,"Marten Mote, Se",0,0,TRUE,0,0,
+122,2018,Kabupaten Paniai,3,Wakil Bupati,"Oktopianus Gobai, S.Ip",0,0,TRUE,0,0,
+122,2018,Kabupaten Paniai,4,Wakil Bupati,"Markus Boma, S.Pd",0,0,TRUE,0,0,
+122,2018,Kabupaten Paniai,5,Wakil Bupati,"Yan Tebai, S.Sos., M.Si",0,0,TRUE,1,,0
+123,2018,Kabupaten Puncak,1,Wakil Bupati,"Pelinus Balinal. S.Sos, Ag",0,0,TRUE,1,,0
+124,2018,Kabupaten Indragiri Hilir,1,Wakil Bupati,"Musmulyadi, Ss",56073,23.35,TRUE,0,48.3,
+124,2018,Kabupaten Indragiri Hilir,2,Wakil Bupati,"Dr. H. Ali Azhar, S.Sos, Mh",59939,24.95,TRUE,0,76.65,
+124,2018,Kabupaten Indragiri Hilir,3,Wakil Bupati,H. Syamsuddin Uti,124178,51.7,TRUE,1,,76.65
+125,2018,Kabupaten Mamasa,1,Wakil Bupati,Marthinus Tiranda,48618,61.24,TRUE,1,,112.94
+126,2018,Kabupaten Polewali Mandar,1,Wakil Bupati,"Marwan, St",97922,44.66,TRUE,0,100,
+126,2018,Kabupaten Polewali Mandar,2,Wakil Bupati,"Drs. H. M. Natsir Rahmat, Mm",121347,55.34,TRUE,1,,100
+127,2018,Kabupaten Bantaeng,1,Wakil Bupati,Nurdin Halim,17155,16.22,TRUE,0,54.07,
+127,2018,Kabupaten Bantaeng,2,Wakil Bupati,Andi Mappatoba,40017,37.85,TRUE,0,83.78,
+127,2018,Kabupaten Bantaeng,3,Wakil Bupati,Drs. H. Sahabuddin,48562,45.93,TRUE,1,,83.78
+128,2018,Kabupaten Bone,1,Wakil Bupati,"Drs. H. Ambo Dalle, Mm.",232961,62.95,TRUE,1,,108.88
+129,2018,Kabupaten Enrekang,1,Wakil Bupati,"Asman, Se",68384,69.4,TRUE,1,,132.35
+130,2018,Kabupaten Jeneponto,1,Wakil Bupati,"Muhammad Kasmin, Ms, Se",63369,30.23,TRUE,0,49.9,
+130,2018,Kabupaten Jeneponto,2,Wakil Bupati,Andi Tahal Fasni,41231,19.67,TRUE,0,63.05,
+130,2018,Kabupaten Jeneponto,3,Wakil Bupati,"H. Paris Yasir, Se",90942,43.38,TRUE,0,50.1,
+130,2018,Kabupaten Jeneponto,4,Wakil Bupati,"H. Isnaad Ibrahim, Sh",14094,6.72,TRUE,1,,50.1
+131,2018,Kota Makassar,1,Wakil Walikota,Drg. A. Rachmatika Dewi Yustitia Iqbal,212143,46.3,TRUE,1,,53.02
+132,2018,Kota Palopo,1,Wakil Walikota,"Ir. H. Rahmat Masri Bandaso, M.Si",51695,60.4,TRUE,0,100,
+132,2018,Kota Palopo,2,Wakil Walikota,"Budi Sada, S.Ip, Mm",33887,39.6,TRUE,1,,100
+133,2018,Kota Pare Pare,1,Wakil Walikota,H. Pangerang Rahim,39996,51.22,TRUE,0,100,
+133,2018,Kota Pare Pare,2,Wakil Walikota,"Asriady Samad, A.Md",38098,48.78,TRUE,1,,100
+134,2018,Kabupaten Luwu,1,Wakil Bupati,Syukur Bijak,117027,60.58,TRUE,0,100,
+134,2018,Kabupaten Luwu,2,Wakil Bupati,"Emmy Tallesang, Ma",76141,39.42,TRUE,1,,100
+135,2018,Kabupaten Pinrang,1,Wakil Bupati,H. Usman Marham,81191,38.08,TRUE,0,78.51,
+135,2018,Kabupaten Pinrang,2,Wakil Bupati,"Drs.H. Alimin,M.Si",862,40.43,TRUE,0,58.03,
+135,2018,Kabupaten Pinrang,3,Wakil Bupati,"H. A. Sofyan Nawir, S.Sos.,M.Si",37535,17.6,TRUE,0,21.49,
+135,2018,Kabupaten Pinrang,4,Wakil Bupati,"Ahsan, Sh",8301,3.89,TRUE,1,,21.49
+136,2018,Kabupaten Sidenreng Rappang,1,Wakil Bupati,"Abdul Majid Hafid, Se., M. Si",67128,38.86,TRUE,0,100,
+136,2018,Kabupaten Sidenreng Rappang,2,Wakil Bupati,Ir. Mahmud Yusuf,105598,61.14,TRUE,1,,100
+137,2018,Kabupaten Sinjai,1,Wakil Bupati,A. Kartini,51069,37.96,TRUE,0,68.17,
+137,2018,Kabupaten Sinjai,2,Wakil Bupati,"A. Mahyanto Massarappi, Sh., Mh",40636,30.21,TRUE,0,62.04,
+137,2018,Kabupaten Sinjai,3,Wakil Bupati,"Mizar Roem, Se",42828,31.83,TRUE,1,,62.04
+138,2018,Kabupaten Wajo,1,Wakil Bupati,"H. Amran, Se",104384,57.91,TRUE,0,100,
+138,2018,Kabupaten Wajo,2,Wakil Bupati,"Kh. Anwar Sadat Bin Abudl Malik, Lc.,M.A",75876,42.09,TRUE,1,,100
+139,2018,Kabupaten Donggala,1,Wakil Bupati,"Abdul Rahman, St, Iai",39727,25.95,TRUE,0,60.6,
+139,2018,Kabupaten Donggala,2,Wakil Bupati,"Moh. Yasin, S.Sos",53042,34.65,TRUE,0,61.99,
+139,2018,Kabupaten Donggala,3,Wakil Bupati,"Taufik M. Burhan, S.Pd, M.Si",41858,27.34,TRUE,0,39.41,
+139,2018,Kabupaten Donggala,4,Wakil Bupati,"Mohamad Yasin. M. Lataka, Se, Mm",18472,12.07,TRUE,1,,39.41
+140,2018,Kabupaten Morowali,1,Wakil Bupati,"Dr. H. Najamudin, S.Ag, S.Pd, M.Pd",26277,35.65,TRUE,0,59.74,
+140,2018,Kabupaten Morowali,2,Wakil Bupati,Aminudin Awaludin,17758,24.09,TRUE,0,51.8,
+140,2018,Kabupaten Morowali,3,Wakil Bupati,"Drs. H.Chaerudin N,Zen,Mm",20423,27.71,TRUE,0,31.9,
+140,2018,Kabupaten Morowali,4,Wakil Bupati,Sunardin Firdaus,3089,4.19,TRUE,0,12.55,
+140,2018,Kabupaten Morowali,5,Wakil Bupati,Drs. Ismail Suaib,6164,8.36,TRUE,1,,12.55
+141,2018,Kabupaten Parigi Moutong,1,Wakil Bupati,"Badrun Nggai, Se",99069,44.73,TRUE,0,65.67,
+141,2018,Kabupaten Parigi Moutong,2,Wakil Bupati,"Rahmawati M. Nur, S.Ag",46368,20.94,TRUE,0,55.27,
+141,2018,Kabupaten Parigi Moutong,3,Wakil Bupati,"Dra. Hj. Yufni Bungkundapu, M.Si",76031,34.33,TRUE,1,,55.27
+142,2018,Kabupaten Kolaka,1,Wakil Bupati,"H. Muhammad Jayadin, Se., M.E",73004,62.82,TRUE,0,100,
+142,2018,Kabupaten Kolaka,2,Wakil Bupati,"H. Syahrul Beddu, S.Ip., Mh",43204,37.18,TRUE,1,,100
+143,2018,Kabupaten Konawe,1,Wakil Bupati,"Ir. Mansur, Mt",2905,2.18,TRUE,0,22.93,
+143,2018,Kabupaten Konawe,2,Wakil Bupati,Hj. Murni Tombili,27624,20.75,TRUE,0,48.5,
+143,2018,Kabupaten Konawe,3,Wakil Bupati,"Adi Jaya Putra, B.Bus.,M.Com",36942,27.75,TRUE,0,77.06,
+143,2018,Kabupaten Konawe,4,Wakil Bupati,"Gusli Topan Sabara, St., Mm",65646,49.31,TRUE,1,,77.06
+144,2018,Kota Bau Bau,1,Wakil Walikota,La Ode Yasin,16094,24.57,TRUE,0,55.49,
+144,2018,Kota Bau Bau,2,Wakil Walikota,La Ode Ahmad Monianse,20255,30.92,TRUE,0,36.81,
+144,2018,Kota Bau Bau,3,Wakil Walikota,Ikhsan Ismail,3861,5.89,TRUE,0,31.86,
+144,2018,Kota Bau Bau,4,Wakil Walikota,"Drs. H. Ahmad, Mm",17014,25.97,TRUE,0,38.62,
+144,2018,Kota Bau Bau,5,Wakil Walikota,"Ilyas, S.Sos",8284,12.65,TRUE,1,,38.62
+145,2018,Kabupaten Bolaang Mongondow Utara,1,Wakil Bupati,"Arman Lumoto, S.Ag., M.Pd.I",10521,21.31,TRUE,0,61.1,
+145,2018,Kabupaten Bolaang Mongondow Utara,2,Wakil Bupati,"Drs. Hi. Amin Lasena, M.Ap",19645,39.79,TRUE,0,78.69,
+145,2018,Kabupaten Bolaang Mongondow Utara,3,Wakil Bupati,"Drs. Murianto Babay, M.M",19202,38.9,TRUE,1,,78.69
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,1,Wakil Bupati,Ir. Jutixel Rudolf Parera,10833,23.67,TRUE,0,46.77,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,2,Wakil Bupati,"Heronimus Makainas, Se",10572,23.1,TRUE,0,30.21,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,3,Wakil Bupati,"Elians Bawole, Se",3256,7.11,TRUE,0,53.22,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,4,Wakil Bupati,"Drs. John Heit Palandung, M.Si",21103,46.11,TRUE,1,,53.22
+147,2018,Kabupaten Kepulauan Talaud,1,Wakil Bupati,Moktar Arunde Parapaga,22674,39.09,TRUE,0,67.26,
+147,2018,Kabupaten Kepulauan Talaud,2,Wakil Bupati,"Heber Pasiak, S.Pi",16341,28.17,TRUE,0,53.21,
+147,2018,Kabupaten Kepulauan Talaud,3,Wakil Bupati,"Capt. Gunawan Talenggoran, Se, M.Mar",14525,25.04,TRUE,0,32.73,
+147,2018,Kabupaten Kepulauan Talaud,4,Wakil Bupati,"Dr. Clartje Silvia. E. Awulle, S.H. M.Th",446,7.69,TRUE,1,,32.73
+148,2018,Kota Kotamobagu,1,Wakil Walikota,"Nayodo Koerniawan, Sh",37508,54.31,TRUE,0,100,
+148,2018,Kota Kotamobagu,2,Wakil Walikota,Drs. Suharjo Makalalag,31561,45.69,TRUE,1,,100
+149,2018,Kabupaten Minahasa,1,Wakil Bupati,"Careig Naichel Runtu, S.Ip",71124,34.98,TRUE,0,100,
+149,2018,Kabupaten Minahasa,2,Wakil Bupati,"Robby Dondokambey, S.Si",13219,65.02,TRUE,1,,100
+150,2018,Kabupaten Minahasa Tenggara,1,Wakil Bupati,Jesaja Jocke Oscar Legi,47499,67.26,TRUE,1,,132.28
+151,2018,Kota Padang,1,Wakil Walikota,"H. Desri Ayunda, Se, Mba",62311,34.62,TRUE,0,100,
+151,2018,Kota Padang,2,Wakil Walikota,"Hendri Septa, B.Bus (Acc)., Mib",117652,65.38,TRUE,1,,100
+152,2018,Kota Padang Panjang,1,Wakil Walikota,"Taufiq Idris, Sh",4256,16.54,TRUE,0,52.84,
+152,2018,Kota Padang Panjang,2,Wakil Walikota,"H. Eko Furqani, Se, Mm",9338,36.3,TRUE,0,43.84,
+152,2018,Kota Padang Panjang,3,Wakil Walikota,"Ahmad Fadly, S.Psi",194,7.54,TRUE,0,47.16,
+152,2018,Kota Padang Panjang,4,Wakil Walikota,Drs. Asrul,10191,39.62,TRUE,1,,47.16
+153,2018,Kota Pariaman,1,Wakil Walikota,"Muhamad Ridwan, S.Ip",0,0,TRUE,0,0,
+153,2018,Kota Pariaman,2,Wakil Walikota,Pabrisal,0,0,TRUE,0,0,
+153,2018,Kota Pariaman,3,Wakil Walikota,"Drs. Mardison Mahyuddin, Mm",0,0,TRUE,1,,0
+154,2018,Kota Sawahlunto,1,Wakil Walikota,"H. Dasrial Ery, Se.Mm",6659,19.21,TRUE,0,52.91,
+154,2018,Kota Sawahlunto,2,Wakil Walikota,"H. Ismed, Sh",11681,33.7,TRUE,0,80.78,
+154,2018,Kota Sawahlunto,3,Wakil Walikota,"Zohirin Sayuti, Se",16319,47.08,TRUE,1,,80.78
+155,2018,Kabupaten Banyuasin,1,Wakil Bupati,"H. Hazuar Bidui Az, S. Sos., M.M",31758,9.21,TRUE,0,34.74,
+155,2018,Kabupaten Banyuasin,2,Wakil Bupati,H. Hazwar Hamid,88008,25.53,TRUE,0,45.86,
+155,2018,Kabupaten Banyuasin,3,Wakil Bupati,Ir. H. Supartijo,70109,20.33,TRUE,0,30.97,
+155,2018,Kabupaten Banyuasin,4,Wakil Bupati,"H. Agus Salam, Sh",36683,10.64,TRUE,0,44.93,
+155,2018,Kabupaten Banyuasin,5,Wakil Bupati,H. Slamet,118227,34.29,TRUE,1,,44.93
+156,2018,Kabupaten Empat Lawang,1,Wakil Bupati,"H. M. Eduar Kohar,Se.,Mm  (Hek)",47042,34.75,TRUE,0,94.91,
+156,2018,Kabupaten Empat Lawang,2,Wakil Bupati,Yulius Maulana,81443,60.16,TRUE,0,65.26,
+156,2018,Kabupaten Empat Lawang,3,Wakil Bupati,"Drs.H.Kison Syahrin,Mm",69,5.1,TRUE,1,,65.26
+157,2018,Kota Lubuklinggau,1,Wakil Walikota,"Sofyan, Sh",7898,7.05,TRUE,0,63.23,
+157,2018,Kota Lubuklinggau,2,Wakil Walikota,"H. Sulaiman Kohar, Sh, Mh",62923,56.18,TRUE,0,92.95,
+157,2018,Kota Lubuklinggau,3,Wakil Walikota,"Riezky Aprilia, Sh, Mh",41179,36.77,TRUE,1,,92.95
+158,2018,Kota Pagar Alam,1,Wakil Walikota,Ir. Musabaqo,1969,2.35,TRUE,0,30.09,
+158,2018,Kota Pagar Alam,2,Wakil Walikota,"Muhammad Fadli, Se",23217,27.74,TRUE,0,47.13,
+158,2018,Kota Pagar Alam,3,Wakil Walikota,"Ir. Armansah, Mm",16232,19.39,TRUE,0,41.63,
+158,2018,Kota Pagar Alam,4,Wakil Walikota,"H. Suharindi Sj, S.Pd.,Mm",18617,22.24,TRUE,0,36.18,
+158,2018,Kota Pagar Alam,5,Wakil Walikota,H. A. Fachri,11669,13.94,TRUE,0,28.27,
+158,2018,Kota Pagar Alam,6,Wakil Walikota,"Febrianto, Sh., S.Si",11998,14.33,TRUE,1,,28.27
+159,2018,Kota Palembang,1,Wakil Walikota,"Fitrianti Agustinda, S.H.",207015,46.12,TRUE,0,83.32,
+159,2018,Kota Palembang,2,Wakil Walikota,"Ir. Kgs. H. Abdul Rozak, M.Sc.",166976,37.2,TRUE,0,41.34,
+159,2018,Kota Palembang,3,Wakil Walikota,Hernoe Roesprijadji,18584,4.14,TRUE,0,16.68,
+159,2018,Kota Palembang,4,Wakil Walikota,H. Syaidina Ali,56309,12.54,TRUE,1,,16.68
+160,2018,Kota Prabumulih,1,Wakil Walikota,"H. Andriansyah Fikri, S.H.",7443,79.27,TRUE,1,,91.81
+161,2018,Kabupaten Lahat,1,Wakil Bupati,"Herliansyah, Sh., Mh",45205,21.51,TRUE,0,26.45,
+161,2018,Kabupaten Lahat,2,Wakil Bupati,"H. Erlansyah Rumsyah, Se, Mm",10372,4.94,TRUE,0,48.26,
+161,2018,Kabupaten Lahat,3,Wakil Bupati,"H. Haryanto, Se, Mm",91033,43.32,TRUE,0,66.95,
+161,2018,Kabupaten Lahat,4,Wakil Bupati,"Drs. Parhan Berza, Mm",49666,23.63,TRUE,0,30.23,
+161,2018,Kabupaten Lahat,5,Wakil Bupati,Rozi Adiansyah,13877,6.6,TRUE,1,,30.23
+162,2018,Kabupaten Muara Enim,1,Wakil Bupati,"Ir. H. Hanan Zulkarnain, Mtp",33113,19.85,TRUE,0,43.94,
+162,2018,Kabupaten Muara Enim,2,Wakil Bupati,M. Thamrin Az,40192,24.09,TRUE,0,45.07,
+162,2018,Kabupaten Muara Enim,3,Wakil Bupati,"Syuryadi, Se",35005,20.98,TRUE,0,56.05,
+162,2018,Kabupaten Muara Enim,4,Wakil Bupati,"H. Juarsah, Sh",58504,35.07,TRUE,1,,56.05
+163,2018,Kabupaten Ogan Komering Ilir,1,Wakil Bupati,H. M. Dja'Far Shodiq,169027,46.91,TRUE,0,79.78,
+163,2018,Kabupaten Ogan Komering Ilir,2,Wakil Bupati,"Made Indrawan, St., Mh",118438,32.87,TRUE,0,53.1,
+163,2018,Kabupaten Ogan Komering Ilir,3,Wakil Bupati,H. Qomarus Zaman,72893,20.23,TRUE,1,,53.1
+164,2018,Kabupaten Batu Bara,1,Wakil Bupati,"Dr. H. Mhd Syafi'I, Sh, Mh, M.Si",31147,17.79,TRUE,0,52.89,
+164,2018,Kabupaten Batu Bara,2,Wakil Bupati,"H. Janmat Sembiring, Se",61457,35.1,TRUE,0,76.94,
+164,2018,Kabupaten Batu Bara,3,Wakil Bupati,"Oky Iqbal Frima, Se",73251,41.84,TRUE,0,47.1,
+164,2018,Kabupaten Batu Bara,4,Wakil Bupati,"Drs. H. Sofyan Alwi, M.Hum",9213,5.26,TRUE,1,,47.1
+165,2018,Kabupaten Dairi,1,Wakil Bupati,"Azhar Bintang, Sh",59086,40.22,TRUE,0,99.04,
+165,2018,Kabupaten Dairi,2,Wakil Bupati,"Jimmy Andrea Lukita Sihombing, Sh",86403,58.82,TRUE,0,59.78,
+165,2018,Kabupaten Dairi,3,Wakil Bupati,"Bilker Purba, Amd",1408,0.96,TRUE,1,,59.78
+166,2018,Kabupaten Deli Serdang,1,Wakil Bupati,H.M Ali Yusuf Siregar,449908,82.22,TRUE,1,,83.18
+167,2018,Kota Padang Sidimpuan,1,Wakil Walikota,"Dr. H. Ali Pada Harahap, M.Pd",25104,25.43,TRUE,0,55.8,
+167,2018,Kota Padang Sidimpuan,2,Wakil Walikota,"Drs. H. Abd. Rosad Lubis, Mm",29973,30.37,TRUE,0,74.57,
+167,2018,Kota Padang Sidimpuan,3,Wakil Walikota,"Ir. H. Arwin Siregar, Mm",43628,44.2,TRUE,1,,74.57
+168,2018,Kabupaten Langkat,1,Wakil Bupati,"H. Syah Afandin, Sh",248078,51.68,TRUE,0,88.06,
+168,2018,Kabupaten Langkat,2,Wakil Bupati,Budiono.Se,17465,36.38,TRUE,0,48.32,
+168,2018,Kabupaten Langkat,3,Wakil Bupati,"Heriansyah, S.Ag",57336,11.94,TRUE,1,,48.32
+169,2018,Kabupaten Padang Lawas,1,Wakil Bupati,"Ir. H. Syarifuddin Hsb, M.Si",32178,27.5,TRUE,0,84.23,
+169,2018,Kabupaten Padang Lawas,2,Wakil Bupati,"Drg. H.Ahmad Zarnawi Pasaribu,C.Ht.,Mm.,M.Si",66365,56.73,TRUE,0,72.5,
+169,2018,Kabupaten Padang Lawas,3,Wakil Bupati,Syahrul Efendi Hasibuan,18448,15.77,TRUE,1,,72.5
+170,2018,Kabupaten Padang Lawas Utara,1,Wakil Bupati,"H. Hariro Harahap, Se, M.Si",86976,80.23,TRUE,1,,96
+171,2018,Kabupaten Tapanuli Utara,1,Wakil Bupati,"SARLANDY HUTABARAT, SH",69443,46.19,TRUE,0,86.76,
+171,2018,Kabupaten Tapanuli Utara,2,Wakil Bupati,"FRENGKY P. SIMANJUNTAK, SE, M.Si",61002,40.57,TRUE,0,53.81,
+171,2018,Kabupaten Tapanuli Utara,3,Wakil Bupati,"Drs. HOTMAN P. HUTASOIT, BSc, SH",19901,13.24,TRUE,1,,53.81

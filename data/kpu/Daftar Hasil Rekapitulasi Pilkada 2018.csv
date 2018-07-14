@@ -1,1045 +1,523 @@
-Tahun,Kode Provinsi,Provinsi,Kode Kabupaten/Kota,Kabupaten/Kota,No Pasangan,Jabatan,Nama
-2018,51,Bali,-,-,1,Gubernur,"Dr. Ir. Wayan Koster, M.M."
-2018,51,Bali,-,-,1,Wakil Gubernur,"Dr. Ir. Tjok Oka Artha Ardhana Sukawati, M.Si."
-2018,51,Bali,-,-,2,Gubernur,"Ida Bagus Rai Dharmawijaya Mantra, S.E., M.Si"
-2018,51,Bali,-,-,2,Wakil Gubernur,Drs. I Ketut Sudikerta
-2018,32,Jawa Barat,-,-,1,Gubernur,"H. Mochamad Ridwan Kamil, St., M.U.D"
-2018,32,Jawa Barat,-,-,1,Wakil Gubernur,"H. Uu Ruzhanul Ulum, Se"
-2018,32,Jawa Barat,-,-,2,Gubernur,"Mayjen Tni (Purn.) Dr. H. Hasanuddin, Se., Mm"
-2018,32,Jawa Barat,-,-,2,Wakil Gubernur,"Irjen. Pol (Purn.) Dr. Drs. H. Anton Charliyan, M.P.K.N."
-2018,32,Jawa Barat,-,-,3,Gubernur,"Mayjen Tni (Purn) H. Sudrajat, M.Pa"
-2018,32,Jawa Barat,-,-,3,Wakil Gubernur,H. Ahmad Syaikhu
-2018,32,Jawa Barat,-,-,4,Gubernur,"H. Deddy Mizwar, Se., S.Sn., M.I.Pol"
-2018,32,Jawa Barat,-,-,4,Wakil Gubernur,"H. Dedi Mulyadi, Sh"
-2018,33,Jawa Tengah,-,-,1,Gubernur,"H. Ganjar Pranowo, S.H, M.Ip"
-2018,33,Jawa Tengah,-,-,1,Wakil Gubernur,H. Taj Yasin
-2018,33,Jawa Tengah,-,-,2,Gubernur,H. Sudirman Said
-2018,33,Jawa Tengah,-,-,2,Wakil Gubernur,Hj. Ida Fauziyah
-2018,35,Jawa Timur,-,-,1,Gubernur,Khofifah Indar Parawansa
-2018,35,Jawa Timur,-,-,1,Wakil Gubernur,"Dr. Emil Elestianto Dardak, M.Sc."
-2018,35,Jawa Timur,-,-,2,Gubernur,Drs. H. Saifullah Yusuf
-2018,35,Jawa Timur,-,-,2,Wakil Gubernur,"Hj. Puti Guntur Soekarno, S.Ip"
-2018,61,Kalimantan Barat,-,-,1,Gubernur,"Drs. Milton Crosby, M.Si."
-2018,61,Kalimantan Barat,-,-,1,Wakil Gubernur,"H. Boyman Harun, S.H."
-2018,61,Kalimantan Barat,-,-,2,Gubernur,Dr. Karolin Margret Natasa
-2018,61,Kalimantan Barat,-,-,2,Wakil Gubernur,"Suryadman Gidot, M.Pd."
-2018,61,Kalimantan Barat,-,-,3,Gubernur,"H. Sutarmidji, S.H., M.Hum."
-2018,61,Kalimantan Barat,-,-,3,Wakil Gubernur,"Drs. H. Ria Norsan, M.M., M.H."
-2018,64,Kalimantan Timur,-,-,1,Gubernur,"Dr. H. Andi Sofyan Hasdam, Sp.S"
-2018,64,Kalimantan Timur,-,-,1,Wakil Gubernur,"H.M. Rizal Effendi, Se"
-2018,64,Kalimantan Timur,-,-,2,Gubernur,"H. Syaharie Ja'Ang, Sh,M.Si"
-2018,64,Kalimantan Timur,-,-,2,Wakil Gubernur,"H. Awang Ferdian Hidayat, Se, Mm"
-2018,64,Kalimantan Timur,-,-,3,Gubernur,"Dr. Ir. H. Isran Noor, M.Si"
-2018,64,Kalimantan Timur,-,-,3,Wakil Gubernur,"H. Hadi Mulyadi, S.Si, M.Si"
-2018,64,Kalimantan Timur,-,-,4,Gubernur,"Ir. H. Rusmadi, Ms, Ph.D"
-2018,64,Kalimantan Timur,-,-,4,Wakil Gubernur,Drs. H. Safaruddin
-2018,18,Lampung,-,-,1,Gubernur,"H. Muhammad Ridho Ficardo, M.Si"
-2018,18,Lampung,-,-,1,Wakil Gubernur,"Bachtiar Basri, Sh., Mm"
-2018,18,Lampung,-,-,2,Gubernur,"Drs. H. Herman Hasanusi, Mm"
-2018,18,Lampung,-,-,2,Wakil Gubernur,"Ir. Sutono, Mm"
-2018,18,Lampung,-,-,3,Gubernur,Ir. H. Arinal Djunaidi
-2018,18,Lampung,-,-,3,Wakil Gubernur,"Hj. Chusnunia, Ph.D"
-2018,18,Lampung,-,-,4,Gubernur,Dr. H. Mustafa
-2018,18,Lampung,-,-,4,Wakil Gubernur,"H. Ahmad Jajuli Sip.,M.Si"
-2018,81,Maluku,-,-,1,Gubernur,Ir.Said Assagaff
-2018,81,Maluku,-,-,1,Wakil Gubernur,Ir.Anderias Rentanubun
-2018,81,Maluku,-,-,2,Gubernur,Irjen Pol. (Purn) Drs. Murad Ismail
-2018,81,Maluku,-,-,2,Wakil Gubernur,Drs. Barnabas Orno
-2018,81,Maluku,-,-,3,Gubernur,"Herman Adrian Koedoeboen,Sh.M.Si"
-2018,81,Maluku,-,-,3,Wakil Gubernur,"H.Abdullah Vanath,S.Sos,Mmp"
-2018,82,Maluku Utara,-,-,1,Gubernur,Ahmad Hidayat Mus
-2018,82,Maluku Utara,-,-,1,Wakil Gubernur,Dr. Rivai Umar
-2018,82,Maluku Utara,-,-,2,Gubernur,"Dr. H. Burhan Abdurahman, Sh., Mm."
-2018,82,Maluku Utara,-,-,2,Wakil Gubernur,"Drs. Ishak Jamaluddin, M.Pd."
-2018,82,Maluku Utara,-,-,3,Gubernur,"Kh. Abdul Gani Kasuba, Lc."
-2018,82,Maluku Utara,-,-,3,Wakil Gubernur,"Ir. M. Al Yasin Ali, M.Mt."
-2018,82,Maluku Utara,-,-,4,Gubernur,"Dr. H. Muhammad Kasuba, M.A."
-2018,82,Maluku Utara,-,-,4,Wakil Gubernur,"Drs. A. Madjid Husen, M.M."
-2018,52,Nusa Tenggara Barat,-,-,1,Gubernur,"H. Moh. Suhaili Fadil Thohir, Sh"
-2018,52,Nusa Tenggara Barat,-,-,1,Wakil Gubernur,"H. Muh. Amin, Sh., M.Si"
-2018,52,Nusa Tenggara Barat,-,-,2,Gubernur,Tgh. Ahyar Abduh
-2018,52,Nusa Tenggara Barat,-,-,2,Wakil Gubernur,"H. Mori Hanafi, Se."
-2018,52,Nusa Tenggara Barat,-,-,3,Gubernur,"Dr. H. Zulkieflimansyah, Se, M.Sc"
-2018,52,Nusa Tenggara Barat,-,-,3,Wakil Gubernur,"Dr. Ir. Hj. Sitti Rohmi Djalilah, M.Pd"
-2018,52,Nusa Tenggara Barat,-,-,4,Gubernur,H. Moch. Ali Bin Dachlan
-2018,52,Nusa Tenggara Barat,-,-,4,Wakil Gubernur,"Tgh. Lalu Gede Muhamad Ali Wirasakti Amir Murni, Lc, Ma."
-2018,53,Nusa Tenggara Timur,-,-,1,Gubernur,"Ir. Esthon Leyloh Foenay, M.Si"
-2018,53,Nusa Tenggara Timur,-,-,1,Wakil Gubernur,Drs. Christian Rotok
-2018,53,Nusa Tenggara Timur,-,-,2,Gubernur,"Marianus Sae, S.Ap"
-2018,53,Nusa Tenggara Timur,-,-,2,Wakil Gubernur,Ir. Emelia Julia Nomleni
-2018,53,Nusa Tenggara Timur,-,-,3,Gubernur,"Dr. Benediktus Kabur Harman, Sh"
-2018,53,Nusa Tenggara Timur,-,-,3,Wakil Gubernur,"Drs. Benny Alexander Litelnoni, Sh., M.Si"
-2018,53,Nusa Tenggara Timur,-,-,4,Gubernur,Viktor Bungtilu Laiskodat
-2018,53,Nusa Tenggara Timur,-,-,4,Wakil Gubernur,Josef Adreanus Nae Soi
-2018,94,Papua,-,-,1,Gubernur,"Lukas Enembe.S.Ip, Mh"
-2018,94,Papua,-,-,1,Wakil Gubernur,"Klemen Tinal, Se.,Mm"
-2018,94,Papua,-,-,2,Gubernur,"Jhon Wempi Wetipo, Sh,. Mh"
-2018,94,Papua,-,-,2,Wakil Gubernur,"Dr. Habel Melkias Suwae, S.Sos,. Mm"
-2018,14,Riau,-,-,1,Gubernur,"Drs. H. Syamsuar, M.Si"
-2018,14,Riau,-,-,1,Wakil Gubernur,H. Edy Nasution
-2018,14,Riau,-,-,2,Gubernur,"Muhamad Lukman Edy, M.Si"
-2018,14,Riau,-,-,2,Wakil Gubernur,"Hardianto, Se"
-2018,14,Riau,-,-,3,Gubernur,"Dr. H. Firdaus, St.Mt"
-2018,14,Riau,-,-,3,Wakil Gubernur,"H. Rusli Effendi, Se, S.Pd.I, M.Si"
-2018,14,Riau,-,-,4,Gubernur,"Ir. H. Arsyadjuliandi Rahman, Mba"
-2018,14,Riau,-,-,4,Wakil Gubernur,"H. Suyatno, Amp"
-2018,73,Sulawesi Selatan,-,-,1,Gubernur,H. A. M. Nurdin Halid
-2018,73,Sulawesi Selatan,-,-,1,Wakil Gubernur,Dr. Ir. H. Abd. Aziz Qahhar Mudzakkar
-2018,73,Sulawesi Selatan,-,-,2,Gubernur,"Ir. H. Agus Arifin Nu'Mang, Ms"
-2018,73,Sulawesi Selatan,-,-,2,Wakil Gubernur,"Mayjen Tni (Purn) Drs. Tanribali Lamo, Sh"
-2018,73,Sulawesi Selatan,-,-,3,Gubernur,"Prof. Dr. Ir. H. M. Nurdin Abdullah, M.Agr."
-2018,73,Sulawesi Selatan,-,-,3,Wakil Gubernur,"Andi Sudirman Sulaiman, St"
-2018,73,Sulawesi Selatan,-,-,4,Gubernur,"H. Ichsan Yasin Limpo, Sh, Mh"
-2018,73,Sulawesi Selatan,-,-,4,Wakil Gubernur,"Ir. H. Andi Muzakkar, Mh"
-2018,74,Sulawesi Tenggara,-,-,1,Gubernur,"H. Ali Mazi, Sh"
-2018,74,Sulawesi Tenggara,-,-,1,Wakil Gubernur,"Dr. H. Lukman Abunawas, Sh, M.Si"
-2018,74,Sulawesi Tenggara,-,-,2,Gubernur,"Dr.Ir.H. Asrun, M.Eng.,Sc"
-2018,74,Sulawesi Tenggara,-,-,2,Wakil Gubernur,Ir. Hugua
-2018,74,Sulawesi Tenggara,-,-,3,Gubernur,Rusda Mahmud
-2018,74,Sulawesi Tenggara,-,-,3,Wakil Gubernur,Ir.H.Lm. Sjafei Kahar
-2018,16,Sumatera Selatan,-,-,1,Gubernur,"H. Herman Deru, Sh, Mm"
-2018,16,Sumatera Selatan,-,-,1,Wakil Gubernur,Ir. H. Mawardi Yahya
-2018,16,Sumatera Selatan,-,-,2,Gubernur,"H. Saifudin Aswari Riva'I, S.E"
-2018,16,Sumatera Selatan,-,-,2,Wakil Gubernur,"H.M. Irwansyah, S.Sos, M.Si"
-2018,16,Sumatera Selatan,-,-,3,Gubernur,"Ir. H. Ishak Mekki, Mm"
-2018,16,Sumatera Selatan,-,-,3,Wakil Gubernur,"Yudha Pratomo, M.Sc. Ph.D"
-2018,16,Sumatera Selatan,-,-,4,Gubernur,"H. Dodi Reza Alex Noerdin, Lic, Econ. Mba"
-2018,16,Sumatera Selatan,-,-,4,Wakil Gubernur,"H.M Giri Ramanda N. Kiemas Se, Mm"
-2018,12,Sumatera Utara,-,-,1,Gubernur,Edy Rahmayadi
-2018,12,Sumatera Utara,-,-,1,Wakil Gubernur,Musa Rajekshah
-2018,12,Sumatera Utara,-,-,2,Gubernur,Djarot Saiful Hidayat
-2018,12,Sumatera Utara,-,-,2,Wakil Gubernur,Sihar P.H. Sitorus
-2018,11,Aceh,1103,Kab. Aceh Selatan,1,Bupati,"Tgk. Husin Yusuf, S.Pd.I"
-2018,11,Aceh,1103,Kab. Aceh Selatan,1,Wakil Bupati,"Dr. Mustafril, St, M.Si"
-2018,11,Aceh,1103,Kab. Aceh Selatan,2,Bupati,"H. Azwir, S. Sos"
-2018,11,Aceh,1103,Kab. Aceh Selatan,2,Wakil Bupati,Tgk. Amran
-2018,11,Aceh,1103,Kab. Aceh Selatan,3,Bupati,"Drs. H. Zulkarnaini, M. Si"
-2018,11,Aceh,1103,Kab. Aceh Selatan,3,Wakil Bupati,M. Jasa
-2018,11,Aceh,1103,Kab. Aceh Selatan,4,Bupati,"Darman, Sp, M.M."
-2018,11,Aceh,1103,Kab. Aceh Selatan,4,Wakil Bupati,"Baital Makmur, Se"
-2018,11,Aceh,1103,Kab. Aceh Selatan,5,Bupati,"H. T. Sama Indra, Sh"
-2018,11,Aceh,1103,Kab. Aceh Selatan,5,Wakil Bupati,"Drs. H. Harmaini, M.Si"
-2018,11,Aceh,1103,Kab. Aceh Selatan,6,Bupati,"H. Mirwan Ms, Se"
-2018,11,Aceh,1103,Kab. Aceh Selatan,6,Wakil Bupati,"Zirhan, Sp"
-2018,11,Aceh,1103,Kab. Aceh Selatan,7,Bupati,"H. Karman, Se"
-2018,11,Aceh,1103,Kab. Aceh Selatan,7,Wakil Bupati,H. Afdhal Yasin
-2018,11,Aceh,1175,Kota Subulussalam,1,Walikota,Drh. Jalaluddin
-2018,11,Aceh,1175,Kota Subulussalam,1,Wakil Walikota,Wagiman
-2018,11,Aceh,1175,Kota Subulussalam,2,Walikota,"Hj. Sartina, Na, Se. M.Si"
-2018,11,Aceh,1175,Kota Subulussalam,2,Wakil Walikota,"Dedi Anwar Bancin, Se"
-2018,11,Aceh,1175,Kota Subulussalam,3,Walikota,"H. Asmauddin, Se"
-2018,11,Aceh,1175,Kota Subulussalam,3,Wakil Walikota,"Hj. Asmidar, S.Pd"
-2018,11,Aceh,1175,Kota Subulussalam,4,Walikota,"H. Anasri, St. Mt"
-2018,11,Aceh,1175,Kota Subulussalam,4,Wakil Walikota,Sabaruddin S. S.Pd.I
-2018,11,Aceh,1175,Kota Subulussalam,5,Walikota,"H. Affan Alfian, Se"
-2018,11,Aceh,1175,Kota Subulussalam,5,Wakil Walikota,"Drs. Salmaza, M.Ap"
-2018,11,Aceh,1118,Kab. Pidie Jaya,1,Bupati,Ir. H. Yusri Yusuf
-2018,11,Aceh,1118,Kab. Pidie Jaya,1,Wakil Bupati,Kolonel (Purn) Saifullah
-2018,11,Aceh,1118,Kab. Pidie Jaya,2,Bupati,Aiyub Bin Abbas
-2018,11,Aceh,1118,Kab. Pidie Jaya,2,Wakil Bupati,"Said Mulyadi, Se, M.Si"
-2018,11,Aceh,1118,Kab. Pidie Jaya,3,Bupati,Muhibbuddin M.Husen
-2018,11,Aceh,1118,Kab. Pidie Jaya,3,Wakil Bupati,H. M. Yusuf Ibrahim
-2018,11,Aceh,1118,Kab. Pidie Jaya,4,Bupati,Muhammad Yusuf
-2018,11,Aceh,1118,Kab. Pidie Jaya,4,Wakil Bupati,Ir.Anwar Ishak
-2018,51,Bali,5104,Kab. Gianyar,1,Bupati,"Tjokorda Raka Kerthyasa, S.Sos., M.Si."
-2018,51,Bali,5104,Kab. Gianyar,1,Wakil Bupati,"Pande Istri Maharani Prima Dewi,Se.,Mm."
-2018,51,Bali,5104,Kab. Gianyar,2,Bupati,"I Made Mahayastra, Sst.Par., Map."
-2018,51,Bali,5104,Kab. Gianyar,2,Wakil Bupati,"Anak Agung Gde Mayun, Sh."
-2018,51,Bali,5105,Kab. Klungkung,1,Bupati,Tjokorda Bagus Oka
-2018,51,Bali,5105,Kab. Klungkung,1,Wakil Bupati,I Ketut Mandia
-2018,51,Bali,5105,Kab. Klungkung,2,Bupati,I Nyoman Suwirta
-2018,51,Bali,5105,Kab. Klungkung,2,Wakil Bupati,I Made Kasta
-2018,36,Banten,3673,Kota Serang,1,Walikota,Vera Nurlaela
-2018,36,Banten,3673,Kota Serang,1,Wakil Walikota,"Nurhasan, Se"
-2018,36,Banten,3673,Kota Serang,2,Walikota,"Samsul Hidayat, S.Pd.I"
-2018,36,Banten,3673,Kota Serang,2,Wakil Walikota,"Rohman, S.Pd.I, M.A."
-2018,36,Banten,3673,Kota Serang,3,Walikota,"H. Syafrudin, S.Sos, M.Si"
-2018,36,Banten,3673,Kota Serang,3,Wakil Walikota,"H. Subadri Usuludin, Sh"
-2018,36,Banten,3671,Kota Tangerang,1,Walikota,H. Arief R Wismansyah
-2018,36,Banten,3671,Kota Tangerang,1,Wakil Walikota,Drs. H. Sachrudin
-2018,36,Banten,3602,Kab. Lebak,1,Bupati,"Hj. Iti Octavia Jayabaya, Se., Mm"
-2018,36,Banten,3602,Kab. Lebak,1,Wakil Bupati,"H. Ade Sumardi, Se"
-2018,36,Banten,3603,Kab. Tangerang,1,Bupati,"Ahmed Zaki Iskandar Z, B.Bus,Se,M.Si"
-2018,36,Banten,3603,Kab. Tangerang,1,Wakil Bupati,"H. Mad Romli, Sh.,Mm"
-2018,17,Bengkulu,1771,Kota Bengkulu,1,Walikota,David Suardi
-2018,17,Bengkulu,1771,Kota Bengkulu,1,Wakil Walikota,"Drs. Bakhsir, Mm"
-2018,17,Bengkulu,1771,Kota Bengkulu,2,Walikota,"Hj. Erna Sari Dewi, S.E"
-2018,17,Bengkulu,1771,Kota Bengkulu,2,Wakil Walikota,"H. Ahmad Zarkasi, S.P., M.Si"
-2018,17,Bengkulu,1771,Kota Bengkulu,3,Walikota,"H. Helmi, S.E."
-2018,17,Bengkulu,1771,Kota Bengkulu,3,Wakil Walikota,"Dedy Wahyudi, S.E, M.M"
-2018,17,Bengkulu,1771,Kota Bengkulu,4,Walikota,Ir. Patriana Sosialinda
-2018,17,Bengkulu,1771,Kota Bengkulu,4,Wakil Walikota,"Mirza, S.H., M.Kn"
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,1,Bupati,"Dr. H. Indra Yasin, Sh., Mh"
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,1,Wakil Bupati,"Thariq Modanggu, S.Ag., M.Pd.I"
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,2,Bupati,"H. Idrus M.T. Mopili, Se., Mm"
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,2,Wakil Bupati,Hj. Suhelah
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,3,Bupati,Drs. H. Roni Imran
-2018,75,Gorontalo,7505,Kab. Gorontalo Utara,3,Wakil Bupati,Ir. H. Ismail Patamani
-2018,75,Gorontalo,7571,Kota Gorontalo,1,Walikota,"H. Adhan Dambea, Sh, S.Sos, Ma"
-2018,75,Gorontalo,7571,Kota Gorontalo,1,Wakil Walikota,"Hardi Saleh Hemeto, Se, M.Si"
-2018,75,Gorontalo,7571,Kota Gorontalo,2,Walikota,"H. Marten A. Taha, Se., M.Ec Dev"
-2018,75,Gorontalo,7571,Kota Gorontalo,2,Wakil Walikota,"Ryan Fahrichsan Kono, B.Com"
-2018,75,Gorontalo,7571,Kota Gorontalo,3,Walikota,Drs. H. Rum Pagau
-2018,75,Gorontalo,7571,Kota Gorontalo,3,Wakil Walikota,Dr. Rusliyanto Monoarfa
-2018,15,Jambi,1501,Kab. Kerinci,1,Bupati,"Monadi, S.Sos, M.Si"
-2018,15,Jambi,1501,Kab. Kerinci,1,Wakil Bupati,"Edison, Sh"
-2018,15,Jambi,1501,Kab. Kerinci,2,Bupati,"Dr. H. Adirozal, M.Si"
-2018,15,Jambi,1501,Kab. Kerinci,2,Wakil Bupati,Ir. H. Ami Taher
-2018,15,Jambi,1501,Kab. Kerinci,3,Bupati,"Zainal Abidin, Sh, Mh"
-2018,15,Jambi,1501,Kab. Kerinci,3,Wakil Bupati,Arsal Apri
-2018,15,Jambi,1571,Kota Jambi,1,Walikota,"Drs. H. Abdullah Sani, M.Pd.I"
-2018,15,Jambi,1571,Kota Jambi,1,Wakil Walikota,"Kemas Alfarizi, Se"
-2018,15,Jambi,1571,Kota Jambi,2,Walikota,"Dr. H. Syarif Fasha, Me"
-2018,15,Jambi,1571,Kota Jambi,2,Wakil Walikota,"Dr. Dr. H. Maulana, Mkm"
-2018,15,Jambi,1502,Kab. Merangin,1,Bupati,"Ir. H. Ahmad Fauzi, Mt"
-2018,15,Jambi,1502,Kab. Merangin,1,Wakil Bupati,Sujarmin
-2018,15,Jambi,1502,Kab. Merangin,2,Bupati,"Dr. H. Al Haris, S.Sos., Mh."
-2018,15,Jambi,1502,Kab. Merangin,2,Wakil Bupati,"Mashuri, S.Pd., Mm."
-2018,15,Jambi,1502,Kab. Merangin,3,Bupati,"Dr. Drs. H. Nalim.Sh.,Mm."
-2018,15,Jambi,1502,Kab. Merangin,3,Wakil Bupati,"Drs. H. Abdul Khafidh.,Mm."
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,1,Bupati,"Dra. Hj. Elin Suharliah, M.Si"
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,1,Wakil Bupati,"Drs. Maman Sulaeman Sunjaya, M.Si"
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,2,Bupati,Ir. H. Doddy Imron Cholid
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,2,Wakil Bupati,"Dr. Hj. Pupu Sari Rohayati, Mh. Kes"
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,3,Bupati,"Aa Umbara Sutisna, S.Ip"
-2018,32,Jawa Barat,3217,Kab. Bandung Barat,3,Wakil Bupati,Hengki Kurniawan
-2018,32,Jawa Barat,3201,Kab. Bogor,1,Bupati,"H. Fitri Putra Nugraha, Sos"
-2018,32,Jawa Barat,3201,Kab. Bogor,1,Wakil Bupati,H. R. Bayu Syahjohan
-2018,32,Jawa Barat,3201,Kab. Bogor,2,Bupati,Ade Yasin
-2018,32,Jawa Barat,3201,Kab. Bogor,2,Wakil Bupati,"H. Iwan Setiawan, Se"
-2018,32,Jawa Barat,3201,Kab. Bogor,3,Bupati,"H. Ade Ruhandi - Jaro Ade, Se"
-2018,32,Jawa Barat,3201,Kab. Bogor,3,Wakil Bupati,"Ingrid Maria Palupi Kansil, S.Sos"
-2018,32,Jawa Barat,3201,Kab. Bogor,4,Bupati,Ir. H. Gunawan Hasan
-2018,32,Jawa Barat,3201,Kab. Bogor,4,Wakil Bupati,Ficky Rhoma Irama
-2018,32,Jawa Barat,3201,Kab. Bogor,5,Bupati,"Ade Wardhana Adinata, Se.,Mm"
-2018,32,Jawa Barat,3201,Kab. Bogor,5,Wakil Bupati,"Asep Ruhiyat, S.Sos.,Mm"
-2018,32,Jawa Barat,3207,Kab. Ciamis,1,Bupati,H. Herdiat Sunarya
-2018,32,Jawa Barat,3207,Kab. Ciamis,1,Wakil Bupati,Yana Diana Putra
-2018,32,Jawa Barat,3207,Kab. Ciamis,2,Bupati,H. Iing Syam Arifin
-2018,32,Jawa Barat,3207,Kab. Ciamis,2,Wakil Bupati,H. Oih Burhanudin
-2018,32,Jawa Barat,3209,Kab. Cirebon,1,Bupati,"Drs. H. Kalinga, Mm"
-2018,32,Jawa Barat,3209,Kab. Cirebon,1,Wakil Bupati,Dian Hernawa Susanty
-2018,32,Jawa Barat,3209,Kab. Cirebon,2,Bupati,"Dr. H. Sunjaya Purwadisastra, M.M., M.Si."
-2018,32,Jawa Barat,3209,Kab. Cirebon,2,Wakil Bupati,Drs. H. Imron
-2018,32,Jawa Barat,3209,Kab. Cirebon,3,Bupati,H. Rakhmat
-2018,32,Jawa Barat,3209,Kab. Cirebon,3,Wakil Bupati,Drs. H. Yayat Ruhyat
-2018,32,Jawa Barat,3209,Kab. Cirebon,4,Bupati,"H. Mohamad Luthfi, St"
-2018,32,Jawa Barat,3209,Kab. Cirebon,4,Wakil Bupati,Nurul Qomar
-2018,32,Jawa Barat,3205,Kab. Garut,1,Bupati,"H. Rudy Gunawan, Sh., Mh., Mp"
-2018,32,Jawa Barat,3205,Kab. Garut,1,Wakil Bupati,Helmi Budiman
-2018,32,Jawa Barat,3205,Kab. Garut,2,Bupati,Iman Alirahman
-2018,32,Jawa Barat,3205,Kab. Garut,2,Wakil Bupati,"Dedi Hasan, Se"
-2018,32,Jawa Barat,3205,Kab. Garut,3,Bupati,"Suryana, S.Ag"
-2018,32,Jawa Barat,3205,Kab. Garut,3,Wakil Bupati,"Wiwin Suwindaryati, Sh"
-2018,32,Jawa Barat,3205,Kab. Garut,4,Bupati,"H. Agus Hamdani Gs, S.Pd.I"
-2018,32,Jawa Barat,3205,Kab. Garut,4,Wakil Bupati,Pradana Aditya Wicaksana
-2018,32,Jawa Barat,3273,Kota Bandung,1,Walikota,Nurul Qomaril Arifin
-2018,32,Jawa Barat,3273,Kota Bandung,1,Wakil Walikota,Chairul Yaqin Hidayat
-2018,32,Jawa Barat,3273,Kota Bandung,2,Walikota,"Dr. H. Yossi Irianto, M.Si"
-2018,32,Jawa Barat,3273,Kota Bandung,2,Wakil Walikota,"Aries Supriyatna, Sh., Mh"
-2018,32,Jawa Barat,3273,Kota Bandung,3,Walikota,Oded Mohamad Danial
-2018,32,Jawa Barat,3273,Kota Bandung,3,Wakil Walikota,H. Yana Mulyana
-2018,32,Jawa Barat,3279,Kota Banjar,1,Walikota,"Hj. Ade Uu Sukaesih, S.Ip, M.Si"
-2018,32,Jawa Barat,3279,Kota Banjar,1,Wakil Walikota,Nana Suryana
-2018,32,Jawa Barat,3279,Kota Banjar,2,Walikota,Maman Suryaman
-2018,32,Jawa Barat,3279,Kota Banjar,2,Wakil Walikota,Dr. Hj. Irma Darmawatie Bastaman
-2018,32,Jawa Barat,3275,Kota Bekasi,1,Walikota,Dr. Rahmat Effendi
-2018,32,Jawa Barat,3275,Kota Bekasi,1,Wakil Walikota,"Dr. Tri Adhianto Tjahyono, Se, Mm"
-2018,32,Jawa Barat,3275,Kota Bekasi,2,Walikota,"Dr. Nur Supriyanto, Mm"
-2018,32,Jawa Barat,3275,Kota Bekasi,2,Wakil Walikota,"Dr. H. Adhy Firdaus Saady, Mm"
-2018,32,Jawa Barat,3271,Kota Bogor,1,Walikota,"Drh. H. Achmad Ru'Yat, M.Si"
-2018,32,Jawa Barat,3271,Kota Bogor,1,Wakil Walikota,Zaenul Mutaqin
-2018,32,Jawa Barat,3271,Kota Bogor,2,Walikota,"H. Edgar Suratman, Se., Mm"
-2018,32,Jawa Barat,3271,Kota Bogor,2,Wakil Walikota,Sefwelly Gynanjar Djoyodiningrat
-2018,32,Jawa Barat,3271,Kota Bogor,3,Walikota,Dr. H. Bima Arya Sugiarto
-2018,32,Jawa Barat,3271,Kota Bogor,3,Wakil Walikota,"Drs. Dedie A Rachim, Ma"
-2018,32,Jawa Barat,3271,Kota Bogor,4,Walikota,"H. Dadang Iskandar Danubrata, S.E"
-2018,32,Jawa Barat,3271,Kota Bogor,4,Wakil Walikota,"Sugeng Teguh Santoso, S.H"
-2018,32,Jawa Barat,3274,Kota Cirebon,1,Walikota,"Bamunas Setiawan Boediman, Mba"
-2018,32,Jawa Barat,3274,Kota Cirebon,1,Wakil Walikota,"Effendi Edo, Sap., M.Si"
-2018,32,Jawa Barat,3274,Kota Cirebon,2,Walikota,"Drs. Nashrudin Azis, Sh"
-2018,32,Jawa Barat,3274,Kota Cirebon,2,Wakil Walikota,Dra. Hj. Eti Herawati
-2018,32,Jawa Barat,3272,Kota Sukabumi,1,Walikota,"Jona Arizona, S.Ip., Mm."
-2018,32,Jawa Barat,3272,Kota Sukabumi,1,Wakil Walikota,"Dr. H. Muhamad Noor Hanafie Zain, M.Si."
-2018,32,Jawa Barat,3272,Kota Sukabumi,2,Walikota,H. Achmad Fahmi
-2018,32,Jawa Barat,3272,Kota Sukabumi,2,Wakil Walikota,H. Andri Setiawan Hamami
-2018,32,Jawa Barat,3272,Kota Sukabumi,3,Walikota,"Dr. H. Mulyono, Mm."
-2018,32,Jawa Barat,3272,Kota Sukabumi,3,Wakil Walikota,Hj. Ima Slamet
-2018,32,Jawa Barat,3272,Kota Sukabumi,4,Walikota,"Dedi Rantjani Widjaja, Se., Mm."
-2018,32,Jawa Barat,3272,Kota Sukabumi,4,Wakil Walikota,"Hikmat Nuristawan, Se., Mm."
-2018,32,Jawa Barat,3208,Kab. Kuningan,1,Bupati,Dr. Toto Taufikurohman Kosim
-2018,32,Jawa Barat,3208,Kab. Kuningan,1,Wakil Bupati,"H. Yosa Octora Santono, S.Si,. M.M."
-2018,32,Jawa Barat,3208,Kab. Kuningan,2,Bupati,"H. Dudy Pamuji, S.E, M.Si"
-2018,32,Jawa Barat,3208,Kab. Kuningan,2,Wakil Bupati,"H. Udin Kusnedi, S.E., M.Si."
-2018,32,Jawa Barat,3208,Kab. Kuningan,3,Bupati,"H. Acep Purnama, S.H., M.H."
-2018,32,Jawa Barat,3208,Kab. Kuningan,3,Wakil Bupati,"Muhammad Ridho Suganda, S.H., M.Si."
-2018,32,Jawa Barat,3210,Kab. Majalengka,1,Bupati,Maman Imanul Haq
-2018,32,Jawa Barat,3210,Kab. Majalengka,1,Wakil Bupati,Jefry Romdonny
-2018,32,Jawa Barat,3210,Kab. Majalengka,2,Bupati,"Dr. H. Karna Sobahi, M.M.Pd."
-2018,32,Jawa Barat,3210,Kab. Majalengka,2,Wakil Bupati,Tarsono D. Mardiana
-2018,32,Jawa Barat,3210,Kab. Majalengka,3,Bupati,"Dr. H. Sanwasi, Mm."
-2018,32,Jawa Barat,3210,Kab. Majalengka,3,Wakil Bupati,Drs. H.M. Taufan Ansyar
-2018,32,Jawa Barat,3214,Kab. Purwakarta,1,Bupati,"Drs. H. Padil Karsoma, M.Si"
-2018,32,Jawa Barat,3214,Kab. Purwakarta,1,Wakil Bupati,Acep Maman
-2018,32,Jawa Barat,3214,Kab. Purwakarta,2,Bupati,Hj. Anne Ratna Mustika
-2018,32,Jawa Barat,3214,Kab. Purwakarta,2,Wakil Bupati,H. Aming
-2018,32,Jawa Barat,3214,Kab. Purwakarta,3,Bupati,"H. Zainal Arifin, Mt. Ir"
-2018,32,Jawa Barat,3214,Kab. Purwakarta,3,Wakil Bupati,"Luthfi, A. Md"
-2018,32,Jawa Barat,3213,Kab. Subang,1,Bupati,H. Ruhimat
-2018,32,Jawa Barat,3213,Kab. Subang,1,Wakil Bupati,"Ir. Agus Masykur Rosyadi, S.Si"
-2018,32,Jawa Barat,3213,Kab. Subang,2,Bupati,"Hj. Imas Aryumningsih, Se"
-2018,32,Jawa Barat,3213,Kab. Subang,2,Wakil Bupati,Sutarno
-2018,32,Jawa Barat,3213,Kab. Subang,3,Bupati,"Drs. Dedi Junaedi, Sh"
-2018,32,Jawa Barat,3213,Kab. Subang,3,Wakil Bupati,"Dr. Drs. H. Budi Setiadi, M.Si"
-2018,32,Jawa Barat,3211,Kab. Sumedang,1,Bupati,"H. Dony Ahmad Munir, S.T., M.M."
-2018,32,Jawa Barat,3211,Kab. Sumedang,1,Wakil Bupati,"Erwan Setiawan, S.E."
-2018,32,Jawa Barat,3211,Kab. Sumedang,2,Bupati,"H. Setya Widodo, S.H."
-2018,32,Jawa Barat,3211,Kab. Sumedang,2,Wakil Bupati,"Sonia Sugian, S.H."
-2018,32,Jawa Barat,3211,Kab. Sumedang,3,Bupati,"Drs. H. Zaenal Alimin, M.M."
-2018,32,Jawa Barat,3211,Kab. Sumedang,3,Wakil Bupati,"Asep Kurnia, S.H., M.H."
-2018,32,Jawa Barat,3211,Kab. Sumedang,4,Bupati,Irwansyah Putra
-2018,32,Jawa Barat,3211,Kab. Sumedang,4,Wakil Bupati,"Sidik Jafar, S.E."
-2018,32,Jawa Barat,3211,Kab. Sumedang,5,Bupati,"Ir. H. Eka Setiawan, Dipl., S.E., M.M."
-2018,32,Jawa Barat,3211,Kab. Sumedang,5,Wakil Bupati,"Mohamad Agung Anugrah, S.E., Ak."
-2018,33,Jawa Tengah,3302,Kab. Banyumas,1,Bupati,"Drs. H. Mardjoko, Mm"
-2018,33,Jawa Tengah,3302,Kab. Banyumas,1,Wakil Bupati,"Dr. Ir. H. Ifan Haryanto, M.Sc"
-2018,33,Jawa Tengah,3302,Kab. Banyumas,2,Bupati,Ir. H. Achmad Husein
-2018,33,Jawa Tengah,3302,Kab. Banyumas,2,Wakil Bupati,Drs. H. Sadewo Tri Lastiono
-2018,33,Jawa Tengah,3313,Kab. Karanganyar,1,Bupati,"H. Rohadi Widodo, Sp."
-2018,33,Jawa Tengah,3313,Kab. Karanganyar,1,Wakil Bupati,"Ida Retno Wahyuningsih, Se"
-2018,33,Jawa Tengah,3313,Kab. Karanganyar,2,Bupati,"Drs. H. Juliyatmono, Mm."
-2018,33,Jawa Tengah,3313,Kab. Karanganyar,2,Wakil Bupati,"H. Rober Christanto, Se"
-2018,33,Jawa Tengah,3376,Kota Tegal,1,Walikota,H.M. Nursholeh
-2018,33,Jawa Tengah,3376,Kota Tegal,1,Wakil Walikota,H. Wartono
-2018,33,Jawa Tengah,3376,Kota Tegal,2,Walikota,H. A. Ghautsun
-2018,33,Jawa Tengah,3376,Kota Tegal,2,Wakil Walikota,Dr. H. Muslih Dahlan
-2018,33,Jawa Tengah,3376,Kota Tegal,3,Walikota,"H. Dedy Yon Supriyono, S.E., M.M."
-2018,33,Jawa Tengah,3376,Kota Tegal,3,Wakil Walikota,"Muhamad Jumadi, S.T., M.M."
-2018,33,Jawa Tengah,3376,Kota Tegal,4,Walikota,"K. H. Habib Ali Zaenal Abidin, S.E., M.H."
-2018,33,Jawa Tengah,3376,Kota Tegal,4,Wakil Walikota,"Hj. Tanty Prasetyo Ningrum, S.H., M.M."
-2018,33,Jawa Tengah,3376,Kota Tegal,5,Walikota,"Herujito, S.I.P."
-2018,33,Jawa Tengah,3376,Kota Tegal,5,Wakil Walikota,Sugono
-2018,33,Jawa Tengah,3319,Kab. Kudus,1,Bupati,"Masan, Se, Mm"
-2018,33,Jawa Tengah,3319,Kab. Kudus,1,Wakil Bupati,"Drs. H. Noor Yasin, Mm"
-2018,33,Jawa Tengah,3319,Kab. Kudus,2,Bupati,"H. Nor Hartoyo, Sh"
-2018,33,Jawa Tengah,3319,Kab. Kudus,2,Wakil Bupati,"Junaidi, Sh"
-2018,33,Jawa Tengah,3319,Kab. Kudus,3,Bupati,"Hj. Sri Hartini, St"
-2018,33,Jawa Tengah,3319,Kab. Kudus,3,Wakil Bupati,"H. Setia Budi Wibowo, S.Ag, Mm"
-2018,33,Jawa Tengah,3319,Kab. Kudus,4,Bupati,"H. Akhwan, Sh"
-2018,33,Jawa Tengah,3319,Kab. Kudus,4,Wakil Bupati,"H. Hadi Sucipto, S.Pd, Mm"
-2018,33,Jawa Tengah,3319,Kab. Kudus,5,Bupati,"Ir. H. Muhammad Tamzil, Mt"
-2018,33,Jawa Tengah,3319,Kab. Kudus,5,Wakil Bupati,"Hm. Hartopo, St, Mm, Mh"
-2018,33,Jawa Tengah,3308,Kab. Magelang,1,Bupati,"Zaenal Arifin, S.Ip"
-2018,33,Jawa Tengah,3308,Kab. Magelang,1,Wakil Bupati,"Edi Cahyana, Se"
-2018,33,Jawa Tengah,3308,Kab. Magelang,2,Bupati,"H.M. Zaenal Arifin, Sh"
-2018,33,Jawa Tengah,3308,Kab. Magelang,2,Wakil Bupati,"H. Rohadi Pratoto, Sh, M.Si"
-2018,33,Jawa Tengah,3328,Kab. Tegal,1,Bupati,H. Rusbandi
-2018,33,Jawa Tengah,3328,Kab. Tegal,1,Wakil Bupati,"H. Fatchuddin, Se"
-2018,33,Jawa Tengah,3328,Kab. Tegal,2,Bupati,"Drs. H. Haron Bagas Prakosa, M.Hum"
-2018,33,Jawa Tengah,3328,Kab. Tegal,2,Wakil Bupati,"H. Drajat Adi Prayitno, S.Kom, Mm"
-2018,33,Jawa Tengah,3328,Kab. Tegal,3,Bupati,Dra. Hj. Umi Azizah
-2018,33,Jawa Tengah,3328,Kab. Tegal,3,Wakil Bupati,"Sabilillah Ardie, B.Sc"
-2018,33,Jawa Tengah,3323,Kab. Temanggung,1,Bupati,Drs. H M Bambang Sukarno
-2018,33,Jawa Tengah,3323,Kab. Temanggung,1,Wakil Bupati,Matoha
-2018,33,Jawa Tengah,3323,Kab. Temanggung,2,Bupati,Haryo Dewandono
-2018,33,Jawa Tengah,3323,Kab. Temanggung,2,Wakil Bupati,Irawan Prasetyadi
-2018,33,Jawa Tengah,3323,Kab. Temanggung,3,Bupati,H.M. Al Khadziq
-2018,33,Jawa Tengah,3323,Kab. Temanggung,3,Wakil Bupati,Drs.R.Heri Ibnu Wibowo
-2018,35,Jawa Timur,3526,Kab. Bangkalan,1,Bupati,"Dr. H. Moch. Farid Al Fauzi, St, Mm"
-2018,35,Jawa Timur,3526,Kab. Bangkalan,1,Wakil Bupati,"Drs. Ec. Sudarmawan, Mm"
-2018,35,Jawa Timur,3526,Kab. Bangkalan,2,Bupati,"H. Imam Buchori, Sh"
-2018,35,Jawa Timur,3526,Kab. Bangkalan,2,Wakil Bupati,Ir. H. Mondir A. Rofii
-2018,35,Jawa Timur,3526,Kab. Bangkalan,3,Bupati,R. Abdul Latif Amin Imron
-2018,35,Jawa Timur,3526,Kab. Bangkalan,3,Wakil Bupati,"Drs. Mohni, Mm"
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,1,Bupati,"Drs. H. Soehadi Moeljono, Mm."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,1,Wakil Bupati,"Hj. Mitro'Atin, S.Pd."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,2,Bupati,"Dra. Mahfudhoh, M.Si."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,2,Wakil Bupati,"Drs. H. Kuswiyanto, M.Si."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,3,Bupati,Dr. Hj. Anna Mu'Awanah
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,3,Wakil Bupati,"Drs. H. Budi Irawanto, M.Pd."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,4,Bupati,"Drs. H. Basuki, M.Pd., M.Pd.I."
-2018,35,Jawa Timur,3522,Kab. Bojonegoro,4,Wakil Bupati,"Pudji Dewanto, Sh., Mm."
-2018,35,Jawa Timur,3511,Kab. Bondowoso,1,Bupati,Drs. Kh. Salwa Arifin
-2018,35,Jawa Timur,3511,Kab. Bondowoso,1,Wakil Bupati,"H. Irwan Bachtiar Rachmat,Se.M.Si"
-2018,35,Jawa Timur,3511,Kab. Bondowoso,2,Bupati,H. Ahmad Dhafir
-2018,35,Jawa Timur,3511,Kab. Bondowoso,2,Wakil Bupati,Drs. Hidayat.M.Si
-2018,35,Jawa Timur,3517,Kab. Jombang,1,Bupati,Hj. Mundjidah Wahab
-2018,35,Jawa Timur,3517,Kab. Jombang,1,Wakil Bupati,Sumrambah
-2018,35,Jawa Timur,3517,Kab. Jombang,2,Bupati,Drs. Ec. H. Nyono Suharli Wihandoko
-2018,35,Jawa Timur,3517,Kab. Jombang,2,Wakil Bupati,"Drs. M. Subaidi, M.Si."
-2018,35,Jawa Timur,3517,Kab. Jombang,3,Bupati,"Dr.Syafiin, Sh, Mm, Mh"
-2018,35,Jawa Timur,3517,Kab. Jombang,3,Wakil Bupati,"H. Choirul Anam, St"
-2018,35,Jawa Timur,3571,Kota Kediri,1,Walikota,Aizzudin
-2018,35,Jawa Timur,3571,Kota Kediri,1,Wakil Walikota,Sudjono Teguh Widjaja
-2018,35,Jawa Timur,3571,Kota Kediri,2,Walikota,Abdullah Abu Bakar
-2018,35,Jawa Timur,3571,Kota Kediri,2,Wakil Walikota,Lilik Muhibbah
-2018,35,Jawa Timur,3571,Kota Kediri,3,Walikota,"Dr. Samsul Ashar, Sp.Pd"
-2018,35,Jawa Timur,3571,Kota Kediri,3,Wakil Walikota,"Teguh Juniadi, Se"
-2018,35,Jawa Timur,3577,Kota Madiun,1,Walikota,"Drs. H. Maidi, Sh, Mm, M.Pd"
-2018,35,Jawa Timur,3577,Kota Madiun,1,Wakil Walikota,"Inda Raya Ayu Miko Saputri, S.E., Mib"
-2018,35,Jawa Timur,3577,Kota Madiun,2,Walikota,Dr. Harryadin Mahardika
-2018,35,Jawa Timur,3577,Kota Madiun,2,Wakil Walikota,"Arief Rahman, S.T., M.M."
-2018,35,Jawa Timur,3577,Kota Madiun,3,Walikota,"Yusuf Rohana, St"
-2018,35,Jawa Timur,3577,Kota Madiun,3,Wakil Walikota,"Bambang Wahyudi, St"
-2018,35,Jawa Timur,3573,Kota Malang,1,Walikota,"Ya'Qud Ananda Gudban, Ss, Mm."
-2018,35,Jawa Timur,3573,Kota Malang,1,Wakil Walikota,H. Wanedi
-2018,35,Jawa Timur,3573,Kota Malang,2,Walikota,H. Anton
-2018,35,Jawa Timur,3573,Kota Malang,2,Wakil Walikota,"H. Syamsul Mahmud, Se"
-2018,35,Jawa Timur,3573,Kota Malang,3,Walikota,Sutiaji
-2018,35,Jawa Timur,3573,Kota Malang,3,Wakil Walikota,Sofyan Edi Jarwoko
-2018,35,Jawa Timur,3576,Kota Mojokerto,1,Walikota,"Dr. H. Akmal Boedianto, Sh, M.Si"
-2018,35,Jawa Timur,3576,Kota Mojokerto,1,Wakil Walikota,Rambo Garudo
-2018,35,Jawa Timur,3576,Kota Mojokerto,2,Walikota,Andy Soebjakto Molanggato
-2018,35,Jawa Timur,3576,Kota Mojokerto,2,Wakil Walikota,"Ade Ria Suryani, Sh., Mh"
-2018,35,Jawa Timur,3576,Kota Mojokerto,3,Walikota,Warsito
-2018,35,Jawa Timur,3576,Kota Mojokerto,3,Wakil Walikota,Moeljadi
-2018,35,Jawa Timur,3576,Kota Mojokerto,4,Walikota,"Hj. Ika Puspitasari, Se"
-2018,35,Jawa Timur,3576,Kota Mojokerto,4,Wakil Walikota,Achmad Rizal Zakaria
-2018,35,Jawa Timur,3574,Kota Probolinggo,1,Walikota,Suwito
-2018,35,Jawa Timur,3574,Kota Probolinggo,1,Wakil Walikota,Ferry Rahyuwono
-2018,35,Jawa Timur,3574,Kota Probolinggo,2,Walikota,"H. Fernanda Zulkarnain, Bsee.Mscs."
-2018,35,Jawa Timur,3574,Kota Probolinggo,2,Wakil Walikota,Ir. H. Zulfikar Imawan
-2018,35,Jawa Timur,3574,Kota Probolinggo,3,Walikota,Syamsu Alam
-2018,35,Jawa Timur,3574,Kota Probolinggo,3,Wakil Walikota,"Kulup Widyono, Se"
-2018,35,Jawa Timur,3574,Kota Probolinggo,4,Walikota,"Habib Hadi Zainal Abidin, S.Pd., Mm., M.Hp."
-2018,35,Jawa Timur,3574,Kota Probolinggo,4,Wakil Walikota,Moch. Soufis Subri
-2018,35,Jawa Timur,3508,Kab. Lumajang,1,Bupati,"H. Thoriqul Haq, Mml"
-2018,35,Jawa Timur,3508,Kab. Lumajang,1,Wakil Bupati,"Ir. Hj.  Indah Amperawati, M.Si"
-2018,35,Jawa Timur,3508,Kab. Lumajang,2,Bupati,"Drs. H. As�T, M.Ag"
-2018,35,Jawa Timur,3508,Kab. Lumajang,2,Wakil Bupati,H. Thoriq
-2018,35,Jawa Timur,3508,Kab. Lumajang,3,Bupati,"H. Rofik, Sh., Mh"
-2018,35,Jawa Timur,3508,Kab. Lumajang,3,Wakil Bupati,Ir. Nurul Huda
-2018,35,Jawa Timur,3519,Kab. Madiun,1,Bupati,"H.Ahmad Dawami Ragil Saputro,S.Sos"
-2018,35,Jawa Timur,3519,Kab. Madiun,1,Wakil Bupati,"H.Hari Wuryanto,Sh,M.Ak"
-2018,35,Jawa Timur,3519,Kab. Madiun,2,Bupati,"Rio Wing Dinaryhadi,St"
-2018,35,Jawa Timur,3519,Kab. Madiun,2,Wakil Bupati,Ir.Sukiman.M.Si
-2018,35,Jawa Timur,3519,Kab. Madiun,3,Bupati,Drs.Djoko Setijono
-2018,35,Jawa Timur,3519,Kab. Madiun,3,Wakil Bupati,"Suprapto,Se"
-2018,35,Jawa Timur,3520,Kab. Magetan,1,Bupati,Suyatni Priasmoro
-2018,35,Jawa Timur,3520,Kab. Magetan,1,Wakil Bupati,Nur Wahid
-2018,35,Jawa Timur,3520,Kab. Magetan,2,Bupati,"Ir. H. Sh. Miratul Mukminin, Mm"
-2018,35,Jawa Timur,3520,Kab. Magetan,2,Wakil Bupati,"Joko Suyono, S.Sos"
-2018,35,Jawa Timur,3520,Kab. Magetan,3,Bupati,"Dr. Drs. Suprawoto, Sh, M.Si"
-2018,35,Jawa Timur,3520,Kab. Magetan,3,Wakil Bupati,"Hj. Nanik Endang Rusminiarti, M.Pd"
-2018,35,Jawa Timur,3518,Kab. Nganjuk,1,Bupati,"H. Novi Rahman Hidhayat, S.Sos., Mm."
-2018,35,Jawa Timur,3518,Kab. Nganjuk,1,Wakil Bupati,"Dr. Drs. H. Marhaen Djumadi, Se, Sh, Mm, Mba"
-2018,35,Jawa Timur,3518,Kab. Nganjuk,2,Bupati,"Ir. Siti Nurhayati, Mm."
-2018,35,Jawa Timur,3518,Kab. Nganjuk,2,Wakil Bupati,"Bimantoro Wiyono, Sh"
-2018,35,Jawa Timur,3518,Kab. Nganjuk,3,Bupati,"Desy Natalia Widya, Sip"
-2018,35,Jawa Timur,3518,Kab. Nganjuk,3,Wakil Bupati,"Drs. Ainul Yakin, M.Si"
-2018,35,Jawa Timur,3528,Kab. Pamekasan,1,Bupati,"H. Badrut Tamam, S.Psi"
-2018,35,Jawa Timur,3528,Kab. Pamekasan,1,Wakil Bupati,"Raja'E, S.Hi"
-2018,35,Jawa Timur,3528,Kab. Pamekasan,2,Bupati,"Dr. Kh. Kholilurrahman, Sh.,M.Si"
-2018,35,Jawa Timur,3528,Kab. Pamekasan,2,Wakil Bupati,"Fathor Rohman, M.Si"
-2018,35,Jawa Timur,3514,Kab. Pasuruan,1,Bupati,Mohammad Irsyad Yusuf
-2018,35,Jawa Timur,3514,Kab. Pasuruan,1,Wakil Bupati,"K.H. A. Mujib Imron, Sh., Mh"
-2018,35,Jawa Timur,3513,Kab. Probolinggo,1,Bupati,Hj. Puput Tantriana Sari
-2018,35,Jawa Timur,3513,Kab. Probolinggo,1,Wakil Bupati,Drs. H. A. Timbul Prihanjoko
-2018,35,Jawa Timur,3513,Kab. Probolinggo,2,Bupati,"H. Abdul Malik Haramain, M.Si"
-2018,35,Jawa Timur,3513,Kab. Probolinggo,2,Wakil Bupati,"H. Mohammad Muzayyan, M.H.I"
-2018,35,Jawa Timur,3527,Kab. Sampang,1,Bupati,H. Slamet Junaidi
-2018,35,Jawa Timur,3527,Kab. Sampang,1,Wakil Bupati,H. Abdullah Hidayat
-2018,35,Jawa Timur,3527,Kab. Sampang,2,Bupati,"Drh.H. Hermanto Subaidi, M.Si"
-2018,35,Jawa Timur,3527,Kab. Sampang,2,Wakil Bupati,H. Suparto
-2018,35,Jawa Timur,3527,Kab. Sampang,3,Bupati,H. Hisan. Se
-2018,35,Jawa Timur,3527,Kab. Sampang,3,Wakil Bupati,H. Abdullah. Se
-2018,35,Jawa Timur,3504,Kab. Tulungagung,1,Bupati,Margiono
-2018,35,Jawa Timur,3504,Kab. Tulungagung,1,Wakil Bupati,Eko Prisdianto
-2018,35,Jawa Timur,3504,Kab. Tulungagung,2,Bupati,"Syahri Mulyo. Se., M.Si"
-2018,35,Jawa Timur,3504,Kab. Tulungagung,2,Wakil Bupati,"Drs. H. Maryoto Birowo, Mm"
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,1,Bupati,"Masdar, S.Pd. Sd, M.Si"
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,1,Wakil Bupati,"Zulkaslim Pebrata Tamura, S.Pd"
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,2,Bupati,Drs. Citra Duani
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,2,Wakil Bupati,"H. Effendi Ahmad, S.Pdi"
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,3,Bupati,"Abdul Halim Hasin, S.Ip,M.Si."
-2018,61,Kalimantan Barat,6111,Kab. Kayong Utara,3,Wakil Bupati,Bukhori
-2018,61,Kalimantan Barat,6171,Kota Pontianak,1,Walikota,Harry Adryanto
-2018,61,Kalimantan Barat,6171,Kota Pontianak,1,Wakil Walikota,Yandi
-2018,61,Kalimantan Barat,6171,Kota Pontianak,2,Walikota,"Ir. H. Edi Rusdi Kamtono, Mm, Mt"
-2018,61,Kalimantan Barat,6171,Kota Pontianak,2,Wakil Walikota,"Bahasan, Sh"
-2018,61,Kalimantan Barat,6171,Kota Pontianak,3,Walikota,"Satarudin, Sh"
-2018,61,Kalimantan Barat,6171,Kota Pontianak,3,Wakil Walikota,"Alpian Aminardi, Sh, Mh"
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,1,Bupati,"H. Muda Mahendrawan, Sh"
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,1,Wakil Bupati,"Sujiwo, Se"
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,2,Bupati,"Ir. H. Werry Syahrial, M.H"
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,2,Wakil Bupati,H. Muhammad Nasir Maksudi
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,3,Bupati,"H. Hamzah Tawil, S.Ag. M.Si"
-2018,61,Kalimantan Barat,6112,Kab. Kubu Raya,3,Wakil Bupati,Kohim
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,1,Bupati,"Drs.H.Syech Bandar,M.Si"
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,1,Wakil Bupati,"Hermanto Lim,Se"
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,2,Bupati,"Dr.H.Rahmad Satria,Sh.,Mh."
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,2,Wakil Bupati,"H.Ridwan Rusli,Sh.,Mm."
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,3,Bupati,"Hj.Erlina, Sh.,Mh."
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,3,Wakil Bupati,"H.Muhammad Pagi,S.Hi.,Mm."
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,4,Bupati,"Ir. H. Rudhy Bachtiar, M.Si"
-2018,61,Kalimantan Barat,6104,Kab. Mempawah,4,Wakil Bupati,Drs. H. Mochrizal
-2018,61,Kalimantan Barat,6105,Kab. Sanggau,1,Bupati,"Yansen Akun Effendy, Sh.M.Si,Mh"
-2018,61,Kalimantan Barat,6105,Kab. Sanggau,1,Wakil Bupati,"Fransiskus  Ason, Sp"
-2018,61,Kalimantan Barat,6105,Kab. Sanggau,2,Bupati,"Paolus Hadi, S.Ip, M.Si"
-2018,61,Kalimantan Barat,6105,Kab. Sanggau,2,Wakil Bupati,"Drs. Yohanes Ontot, M.Si"
-2018,63,Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,1,Bupati,H. Muhammad Najamuddin
-2018,63,Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,1,Wakil Bupati,"H.Muhamad Ridha, Sh"
-2018,63,Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2,Bupati,"Drs. H. Achmad Fikry, M.Ap"
-2018,63,Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2,Wakil Bupati,"Syamsuri Arsyad, S.Ap"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,1,Bupati,H.Norhasani
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,1,Wakil Bupati,H.Eddyan Noor Idur
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,2,Bupati,"H.Winarto, S.Pd, M.Si"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,2,Wakil Bupati,"H.Ali Sibqi, S.Pi"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,3,Bupati,"Drs. H. Anang Syakhfiani, M.Si"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,3,Wakil Bupati,"Drs. H. Mawardi, M.Si"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,4,Bupati,"Hj. Noor Farida, Se"
-2018,63,Kalimantan Selatan,6309,Kab. Tabalong,4,Wakil Bupati,"Aspianor, S.Ikom, Sh,Mh"
-2018,63,Kalimantan Selatan,6301,Kab. Tanah Laut,1,Bupati,Drs. H. Sukamta
-2018,63,Kalimantan Selatan,6301,Kab. Tanah Laut,1,Wakil Bupati,"Abdi Rahman, S.Pd"
-2018,63,Kalimantan Selatan,6301,Kab. Tanah Laut,2,Bupati,"H. Bambang Alamsyah, S.T"
-2018,63,Kalimantan Selatan,6301,Kab. Tanah Laut,2,Wakil Bupati,"Ir. H. Ahmad Nizar, S.Sos, M.Si"
-2018,63,Kalimantan Selatan,6305,Kab. Tapin,1,Bupati,"Drs. H. Muhammad Arifin Arpan, Mm"
-2018,63,Kalimantan Selatan,6305,Kab. Tapin,1,Wakil Bupati,"H. Syafrudin Noor, Se, S.Sos"
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,1,Bupati,"Pancani Gandrung, Sh., Msi"
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,1,Wakil Bupati,Drs. H. Mukhtar Abdul Rahman
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,2,Bupati,"H. Supriatna, S.Pd, Mm"
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,2,Wakil Bupati,Yudha Nyampai
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,3,Bupati,"Ampera A. Y Mebas, Se, Mm"
-2018,62,Kalimantan Tengah,6212,Kab. Barito Timur,3,Wakil Bupati,Habib Said Abdul Saleh
-2018,62,Kalimantan Tengah,6205,Kab. Barito Utara,1,Bupati,H.Nadalsyah
-2018,62,Kalimantan Tengah,6205,Kab. Barito Utara,1,Wakil Bupati,"Sugianto Panala Putra, Sh"
-2018,62,Kalimantan Tengah,6205,Kab. Barito Utara,2,Bupati,"Taufik Nugraha, S.Kom"
-2018,62,Kalimantan Tengah,6205,Kab. Barito Utara,2,Wakil Bupati,Drs. Ompie Herby
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,1,Bupati,"Rony Karlos, S.Sos"
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,1,Wakil Bupati,"Dr. Drs. Gaya, M.Pd.H"
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,2,Bupati,Ir. Lohing Simon
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,2,Wakil Bupati,"Suprapto Sungan, Sh"
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,3,Bupati,"Jaya Samaya Monong, Se, M.Si"
-2018,62,Kalimantan Tengah,6211,Kab. Gunung Mas,3,Wakil Bupati,"Ir. Efrensia L.P Umbing, M.Si"
-2018,62,Kalimantan Tengah,6203,Kab. Kapuas,1,Bupati,"Ir. Ben Brahim.S. Bahat,Mm.Mt"
-2018,62,Kalimantan Tengah,6203,Kab. Kapuas,1,Wakil Bupati,"Drs.H.M. Nafiah Ibnor,Mm"
-2018,62,Kalimantan Tengah,6203,Kab. Kapuas,2,Bupati,"Ir. H. Muhammad Mawardi, M.M.,M.Si,."
-2018,62,Kalimantan Tengah,6203,Kab. Kapuas,2,Wakil Bupati,"Ir. H. Muhajirin, Mp"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,1,Bupati,"Sakariyas, Se"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,1,Wakil Bupati,Sunardi
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,2,Bupati,"H. Fahmi Fauzi, S.Hut"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,2,Wakil Bupati,"Maspek J. Garang, Se"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,3,Bupati,"H.Surya, Sh,M.Hum"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,3,Wakil Bupati,"Winda Natalia,S.Hut,M.Si"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,4,Bupati,"H. Ade Supriadi, Sp, Mh"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,4,Wakil Bupati,Ali Sameon Anom
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,5,Bupati,"H. Wiwin Susanto, S.Pd"
-2018,62,Kalimantan Tengah,6209,Kab. Katingan,5,Wakil Bupati,Drs. Elman D. Dangan
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,1,Walikota,Tuty Dau
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,1,Wakil Walikota,"H. Rahmadi Hn,Sh.,Mpa"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,2,Walikota,"H. Rusliansyah, Se.,M.Ap"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,2,Wakil Walikota,"Rogas Usup, St"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,3,Walikota,"Fairid Naparin, Se"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,3,Wakil Walikota,"Hj. Umi Mastikah, Sh"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,4,Walikota,"Aries Marcorius Narang, Se., M.Si"
-2018,#N/A,#N/A,#N/A,Kota Palangkaraya,4,Wakil Walikota,"Habib Said Akhmad Fawzi Zain Bachsin, S.Hi"
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,1,Bupati,"Taji Pranito, S.Pd"
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,1,Wakil Bupati,Gandhi Nuswantara
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,2,Bupati,Sata Umani
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,2,Wakil Bupati,"H. Karyadi, Sh"
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,3,Bupati,"Fx. Perwiragato, S.Ip"
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,3,Wakil Bupati,Taufik Hidayat
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,4,Bupati,H. Hendra Lesmana
-2018,62,Kalimantan Tengah,6207,Kab. Lamandau,4,Wakil Bupati,"Riko Porwanto, S.Stp"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,1,Bupati,"H. Aprian Noor, S.Sos"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,1,Wakil Bupati,"Susilo, Se, Mm"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,2,Bupati,"Drs. Perdie, Ma"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,2,Wakil Bupati,"Rejikinoor, S.Sos"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,3,Bupati,"H. Syapuani, Se.,Mm"
-2018,62,Kalimantan Tengah,6213,Kab. Murung Raya,3,Wakil Bupati,"Dihasbi, S.Pd.I.,M.Pd"
-2018,62,Kalimantan Tengah,6210,Kab. Pulang Pisau,1,Bupati,"H. Idham Amur, S.H., M.Si."
-2018,62,Kalimantan Tengah,6210,Kab. Pulang Pisau,1,Wakil Bupati,"H. Ahmad Jayadikarta, S.Ip."
-2018,62,Kalimantan Tengah,6210,Kab. Pulang Pisau,2,Bupati,"H. Edy Pratowo, S.Sos., Mm."
-2018,62,Kalimantan Tengah,6210,Kab. Pulang Pisau,2,Wakil Bupati,Pudjirustaty Narang
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,1,Bupati,"H. Sudarsono, S.H."
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,1,Wakil Bupati,"Hairil Yadi, S.H."
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,2,Bupati,Drs. H. Edy Riswan
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,2,Wakil Bupati,"Soetoyo. S Darno, M.M."
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,3,Bupati,Yulhaidir
-2018,62,Kalimantan Tengah,6208,Kab. Seruyan,3,Wakil Bupati,"Hj. Iswanti, S.E., M.M."
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,1,Bupati,"H. Ahmad Darsoni, Skm, M.Si"
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,1,Wakil Bupati,Ir. H. Mohamad Yamin
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,2,Bupati,"H. Mugeni, Sh.,Mh"
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,2,Wakil Bupati,"Daman Huri, S.Ip"
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,3,Bupati,H. Windu Subagio
-2018,62,Kalimantan Tengah,6206,Kab. Sukamara,3,Wakil Bupati,"H. Ahmadi, Sh"
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,1,Bupati,"Mustaqim, Mz.Mm"
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,1,Wakil Bupati,"Sofian Nur, St"
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,2,Bupati,"H. Andi Harahap, S.Sos"
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,2,Wakil Bupati,"H. Fadly Imawan, Sp.Mp"
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,3,Bupati,Abdul Gafur
-2018,64,Kalimantan Timur,6409,Kab. Penajam Paser Utara,3,Wakil Bupati,Ir. H. Hamdam
-2018,65,Kalimantan Utara,6571,Kota Tarakan,1,Walikota,"Hj. Umi Suhartini, S.Pd. M.H"
-2018,65,Kalimantan Utara,6571,Kota Tarakan,1,Wakil Walikota,"H. Mahrudin Mado, Se"
-2018,65,Kalimantan Utara,6571,Kota Tarakan,2,Walikota,"Dr. Khairul, M.Kes"
-2018,65,Kalimantan Utara,6571,Kota Tarakan,2,Wakil Walikota,Effendhi Djuprianto
-2018,65,Kalimantan Utara,6571,Kota Tarakan,3,Walikota,"Drs. H. Badrun, Msi"
-2018,65,Kalimantan Utara,6571,Kota Tarakan,3,Wakil Walikota,Ince A. Rifai
-2018,65,Kalimantan Utara,6571,Kota Tarakan,4,Walikota,"Ir. Sofian, M.Si"
-2018,65,Kalimantan Utara,6571,Kota Tarakan,4,Wakil Walikota,"Sabar Santuso, St., Mpd"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,1,Bupati,"Ir. H. Tarmizi H. Saat, Mm"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,1,Wakil Bupati,"Amri Cahyadi, St"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,2,Bupati,"Mulkan, Sh. Mh"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,2,Wakil Bupati,"Syahbudin, S.Ip"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,3,Bupati,"Dr.Ir. H. Kms. Daniel, Mm"
-2018,19,Kep. Bangka Belitung,1901,Kab. Bangka,3,Wakil Bupati,"Fadillah Sabri, St, M.Eng"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,1,Bupati,"Ir. H. Azwardy Azhar, Se., M.Si"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,1,Wakil Bupati,Drs. H. Erwandi A Rani
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,2,Bupati,"Hellyana, Sh"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,2,Wakil Bupati,Junaidi Rachman
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,3,Bupati,"H. Andi Saparudin Lanna, Sh"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,3,Wakil Bupati,"Zulfriandi Afan, Se"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,4,Bupati,"H. Sahani Saleh, S.Sos"
-2018,19,Kep. Bangka Belitung,1902,Kab. Belitung,4,Wakil Bupati,"Isyak Meirobie, S.Sn"
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,1,Walikota,"Rinaldi, S.E., M.H."
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,1,Wakil Walikota,"Ir. B. Sarjulianto, Dipl., S.E."
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,2,Walikota,"Prof. H. Saparudin, M.T., Ph.D"
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,2,Wakil Walikota,Drs. H. Edison
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,3,Walikota,"H. Maulan Aklil, S.I.P., M.Si."
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,3,Wakil Walikota,"Muhammad Sopian, B.A."
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,4,Walikota,"Endang Kusumawaty, S.T."
-2018,19,Kep. Bangka Belitung,1971,Kota Pangkal Pinang,4,Wakil Walikota,Ismiryadi
-2018,21,Kep. Riau,2172,Kota Tanjung Pinang,1,Walikota,"H. Syahrul, S.Pd.Sd"
-2018,21,Kep. Riau,2172,Kota Tanjung Pinang,1,Wakil Walikota,"Rahma, S.Ip"
-2018,21,Kep. Riau,2172,Kota Tanjung Pinang,2,Walikota,"H. Lis Darmansyah, Sh"
-2018,21,Kep. Riau,2172,Kota Tanjung Pinang,2,Wakil Walikota,Dr.Maya Suryanti
-2018,18,Lampung,1806,Kab. Lampung Utara,1,Bupati,"Drs. Hi. Zainal  Abidin, Mm"
-2018,18,Lampung,1806,Kab. Lampung Utara,1,Wakil Bupati,"M. Yusrizal, St"
-2018,18,Lampung,1806,Kab. Lampung Utara,2,Bupati,Hi. Aprozi Alam
-2018,18,Lampung,1806,Kab. Lampung Utara,2,Wakil Bupati,"Dra. Ice Suryana, S.Pd"
-2018,18,Lampung,1806,Kab. Lampung Utara,3,Bupati,"H. Agung Ilmu Mangkunegara, S.Stp. Mh."
-2018,18,Lampung,1806,Kab. Lampung Utara,3,Wakil Bupati,"H. Budi Utomo, Se. Mm"
-2018,18,Lampung,1802,Kab. Tanggamus,1,Bupati,"Hj. Dewi Handajani, Se, Mm"
-2018,18,Lampung,1802,Kab. Tanggamus,1,Wakil Bupati,"Hi. Am. Syafi?I, S.Ag"
-2018,18,Lampung,1802,Kab. Tanggamus,2,Bupati,"Hi. Samsul Hadi, M.Pd.I"
-2018,18,Lampung,1802,Kab. Tanggamus,2,Wakil Bupati,"Hi. Nuzul Irsan, Se"
-2018,81,Maluku,8172,Kota Tual,1,Walikota,"Drs. Yunus Serang, M.Si"
-2018,81,Maluku,8172,Kota Tual,1,Wakil Walikota,"Eva Fransina Balubun, S.Pt"
-2018,81,Maluku,8172,Kota Tual,2,Walikota,"Adam Rahayaan, S.Ag, M.Si"
-2018,81,Maluku,8172,Kota Tual,2,Wakil Walikota,Usman Tamnge
-2018,81,Maluku,8172,Kota Tual,3,Walikota,"Drs. Basri Adlly Bandjar, M.Si"
-2018,81,Maluku,8172,Kota Tual,3,Wakil Walikota,"Fadillah Rahawarin, S.Pi"
-2018,81,Maluku,8102,Kab. Maluku Tenggara,1,Bupati,"Drs. Angelus Renjaan, M.Pd, Mh"
-2018,81,Maluku,8102,Kab. Maluku Tenggara,1,Wakil Bupati,Hamza Rahayaan
-2018,81,Maluku,8102,Kab. Maluku Tenggara,2,Bupati,"Esebius Utha Safsafubun, S.Ip"
-2018,81,Maluku,8102,Kab. Maluku Tenggara,2,Wakil Bupati,"Abdurrahman Matdoan, S.Pd.I"
-2018,81,Maluku,8102,Kab. Maluku Tenggara,3,Bupati,Muhamad Thaher Hanubun
-2018,81,Maluku,8102,Kab. Maluku Tenggara,3,Wakil Bupati,"Ir. Petrus Beruatwarin, M.Si"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,1,Walikota,"H. A. Rahman, Se"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,1,Wakil Walikota,"Hj. Ferra Amelia, Se.,Mm"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,2,Walikota,"H. Muhammad Lutfi, Se"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,2,Wakil Walikota,"Feri Sofiyan, Sh"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,3,Walikota,"Subhan, Sh"
-2018,52,Nusa Tenggara Barat,5272,Kota Bima,3,Wakil Walikota,Wahyudin
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,1,Bupati,"H. M. Izzul Islam, S.Mn"
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,1,Wakil Bupati,"Tgh. Khudari Ibrahim, Lc., Mh"
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,2,Bupati,"Nauvar Furqony Farinduan, Sh., Mba"
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,2,Wakil Bupati,"Tgh. Muammar Arafat, Sh., Mh"
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,3,Bupati,"H. Fauzan Khalid, S.Ag., M.Si"
-2018,52,Nusa Tenggara Barat,5201,Kab. Lombok Barat,3,Wakil Bupati,Hj. Sumiatun
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,1,Bupati,Drs. H. Haerul Warisin
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,1,Wakil Bupati,"H. Machsun Ridwainny.,S.Sos.,M.B.A"
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,2,Bupati,"Ali Masadi, S.H., M.Kn"
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,2,Wakil Bupati,"Putrawan Habibi, S.P.,M.P."
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,3,Bupati,"Drs. H. Mohammad Sukiman Azmy, Mm."
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,3,Wakil Bupati,"Rumaksi Sj., S.H."
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,4,Bupati,H.M.Syamsul Luthfi
-2018,52,Nusa Tenggara Barat,5203,Kab. Lombok Timur,4,Wakil Bupati,H. Najamuddin Moestafa
-2018,53,Nusa Tenggara Timur,5307,Kab. Alor,1,Bupati,"Dr. Imanuel Ekadianus Blegur, M.Si"
-2018,53,Nusa Tenggara Timur,5307,Kab. Alor,1,Wakil Bupati,"H. Taufik Nampira, Sp. Mm"
-2018,53,Nusa Tenggara Timur,5307,Kab. Alor,2,Bupati,Drs. Amon Djobo
-2018,53,Nusa Tenggara Timur,5307,Kab. Alor,2,Wakil Bupati,"Imran Duru, S.Pd"
-2018,53,Nusa Tenggara Timur,5311,Kab. Ende,1,Bupati,"Drs. Don Bosco M. Wangge,M.Si"
-2018,53,Nusa Tenggara Timur,5311,Kab. Ende,1,Wakil Bupati,"H.Munawar.A Achmad,S.Sos"
-2018,53,Nusa Tenggara Timur,5311,Kab. Ende,2,Bupati,Ir. Marselinus Y.W. Petu
-2018,53,Nusa Tenggara Timur,5311,Kab. Ende,2,Wakil Bupati,"Drs. H. Djafar Achmad, Mm"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,1,Bupati,"Drs. Hendrik Paut, M.Pd"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,1,Wakil Bupati,"Aljery Esau Monas, S.Tp"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,2,Bupati,Drs. Korinus Masneno
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,2,Wakil Bupati,"Jerry Manafe, Sh, M.Th"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,3,Bupati,"Nelson O. Matara, S.Ip., M.Hum"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,3,Wakil Bupati,Bernard Paulus Thomas Wellem Bait
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,4,Bupati,"Melianus Akulas, St"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,4,Wakil Bupati,"Joao Antonio De Jesus Costa, Sh"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,5,Bupati,"Drs. Selfester M. Banfatin, M.Si"
-2018,53,Nusa Tenggara Timur,5303,Kab. Kupang,5,Wakil Bupati,"Johannis Silvester Ottemoesoe, Se"
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,1,Bupati,"Agas Andreas, Sh, M.Hum"
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,1,Wakil Bupati,Drs. Jaghur Stefanus
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,2,Bupati,Drs. Marselis S
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,2,Wakil Bupati,Sirajudin Paskalis
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,3,Bupati,Tarsisius Sjukur
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,3,Wakil Bupati,"Yoseph Byron Aur, S.Sos"
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,4,Bupati,"Bonefasius Uha, Sh"
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,4,Wakil Bupati,Fransiskus Anggal
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,5,Bupati,Fransiskus Sarong
-2018,53,Nusa Tenggara Timur,5319,Kab. Manggarai Timur,5,Wakil Bupati,"Kasmir Don, Sh"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,1,Bupati,"Paskalis Mb Ledo Bude, Se, Mm"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,1,Wakil Bupati,"Oskarianus Meta, Ss"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,2,Bupati,"Dr. Johanes Don Bosco Do, M. Kes"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,2,Wakil Bupati,"Marianus Waja, Sh"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,3,Bupati,Drs. Elias Djo
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,3,Wakil Bupati,Servasius Phodi
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,4,Bupati,"Gaspar Batubata, Sh"
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,4,Wakil Bupati,Ndait Adrianus
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,5,Bupati,Paulinus Yohanes Nuwa Veto
-2018,53,Nusa Tenggara Timur,5318,Kab. Nagekeo,5,Wakil Bupati,Marselinus F. Ajo Bupu
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,1,Bupati,"Jonas Cornelius Lun, S.Pd"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,1,Wakil Bupati,"Dr. Adolfina Elisabeth Koamesakh, M.Th.,M.Hum"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,2,Bupati,"Drs. Mesakh Nitanel Nunuhitu, M.Si"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,2,Wakil Bupati,Drs. Samuel Conny Penna
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,3,Bupati,"Paulina Haning - Bullu, Se"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,3,Wakil Bupati,"Stefanus M. Saek, Se, M.Si"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,4,Bupati,"Bima Theodorianus Fanggidae, Mba"
-2018,53,Nusa Tenggara Timur,5314,Kab. Rote Ndao,4,Wakil Bupati,"Drs. Erenst Salmun Zadrak Pella, M.Si"
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,1,Bupati,Drs. Alexander Longginus
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,1,Wakil Bupati,"Fransiskus Stephanus Say, Se"
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,2,Bupati,"Fransiskus Roberto Diogo, S.Sos, Msi."
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,2,Wakil Bupati,Romanus Woga
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,3,Bupati,Drs. Yoseph Ansar Rera
-2018,53,Nusa Tenggara Timur,5310,Kab. Sikka,3,Wakil Bupati,"Rafael Raga, Sp"
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,1,Bupati,"Markus Dairo Talu, Sh"
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,1,Wakil Bupati,"Gerson Tanggu Dendo, Sh"
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2,Bupati,"Dominggus Dama, Sst, Mt"
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2,Wakil Bupati,"Kornelis Tanggu Bore, Sh"
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,3,Bupati,Dr. Kornelius Kodi Mete
-2018,53,Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,3,Wakil Bupati,"Marthen Christian Taka, S.Ip"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,1,Bupati,"Umbu Besi,S.Sos"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,1,Wakil Bupati,"Umbu Windi, S.Ipem"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2,Bupati,Drs. Paulus S. K. Limu
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2,Wakil Bupati,Ir. Daniel Landa
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,3,Bupati,"Umbu Dondu, Bba"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,3,Wakil Bupati,"Samuel Saki Pekulimu,S.Sos"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,4,Bupati,"Umbu S. Samapaty, Sh, Mh"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,4,Wakil Bupati,"Marthinus Umbu Djoka, S.Hut, M.Si"
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,5,Bupati,Dr. Umbu M. Marisi
-2018,53,Nusa Tenggara Timur,5316,Kab. Sumba Tengah,5,Wakil Bupati,Drs. Tagela Ibi Sola
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,1,Bupati,"Ampera Seke Selan, Sh"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,1,Wakil Bupati,Ir. Yaan Mazrich Jermias Tanaem
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2,Bupati,"Drs. Obed Naitboho, M.Si"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2,Wakil Bupati,"Alexander Kase, S.Pd.K"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,3,Bupati,"Egusem Piether Tahun, St, Mm"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,3,Wakil Bupati,"Johny Army Konay, Sh"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,4,Bupati,"Drs. Johanis Lakapu, M.Si"
-2018,53,Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,4,Wakil Bupati,"Yefta Ambrosius Lodowijk Mella, A.Md"
-2018,94,Papua,9409,Kab. Biak Numfor,1,Bupati,"Andreas Msen, Se. Mm"
-2018,94,Papua,9409,Kab. Biak Numfor,1,Wakil Bupati,"Justinus Wihelmus Noriwari, S.Th"
-2018,94,Papua,9409,Kab. Biak Numfor,2,Bupati,"Herry Ario Naap, S.Si.,M.Pd."
-2018,94,Papua,9409,Kab. Biak Numfor,2,Wakil Bupati,"Nehemia Wospakrik, Se.,Mm.,B.Sc."
-2018,94,Papua,9409,Kab. Biak Numfor,3,Bupati,Nichodemus Ronsumbre
-2018,94,Papua,9409,Kab. Biak Numfor,3,Wakil Bupati,Ir. Akmal Bachri Hi Kalabe
-2018,94,Papua,9436,Kab. Deiyai,1,Bupati,Ateng Edowai S.Pd.K
-2018,94,Papua,9436,Kab. Deiyai,1,Wakil Bupati,Hengky Pigai S.Pt
-2018,94,Papua,9436,Kab. Deiyai,2,Bupati,Keni Ikomou
-2018,94,Papua,9436,Kab. Deiyai,2,Wakil Bupati,Abraham Tekege
-2018,94,Papua,9436,Kab. Deiyai,3,Bupati,"Dance Takimai, A.Ks"
-2018,94,Papua,9436,Kab. Deiyai,3,Wakil Bupati,"Robert Dawapa, S.Sos"
-2018,94,Papua,9436,Kab. Deiyai,4,Bupati,Inarius Douw
-2018,94,Papua,9436,Kab. Deiyai,4,Wakil Bupati,Anakletus Doo
-2018,94,Papua,9402,Kab. Jayawijaya,1,Bupati,"Jhon Richard Banua Se,M.Si."
-2018,94,Papua,9402,Kab. Jayawijaya,1,Wakil Bupati,"Marthin Yogobi Sh,M.Hum."
-2018,94,Papua,9431,Kab. Mamberamo Tengah,1,Bupati,"Ricky Ham Pagawak, Sh, M.Si"
-2018,94,Papua,9431,Kab. Mamberamo Tengah,1,Wakil Bupati,"Yonas Kenelak, S. Sos"
-2018,94,Papua,9412,Kab. Mimika,1,Bupati,Drs. Petrus Yanwarin
-2018,94,Papua,9412,Kab. Mimika,1,Wakil Bupati,Alpius Edowai
-2018,94,Papua,9412,Kab. Mimika,2,Bupati,"Robertus Waraopea, Sh"
-2018,94,Papua,9412,Kab. Mimika,2,Wakil Bupati,"Albert Bolang, Sh. Mh"
-2018,94,Papua,9412,Kab. Mimika,3,Bupati,Wilhelmus Pigai
-2018,94,Papua,9412,Kab. Mimika,3,Wakil Bupati,"Athanasius Allo Rafra,Sh. Msi"
-2018,94,Papua,9412,Kab. Mimika,4,Bupati,"Hans Magal, S.P"
-2018,94,Papua,9412,Kab. Mimika,4,Wakil Bupati,"Abd Muis, S.T. M.M"
-2018,94,Papua,9412,Kab. Mimika,5,Bupati,"Maria Florida Kotorok, Se., M.H.Kes"
-2018,94,Papua,9412,Kab. Mimika,5,Wakil Bupati,"Yustus Way, S.Sos"
-2018,94,Papua,9412,Kab. Mimika,6,Bupati,"Eltinus Omaleng, Se, Mh"
-2018,94,Papua,9412,Kab. Mimika,6,Wakil Bupati,"Johanes Rettob, S.Sos, M.M"
-2018,94,Papua,9412,Kab. Mimika,7,Bupati,"Philipus B. Wakerkwa Se, Msi"
-2018,94,Papua,9412,Kab. Mimika,7,Wakil Bupati,H.Basri
-2018,94,Papua,9410,Kab. Paniai,1,Bupati,"Dr. Hengki Kayame, Sh.,Mh"
-2018,94,Papua,9410,Kab. Paniai,1,Wakil Bupati,Drs. Yeheskiel Tenouye
-2018,94,Papua,9410,Kab. Paniai,2,Bupati,"Naftali Yogi, S.Sos"
-2018,94,Papua,9410,Kab. Paniai,2,Wakil Bupati,"Marten Mote, Se"
-2018,94,Papua,9410,Kab. Paniai,3,Bupati,Meki Nawipa
-2018,94,Papua,9410,Kab. Paniai,3,Wakil Bupati,"Oktopianus Gobai, S.Ip"
-2018,94,Papua,9410,Kab. Paniai,4,Bupati,"Yunus Gobai, S.Sos"
-2018,94,Papua,9410,Kab. Paniai,4,Wakil Bupati,"Markus Boma, S.Pd"
-2018,94,Papua,9410,Kab. Paniai,5,Bupati,"Yehuda Gobai, S.Th., M.Si"
-2018,94,Papua,9410,Kab. Paniai,5,Wakil Bupati,"Yan Tebai, S.Sos., M.Si"
-2018,94,Papua,9433,Kab. Puncak,1,Bupati,"Willem Wandik, Se. Msi"
-2018,94,Papua,9433,Kab. Puncak,1,Wakil Bupati,"Pelinus Balinal. S.Sos, Ag"
-2018,14,Riau,1403,Kab. Indragiri Hilir,1,Bupati,"H. Rosman Malomo, Sh, Mh"
-2018,14,Riau,1403,Kab. Indragiri Hilir,1,Wakil Bupati,"Musmulyadi, Ss"
-2018,14,Riau,1403,Kab. Indragiri Hilir,2,Bupati,"Dr. H.M. Ramli, Se, M.Si"
-2018,14,Riau,1403,Kab. Indragiri Hilir,2,Wakil Bupati,"Dr. H. Ali Azhar, S.Sos, Mh"
-2018,14,Riau,1403,Kab. Indragiri Hilir,3,Bupati,"Drs. H. Muhammad Wardan, Mp"
-2018,14,Riau,1403,Kab. Indragiri Hilir,3,Wakil Bupati,H. Syamsuddin Uti
-2018,76,Sulawesi Barat,7603,Kab. Mamasa,1,Bupati,"Drs. Ramlan Badawi, Mh"
-2018,76,Sulawesi Barat,7603,Kab. Mamasa,1,Wakil Bupati,Marthinus Tiranda
-2018,76,Sulawesi Barat,7602,Kab. Polewali Mandar,1,Bupati,Salim S. Mengga
-2018,76,Sulawesi Barat,7602,Kab. Polewali Mandar,1,Wakil Bupati,"Marwan, St"
-2018,76,Sulawesi Barat,7602,Kab. Polewali Mandar,2,Bupati,H. A. Ibrahim Masdar
-2018,76,Sulawesi Barat,7602,Kab. Polewali Mandar,2,Wakil Bupati,"Drs. H. M. Natsir Rahmat, Mm"
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,1,Bupati,Muh.Alwi
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,1,Wakil Bupati,Nurdin Halim
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,2,Bupati,"Dra. Hj. Andi Sugiarti Mangun Karim, M. Si"
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,2,Wakil Bupati,Andi Mappatoba
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,3,Bupati,"Dr. H. Ilham Syah Azikin, M. Si"
-2018,73,Sulawesi Selatan,7303,Kab. Bantaeng,3,Wakil Bupati,Drs. H. Sahabuddin
-2018,73,Sulawesi Selatan,7311,Kab. Bone,1,Bupati,"Dr. H. A. Fahsar Mahdin Padjalangi, M.Si."
-2018,73,Sulawesi Selatan,7311,Kab. Bone,1,Wakil Bupati,"Drs. H. Ambo Dalle, Mm."
-2018,73,Sulawesi Selatan,7316,Kab. Enrekang,1,Bupati,"Drs. H. Muslimin Bando, M.Pd"
-2018,73,Sulawesi Selatan,7316,Kab. Enrekang,1,Wakil Bupati,"Asman, Se"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,1,Bupati,"H. Mulyadi Mustamu, Sh"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,1,Wakil Bupati,"Muhammad Kasmin, Ms, Se"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,2,Bupati,"H. Muhammad Sarif, Sh, Mh"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,2,Wakil Bupati,Andi Tahal Fasni
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,3,Bupati,"Drs. H. Iksan Iskandar, M.Si"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,3,Wakil Bupati,"H. Paris Yasir, Se"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,4,Bupati,"H.A. Baharuddin Baso Jaya, S.Sos, M.Si"
-2018,73,Sulawesi Selatan,7304,Kab. Jeneponto,4,Wakil Bupati,"H. Isnaad Ibrahim, Sh"
-2018,73,Sulawesi Selatan,7371,Kota Makassar,1,Walikota,"Munafri Arifuddin, Sh"
-2018,73,Sulawesi Selatan,7371,Kota Makassar,1,Wakil Walikota,Drg. A. Rachmatika Dewi Yustitia Iqbal
-2018,73,Sulawesi Selatan,7373,Kota Palopo,1,Walikota,"Drs. H. M. Judas Amir, Mh"
-2018,73,Sulawesi Selatan,7373,Kota Palopo,1,Wakil Walikota,"Ir. H. Rahmat Masri Bandaso, M.Si"
-2018,73,Sulawesi Selatan,7373,Kota Palopo,2,Walikota,"Dr. Akhmad Syarifuddin Daud, Se., M.Si"
-2018,73,Sulawesi Selatan,7373,Kota Palopo,2,Wakil Walikota,"Budi Sada, S.Ip, Mm"
-2018,73,Sulawesi Selatan,7372,Kota Parepare,1,Walikota,"Dr. H. M. Taufan Pawe, S.H.,M.H."
-2018,73,Sulawesi Selatan,7372,Kota Parepare,1,Wakil Walikota,H. Pangerang Rahim
-2018,73,Sulawesi Selatan,7372,Kota Parepare,2,Walikota,"Ir. H. Achmad Faisal Andi Sapada, S.E.,M.M."
-2018,73,Sulawesi Selatan,7372,Kota Parepare,2,Wakil Walikota,"Asriady Samad, A.Md"
-2018,73,Sulawesi Selatan,7317,Kab. Luwu,1,Bupati,"Drs. H. Basmin Mattayang, M.Pd"
-2018,73,Sulawesi Selatan,7317,Kab. Luwu,1,Wakil Bupati,Syukur Bijak
-2018,73,Sulawesi Selatan,7317,Kab. Luwu,2,Bupati,"Patahudding, S.Ag"
-2018,73,Sulawesi Selatan,7317,Kab. Luwu,2,Wakil Bupati,"Emmy Tallesang, Ma"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,1,Bupati,"Ir. H. Abdul Latif, M.Si, Mm, Ipm"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,1,Wakil Bupati,H. Usman Marham
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,2,Bupati,"H.A.Irwan Hamid,S.Sos"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,2,Wakil Bupati,"Drs.H. Alimin,M.Si"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,3,Bupati,H. Jamaluddin Jafar
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,3,Wakil Bupati,"H. A. Sofyan Nawir, S.Sos.,M.Si"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,4,Bupati,"H. Hamka Mahmud, Sh.M.Si"
-2018,73,Sulawesi Selatan,7315,Kab. Pinrang,4,Wakil Bupati,"Ahsan, Sh"
-2018,73,Sulawesi Selatan,7314,Kab. Sidenreng Rappang,1,Bupati,"Fatmawati Rusdi, Se"
-2018,73,Sulawesi Selatan,7314,Kab. Sidenreng Rappang,1,Wakil Bupati,"Abdul Majid Hafid, Se., M. Si"
-2018,73,Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2,Bupati,Ir. Dollah Mando
-2018,73,Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2,Wakil Bupati,Ir. Mahmud Yusuf
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,1,Bupati,Andi Seto Gadhista Asapa
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,1,Wakil Bupati,A. Kartini
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,2,Bupati,"H. Sabirin Yahya, S.Sos"
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,2,Wakil Bupati,"A. Mahyanto Massarappi, Sh., Mh"
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,3,Bupati,"H. Takyuddin Masse, Se., M.Si"
-2018,73,Sulawesi Selatan,7307,Kab. Sinjai,3,Wakil Bupati,"Mizar Roem, Se"
-2018,73,Sulawesi Selatan,7313,Kab. Wajo,1,Bupati,"Dr. H. Amran Mahmud, S,Sos., M.Si"
-2018,73,Sulawesi Selatan,7313,Kab. Wajo,1,Wakil Bupati,"H. Amran, Se"
-2018,73,Sulawesi Selatan,7313,Kab. Wajo,2,Bupati,"Dr. H. Baso Rahmanuddin, M.M.,M.Kes."
-2018,73,Sulawesi Selatan,7313,Kab. Wajo,2,Wakil Bupati,"Kh. Anwar Sadat Bin Abudl Malik, Lc.,M.A"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,1,Bupati,"Drg. Anita Bugiswaty Noerdin, M.Kes"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,1,Wakil Bupati,"Abdul Rahman, St, Iai"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,2,Bupati,"Drs. Kasman Lassa, Sh"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,2,Wakil Bupati,"Moh. Yasin, S.Sos"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,3,Bupati,"Vera Elena Laruni, Se"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,3,Wakil Bupati,"Taufik M. Burhan, S.Pd, M.Si"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,4,Bupati,"Idham Pagaluma, Sh"
-2018,72,Sulawesi Tengah,7205,Kab. Donggala,4,Wakil Bupati,"Mohamad Yasin. M. Lataka, Se, Mm"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,1,Bupati,Drs Taslim
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,1,Wakil Bupati,"Dr. H. Najamudin, S.Ag, S.Pd, M.Pd"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,2,Bupati,H. Ambo Dalle
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,2,Wakil Bupati,Aminudin Awaludin
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,3,Bupati,"H. Syarifudin Hafid, Sh"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,3,Wakil Bupati,"Drs. H.Chaerudin N,Zen,Mm"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,4,Bupati,"H. Silahudin Karim, S.Sos"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,4,Wakil Bupati,Sunardin Firdaus
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,5,Bupati,"Haris Nunu, Se. Mm"
-2018,72,Sulawesi Tengah,7203,Kab. Morowali,5,Wakil Bupati,Drs. Ismail Suaib
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,1,Bupati,H. Samsurizal Tombolotutu
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,1,Wakil Bupati,"Badrun Nggai, Se"
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,2,Bupati,"Erwin Burase, S.Kom"
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,2,Wakil Bupati,"Rahmawati M. Nur, S.Ag"
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,3,Bupati,"H. Amrullah Almahdaly, S.E"
-2018,72,Sulawesi Tengah,7208,Kab. Parigi Moutong,3,Wakil Bupati,"Dra. Hj. Yufni Bungkundapu, M.Si"
-2018,74,Sulawesi Tenggara,7404,Kab. Kolaka,1,Bupati,"H. Ahmad Safei, Sh, Mh"
-2018,74,Sulawesi Tenggara,7404,Kab. Kolaka,1,Wakil Bupati,"H. Muhammad Jayadin, Se., M.E"
-2018,74,Sulawesi Tenggara,7404,Kab. Kolaka,2,Bupati,"Dr. Hj. Asmani Arif, Se., Mm"
-2018,74,Sulawesi Tenggara,7404,Kab. Kolaka,2,Wakil Bupati,"H. Syahrul Beddu, S.Ip., Mh"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,1,Bupati,"Muliati Saiman, S.Si"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,1,Wakil Bupati,"Ir. Mansur, Mt"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,2,Bupati,"H. Litanto, Sh.,M.Si"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,2,Wakil Bupati,Hj. Murni Tombili
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,3,Bupati,"H. Irawan Laliasa, Se.,M.Si"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,3,Wakil Bupati,"Adi Jaya Putra, B.Bus.,M.Com"
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,4,Bupati,Kery Saiful Konggoasa
-2018,74,Sulawesi Tenggara,7403,Kab. Konawe,4,Wakil Bupati,"Gusli Topan Sabara, St., Mm"
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,1,Walikota,Hj. Roslina Rahim
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,1,Wakil Walikota,La Ode Yasin
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,2,Walikota,"Dr. H.A.S Tamrin, Mh"
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,2,Wakil Walikota,La Ode Ahmad Monianse
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,3,Walikota,"Hj. Wa Ode Maasra Manarfa, S.Sos., M.Si"
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,3,Wakil Walikota,Ikhsan Ismail
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,4,Walikota,"H. Yusran Fahim, Se"
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,4,Wakil Walikota,"Drs. H. Ahmad, Mm"
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,5,Walikota,"Drs. H. Ibrahim Marsela, M.M."
-2018,74,Sulawesi Tenggara,7472,Kota Baubau,5,Wakil Walikota,"Ilyas, S.Sos"
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,1,Bupati,"Karel Bangko, Sh"
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,1,Wakil Bupati,"Arman Lumoto, S.Ag., M.Pd.I"
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2,Bupati,Drs. Hi. Depri Pontoh
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2,Wakil Bupati,"Drs. Hi. Amin Lasena, M.Ap"
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,3,Bupati,Drs. Hi. Hamdan Datunsolang
-2018,71,Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,3,Wakil Bupati,"Drs. Murianto Babay, M.M"
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,1,Bupati,"Alfrets Ronald Takarendehang, Se.Ak"
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,1,Wakil Bupati,Ir. Jutixel Rudolf Parera
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2,Bupati,"Siska Salindeho, Se"
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2,Wakil Bupati,"Heronimus Makainas, Se"
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,3,Bupati,Ad Almost Berd Maliogha
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,3,Wakil Bupati,"Elians Bawole, Se"
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,4,Bupati,Evangelian Sasingen
-2018,71,Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,4,Wakil Bupati,"Drs. John Heit Palandung, M.Si"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,1,Bupati,"Dr. Elly Engelbert Lasut, Me"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,1,Wakil Bupati,Moktar Arunde Parapaga
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,2,Bupati,Welly Titah
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,2,Wakil Bupati,"Heber Pasiak, S.Pi"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,3,Bupati,"Sri Wahyumi Maria Manalip, Se"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,3,Wakil Bupati,"Capt. Gunawan Talenggoran, Se, M.Mar"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,4,Bupati,"Handri Piter Poae, S.H"
-2018,71,Sulawesi Utara,7104,Kab. Kepulauan Talaud,4,Wakil Bupati,"Dr. Clartje Silvia. E. Awulle, S.H. M.Th"
-2018,71,Sulawesi Utara,7174,Kota Kotamobagu,1,Walikota,Ir. Hj. Tatong Bara
-2018,71,Sulawesi Utara,7174,Kota Kotamobagu,1,Wakil Walikota,"Nayodo Koerniawan, Sh"
-2018,71,Sulawesi Utara,7174,Kota Kotamobagu,2,Walikota,Drs. Hi. Jainuddin Damopolii
-2018,71,Sulawesi Utara,7174,Kota Kotamobagu,2,Wakil Walikota,Drs. Suharjo Makalalag
-2018,71,Sulawesi Utara,7102,Kab. Minahasa,1,Bupati,Ivan Steven Joudrie Sarundajang
-2018,71,Sulawesi Utara,7102,Kab. Minahasa,1,Wakil Bupati,"Careig Naichel Runtu, S.Ip"
-2018,71,Sulawesi Utara,7102,Kab. Minahasa,2,Bupati,"Ir. Royke Octavian Roring, M.Si"
-2018,71,Sulawesi Utara,7102,Kab. Minahasa,2,Wakil Bupati,"Robby Dondokambey, S.Si"
-2018,71,Sulawesi Utara,7109,Kab. Minahasa Tenggara,1,Bupati,"James Sumendap,Sh"
-2018,71,Sulawesi Utara,7109,Kab. Minahasa Tenggara,1,Wakil Bupati,Jesaja Jocke Oscar Legi
-2018,13,Sumatera Barat,1371,Kota Padang,1,Walikota,"Ir. H. Emzalmi, M.Si"
-2018,13,Sumatera Barat,1371,Kota Padang,1,Wakil Walikota,"H. Desri Ayunda, Se, Mba"
-2018,13,Sumatera Barat,1371,Kota Padang,2,Walikota,"H. Mahyeldi, Sp"
-2018,13,Sumatera Barat,1371,Kota Padang,2,Wakil Walikota,"Hendri Septa, B.Bus (Acc)., Mib"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,1,Walikota,"Dr. Mawardi, Mkm"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,1,Wakil Walikota,"Taufiq Idris, Sh"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,2,Walikota,"H. Hendri Arnis, Bsba"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,2,Wakil Walikota,"H. Eko Furqani, Se, Mm"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,3,Walikota,Ir. Rafdi M. Syarif
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,3,Wakil Walikota,"Ahmad Fadly, S.Psi"
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,4,Walikota,Fadly Amran
-2018,13,Sumatera Barat,1374,Kota Padang Panjang,4,Wakil Walikota,Drs. Asrul
-2018,13,Sumatera Barat,1377,Kota Pariaman,1,Walikota,Ir. H. Mahyuddin
-2018,13,Sumatera Barat,1377,Kota Pariaman,1,Wakil Walikota,"Muhamad Ridwan, S.Ip"
-2018,13,Sumatera Barat,1377,Kota Pariaman,2,Walikota,"Dewi Fitri Deswati, S.Pi"
-2018,13,Sumatera Barat,1377,Kota Pariaman,2,Wakil Walikota,Pabrisal
-2018,13,Sumatera Barat,1377,Kota Pariaman,3,Walikota,"Dr. Genius Umar, S.Sos, M.Si"
-2018,13,Sumatera Barat,1377,Kota Pariaman,3,Wakil Walikota,"Drs. Mardison Mahyuddin, Mm"
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,1,Walikota,H. Fauzi Hasan
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,1,Wakil Walikota,"H. Dasrial Ery, Se.Mm"
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,2,Walikota,"Ali Yusuf, S.Pt"
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,2,Wakil Walikota,"H. Ismed, Sh"
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,3,Walikota,"Deri Asta, Sh"
-2018,13,Sumatera Barat,1373,Kota Sawah Lunto,3,Wakil Walikota,"Zohirin Sayuti, Se"
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,1,Bupati,Drs. Agus Yudiantoro
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,1,Wakil Bupati,"H. Hazuar Bidui Az, S. Sos., M.M"
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,2,Bupati,H. Arkoni Md
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,2,Wakil Bupati,H. Hazwar Hamid
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,3,Bupati,Buya H.M. Husni Thamrin Madani
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,3,Wakil Bupati,Ir. H. Supartijo
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,4,Bupati,"Ir. H. Syaiful Bakhri Ar,M.Si"
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,4,Wakil Bupati,"H. Agus Salam, Sh"
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,5,Bupati,"H. Askolani, Sh., Mh"
-2018,16,Sumatera Selatan,1607,Kab. Banyu Asin,5,Wakil Bupati,H. Slamet
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,1,Bupati,H. David Hadrianto Aljufri (Hda)
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,1,Wakil Bupati,"H. M. Eduar Kohar,Se.,Mm  (Hek)"
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,2,Bupati,"H. Joncik Muhammad, S.Si."
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,2,Wakil Bupati,Yulius Maulana
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,3,Bupati,"H.Yulizar Dinoto,Sh"
-2018,16,Sumatera Selatan,1611,Kab. Empat Lawang,3,Wakil Bupati,"Drs.H.Kison Syahrin,Mm"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,1,Walikota,"H. Toyeb Rakembang, S.Ag"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,1,Wakil Walikota,"Sofyan, Sh"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,2,Walikota,"Drs. H. S.N.Prana Putra Sohe, Mm"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,2,Wakil Walikota,"H. Sulaiman Kohar, Sh, Mh"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,3,Walikota,"H. Rustam Effendi, Sh"
-2018,16,Sumatera Selatan,1674,Kota Lubuklinggau,3,Wakil Walikota,"Riezky Aprilia, Sh, Mh"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,1,Walikota,"Hermanto, Sh M.Si"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,1,Wakil Walikota,Ir. Musabaqo
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,2,Walikota,"Alpian Maskoni, Sh"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,2,Wakil Walikota,"Muhammad Fadli, Se"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,3,Walikota,"Dr. Hj. Ida Fitriati Basjuni, M.Kes"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,3,Wakil Walikota,"Ir. Armansah, Mm"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,4,Walikota,Novirzah Djazuli. Se.
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,4,Wakil Walikota,"H. Suharindi Sj, S.Pd.,Mm"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,5,Walikota,Ludi Oliansyah
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,5,Wakil Walikota,H. A. Fachri
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,6,Walikota,"Ir. Gunawan, Mt"
-2018,16,Sumatera Selatan,1673,Kota Pagar Alam,6,Wakil Walikota,"Febrianto, Sh., S.Si"
-2018,16,Sumatera Selatan,1671,Kota Palembang,1,Walikota,"H. Harnojoyo, S.Sos"
-2018,16,Sumatera Selatan,1671,Kota Palembang,1,Wakil Walikota,"Fitrianti Agustinda, S.H."
-2018,16,Sumatera Selatan,1671,Kota Palembang,2,Walikota,"Ir. H. Sarimuda, Mt."
-2018,16,Sumatera Selatan,1671,Kota Palembang,2,Wakil Walikota,"Ir. Kgs. H. Abdul Rozak, M.Sc."
-2018,16,Sumatera Selatan,1671,Kota Palembang,3,Walikota,H. M. Akbar Alfaro
-2018,16,Sumatera Selatan,1671,Kota Palembang,3,Wakil Walikota,Hernoe Roesprijadji
-2018,16,Sumatera Selatan,1671,Kota Palembang,4,Walikota,H. Mularis Djahri
-2018,16,Sumatera Selatan,1671,Kota Palembang,4,Wakil Walikota,H. Syaidina Ali
-2018,16,Sumatera Selatan,1672,Kota Prabumulih,1,Walikota,"Ir. H. Ridho Yahya, M.M."
-2018,16,Sumatera Selatan,1672,Kota Prabumulih,1,Wakil Walikota,"H. Andriansyah Fikri, S.H."
-2018,16,Sumatera Selatan,1604,Kab. Lahat,1,Bupati,"H. Nopran Marjani, S. Pd"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,1,Wakil Bupati,"Herliansyah, Sh., Mh"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,2,Bupati,"Ir. H. Hapit Padli, Mm"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,2,Wakil Bupati,"H. Erlansyah Rumsyah, Se, Mm"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,3,Bupati,"Cik Ujang, Sh"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,3,Wakil Bupati,"H. Haryanto, Se, Mm"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,4,Bupati,"H. Bursah Zarnubi, Se"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,4,Wakil Bupati,"Drs. Parhan Berza, Mm"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,5,Bupati,"Drs. H. Purnawarman Kias, Sh"
-2018,16,Sumatera Selatan,1604,Kab. Lahat,5,Wakil Bupati,Rozi Adiansyah
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,1,Bupati,"Dr. Ir. H. Syamsul Bahri, Mm"
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,1,Wakil Bupati,"Ir. H. Hanan Zulkarnain, Mtp"
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,2,Bupati,H. Nurul Aman
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,2,Wakil Bupati,M. Thamrin Az
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,3,Bupati,"Dr. Hj. Shinta Paramita Sari, Sh, M.Hum"
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,3,Wakil Bupati,"Syuryadi, Se"
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,4,Bupati,"Ir. H. Ahmad Yani.,Mm"
-2018,16,Sumatera Selatan,1603,Kab. Muara Enim,4,Wakil Bupati,"H. Juarsah, Sh"
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,1,Bupati,"H. Iskandar, Se"
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,1,Wakil Bupati,H. M. Dja'Far Shodiq
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2,Bupati,"Abdiyanto, Sh., Mh"
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2,Wakil Bupati,"Made Indrawan, St., Mh"
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,3,Bupati,H. Azhari
-2018,16,Sumatera Selatan,1602,Kab. Ogan Komering Ilir,3,Wakil Bupati,H. Qomarus Zaman
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,1,Bupati,"H. Rm. Harry Nugroho, Se"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,1,Wakil Bupati,"Dr. H. Mhd Syafi'I, Sh, Mh, M.Si"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,2,Bupati,"Drs. H. Darwis, M.Si"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,2,Wakil Bupati,"H. Janmat Sembiring, Se"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,3,Bupati,"Ir. H. Zahir, M.Ap"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,3,Wakil Bupati,"Oky Iqbal Frima, Se"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,4,Bupati,"Khairil Anwar, Sh"
-2018,12,Sumatera Utara,1219,Kab. Batu Bara,4,Wakil Bupati,"Drs. H. Sofyan Alwi, M.Hum"
-2018,12,Sumatera Utara,1210,Kab. Dairi,1,Bupati,"Depriwanto Sitohang, St, Mm"
-2018,12,Sumatera Utara,1210,Kab. Dairi,1,Wakil Bupati,"Azhar Bintang, Sh"
-2018,12,Sumatera Utara,1210,Kab. Dairi,2,Bupati,Dr. Eddy Keleng Ate Berutu
-2018,12,Sumatera Utara,1210,Kab. Dairi,2,Wakil Bupati,"Jimmy Andrea Lukita Sihombing, Sh"
-2018,12,Sumatera Utara,1210,Kab. Dairi,3,Bupati,"St. Rimso Maruli Sinaga, Sh, Mh"
-2018,12,Sumatera Utara,1210,Kab. Dairi,3,Wakil Bupati,"Bilker Purba, Amd"
-2018,12,Sumatera Utara,1212,Kab. Deli Serdang,1,Bupati,H. Ashari Tambunan
-2018,12,Sumatera Utara,1212,Kab. Deli Serdang,1,Wakil Bupati,H.M Ali Yusuf Siregar
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,1,Walikota,"H. Muhammad Isnandar Nasution, S.Sos"
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,1,Wakil Walikota,"Dr. H. Ali Pada Harahap, M.Pd"
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,2,Walikota,"H. Rusydi Nasution, S.T.P., M.M"
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,2,Wakil Walikota,"Drs. H. Abd. Rosad Lubis, Mm"
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,3,Walikota,"Irsan Efendi Nasution, Sh"
-2018,12,Sumatera Utara,1277,Kota Padangsidimpuan,3,Wakil Walikota,"Ir. H. Arwin Siregar, Mm"
-2018,12,Sumatera Utara,1213,Kab. Langkat,1,Bupati,Terbit Rencana Perangin Angin
-2018,12,Sumatera Utara,1213,Kab. Langkat,1,Wakil Bupati,"H. Syah Afandin, Sh"
-2018,12,Sumatera Utara,1213,Kab. Langkat,2,Bupati,"H. Rudi Hartono Bangun Se, Map"
-2018,12,Sumatera Utara,1213,Kab. Langkat,2,Wakil Bupati,Budiono.Se
-2018,12,Sumatera Utara,1213,Kab. Langkat,3,Bupati,"Drs. H. Sulistianto, M.Si"
-2018,12,Sumatera Utara,1213,Kab. Langkat,3,Wakil Bupati,"Heriansyah, S.Ag"
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,1,Bupati,H. Tondi Roni Tua
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,1,Wakil Bupati,"Ir. H. Syarifuddin Hsb, M.Si"
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,2,Bupati,Ali Sutan Harahap
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,2,Wakil Bupati,"Drg. H.Ahmad Zarnawi Pasaribu,C.Ht.,Mm.,M.Si"
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,3,Bupati,Drs. H. Rahmad Pardamean Hasibuan
-2018,12,Sumatera Utara,1221,Kab. Padang Lawas,3,Wakil Bupati,Syahrul Efendi Hasibuan
-2018,12,Sumatera Utara,1220,Kab. Padang Lawas Utara,1,Bupati,"Andar Amin Harahap, S.Stp, M.Si"
-2018,12,Sumatera Utara,1220,Kab. Padang Lawas Utara,1,Wakil Bupati,"H. Hariro Harahap, Se, M.Si"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,1,Bupati,"Drs. Nikson Nababan, M.Si"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,1,Wakil Bupati,"Sarlandy Hutabarat, Sh"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,2,Bupati,"Dr. Jonius Tp. Hutabarat, S.Si, M.Si"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,2,Wakil Bupati,"Frengky P. Simanjuntak, Se, M.Si"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,3,Bupati,"Christmanto Lumbantobing, S.Sos"
-2018,12,Sumatera Utara,1205,Kab. Tapanuli Utara,3,Wakil Bupati,"Drs. Hotman P. Hutasoit, Bsc, Sh"
+Nomor,Tahun,Daerah,,Persentase Suara (%),No Pasangan,Jabatan,Nama,,Jumlah Suara,Persentase Suara (%),,wakil,,,,,
+1,2018,Provinsi Bali,Menang,57.62,1,Gubernur,"Dr. Ir. Wayan Koster, M.M.",Menang,1211517,57.62,Menang,FALSE,0,Menang,Menang,,
+1,2018,Provinsi Bali,,42.38,2,Gubernur,"Ida Bagus Rai Dharmawijaya Mantra, S.E., M.Si",,891062,42.38,,FALSE,1,,,#VALUE!,
+2,2018,Provinsi Jawa Barat,Menang,32.9,1,Gubernur,"H. Mochamad Ridwan Kamil, St., M.U.D",Menang,7236448,32.9,Menang,FALSE,0,Menang,Menang,,
+2,2018,Provinsi Jawa Barat,,12.67,2,Gubernur,"Mayjen Tni (Purn.) Dr. H. Hasanuddin, Se., Mm",,2786052,12.67,,FALSE,1,,,,
+2,2018,Provinsi Jawa Barat,,28.66,3,Gubernur,"Mayjen Tni (Purn) H. Sudrajat, M.Pa",,6303255,28.66,,FALSE,1,Menang,Menang,,TRUE
+2,2018,Provinsi Jawa Barat,,25.78,4,Gubernur,"H. Deddy Mizwar, Se., S.Sn., M.I.Pol",,5669513,25.78,,FALSE,1,,,,
+3,2018,Provinsi Jawa Tengah,Menang,59.52,1,Gubernur,"H. Ganjar Pranowo, S.H, M.Ip",Menang,9903485,59.52,Menang,FALSE,0,Menang,Menang,,
+3,2018,Provinsi Jawa Tengah,,40.48,2,Gubernur,H. Sudirman Said,,6734913,40.48,,FALSE,1,,,,
+4,2018,Provinsi Jawa Timur,Menang,53.56,1,Gubernur,Khofifah Indar Parawansa,Menang,10327690,53.56,Menang,FALSE,0,Menang,Menang,,
+4,2018,Provinsi Jawa Timur,,46.44,2,Gubernur,Drs. H. Saifullah Yusuf,,8955979,46.44,,FALSE,1,,,,
+5,2018,Provinsi Kalimantan Barat,,13.01,1,Gubernur,"Drs. Milton Crosby, M.Si.",,344006,13.01,,FALSE,0,,,,
+5,2018,Provinsi Kalimantan Barat,,39.25,2,Gubernur,Dr. Karolin Margret Natasa,,1037424,39.25,,FALSE,1,Menang,Menang,,
+5,2018,Provinsi Kalimantan Barat,Menang,47.74,3,Gubernur,"H. Sutarmidji, S.H., M.Hum.",Menang,1261758,47.74,Menang,FALSE,1,Menang,Menang,,
+6,2018,Provinsi Kalimantan Timur,,21.65,1,Gubernur,"Dr. H. Andi Sofyan Hasdam, Sp.S",,288665,21.65,,FALSE,0,,,,
+6,2018,Provinsi Kalimantan Timur,,22.71,2,Gubernur,"H. Syaharie Ja'Ang, Sh,M.Si",,302826,22.71,,FALSE,1,Menang,Menang,,
+6,2018,Provinsi Kalimantan Timur,Menang,31.29,3,Gubernur,"Dr. Ir. H. Isran Noor, M.Si",Menang,417139,31.29,Menang,FALSE,1,Menang,Menang,,
+6,2018,Provinsi Kalimantan Timur,,24.35,4,Gubernur,"Ir. H. Rusmadi, Ms, Ph.D",,324617,24.35,,FALSE,1,,,,
+7,2018,Provinsi Lampung,,22,1,Gubernur,"H. Muhammad Ridho Ficardo, M.Si",,934407,22,,FALSE,0,,,,
+7,2018,Provinsi Lampung,,24.32,2,Gubernur,"Drs. H. Herman Hasanusi, Mm",,1033159,24.32,,FALSE,1,Menang,Menang,,
+7,2018,Provinsi Lampung,Menang,36.77,3,Gubernur,Ir. H. Arinal Djunaidi,Menang,1562020,36.77,Menang,FALSE,1,Menang,Menang,,
+7,2018,Provinsi Lampung,,16.9,4,Gubernur,Dr. H. Mustafa,,717974,16.9,,FALSE,1,,,,
+8,2018,Provinsi Maluku,,31.76,1,Gubernur,Ir.Said Assagaff,,246583,31.76,,FALSE,0,,,,
+8,2018,Provinsi Maluku,Menang,39.49,2,Gubernur,Irjen Pol. (Purn) Drs. Murad Ismail,Menang,306636,39.49,Menang,FALSE,1,Menang,Menang,,
+8,2018,Provinsi Maluku,,28.75,3,Gubernur,"Herman Adrian Koedoeboen,Sh.M.Si",,223198,28.75,,FALSE,1,,,,
+9,2018,Provinsi Maluku Utara,Menang,31.91,1,Gubernur,Ahmad Hidayat Mus,Menang,176973,31.91,Menang,FALSE,0,Menang,Menang,,
+9,2018,Provinsi Maluku Utara,,25.87,2,Gubernur,"Dr. H. Burhan Abdurahman, Sh., Mm.",,143439,25.87,,FALSE,1,,,,
+9,2018,Provinsi Maluku Utara,,30.47,3,Gubernur,"Kh. Abdul Gani Kasuba, Lc.",,168946,30.47,,FALSE,1,Menang,Menang,,
+9,2018,Provinsi Maluku Utara,,11.75,4,Gubernur,"Dr. H. Muhammad Kasuba, M.A.",,65169,11.75,,FALSE,1,,,,
+10,2018,Provinsi Nusa Tenggara Barat,,26.44,1,Gubernur,"H. Moh. Suhaili Fadil Thohir, Sh",,674954,26.44,Menang,FALSE,0,Menang,Menang,,
+10,2018,Provinsi Nusa Tenggara Barat,,24.92,2,Gubernur,Tgh. Ahyar Abduh,,636027,24.92,,FALSE,1,,,,
+10,2018,Provinsi Nusa Tenggara Barat,Menang,31.79,3,Gubernur,"Dr. H. Zulkieflimansyah, Se, M.Sc",Menang,811489,31.79,Menang,FALSE,1,Menang,Menang,,
+10,2018,Provinsi Nusa Tenggara Barat,,16.85,4,Gubernur,H. Moch. Ali Bin Dachlan,,430136,16.85,,FALSE,1,,,,
+11,2018,Provinsi Nusa Tenggara Timur,,19.44,1,Gubernur,"Ir. Esthon Leyloh Foenay, M.Si",,447871,19.44,,FALSE,0,,,,
+11,2018,Provinsi Nusa Tenggara Timur,,25.34,2,Gubernur,"Marianus Sae, S.Ap",,583794,25.34,Menang,FALSE,1,Menang,Menang,,
+11,2018,Provinsi Nusa Tenggara Timur,,20.72,3,Gubernur,"Dr. Benediktus Kabur Harman, Sh",,477252,20.72,,FALSE,1,,,,
+11,2018,Provinsi Nusa Tenggara Timur,Menang,34.5,4,Gubernur,Viktor Bungtilu Laiskodat,Menang,794695,34.5,Menang,FALSE,1,Menang,Menang,,
+12,2018,Provinsi Papua,Menang,62.36,1,Gubernur,"Lukas Enembe.S.Ip, Mh",Menang,846105,62.36,Menang,FALSE,0,Menang,Menang,,
+12,2018,Provinsi Papua,,37.64,2,Gubernur,"Jhon Wempi Wetipo, Sh,. Mh",,51068,37.64,,FALSE,1,,,,
+13,2018,Provinsi Riau,,31.87,1,Gubernur,"Drs. H. Syamsuar, M.Si",,720695,31.87,Menang,FALSE,0,Menang,Menang,,
+13,2018,Provinsi Riau,,15.91,2,Gubernur,"Muhamad Lukman Edy, M.Si",,35979,15.91,,FALSE,1,,,,
+13,2018,Provinsi Riau,,19.27,3,Gubernur,"Dr. H. Firdaus, St.Mt",,435725,19.27,Menang,FALSE,1,Menang,Menang,,
+13,2018,Provinsi Riau,Menang,32.96,4,Gubernur,"Ir. H. Arsyadjuliandi Rahman, Mba",Menang,745389,32.96,Menang,FALSE,1,Menang,Menang,,
+14,2018,Provinsi Sulawesi Selatan,,27.36,1,Gubernur,H. A. M. Nurdin Halid,,1153814,27.36,Menang,FALSE,0,Menang,Menang,,
+14,2018,Provinsi Sulawesi Selatan,,10.03,2,Gubernur,"Ir. H. Agus Arifin Nu'Mang, Ms",,422889,10.03,,FALSE,1,,,,
+14,2018,Provinsi Sulawesi Selatan,Menang,43.27,3,Gubernur,"Prof. Dr. Ir. H. M. Nurdin Abdullah, M.Agr.",Menang,1824516,43.27,Menang,FALSE,1,Menang,Menang,,
+14,2018,Provinsi Sulawesi Selatan,,19.34,4,Gubernur,"H. Ichsan Yasin Limpo, Sh, Mh",,815316,19.34,,FALSE,1,,,,
+15,2018,Provinsi Sulawesi Tenggara,Menang,43.64,1,Gubernur,"H. Ali Mazi, Sh",Menang,495283,43.64,Menang,FALSE,0,Menang,Menang,,
+15,2018,Provinsi Sulawesi Tenggara,,24.75,2,Gubernur,"Dr.Ir.H. Asrun, M.Eng.,Sc",,280834,24.75,,FALSE,1,,,,
+15,2018,Provinsi Sulawesi Tenggara,,31.61,3,Gubernur,Rusda Mahmud,,358763,31.61,Menang,FALSE,1,Menang,Menang,,
+16,2018,Provinsi Sumatera Selatan,,29.57,1,Gubernur,"H. Herman Deru, Sh, Mm",,776988,29.57,Menang,FALSE,0,Menang,Menang,,
+16,2018,Provinsi Sumatera Selatan,,10.2,2,Gubernur,"H. Saifudin Aswari Riva'I, S.E",,268144,10.2,,FALSE,1,,,,
+16,2018,Provinsi Sumatera Selatan,,16.7,3,Gubernur,"Ir. H. Ishak Mekki, Mm",,438839,16.7,Menang,FALSE,1,Menang,Menang,,
+16,2018,Provinsi Sumatera Selatan,Menang,43.52,4,Gubernur,"H. Dodi Reza Alex Noerdin, Lic, Econ. Mba",Menang,1143617,43.52,Menang,FALSE,1,Menang,Menang,,
+17,2018,Provinsi Sumatera Utara,Menang,57.41,1,Gubernur,Edy Rahmayadi,Menang,3234017,57.41,Menang,FALSE,0,Menang,Menang,,
+17,2018,Provinsi Sumatera Utara,,42.59,2,Gubernur,Djarot Saiful Hidayat,,2399218,42.59,,FALSE,1,,,,
+18,2018,Kabupaten Aceh Selatan,,4.47,1,Bupati,"Tgk. Husin Yusuf, S.Pd.I",,5796,4.47,,FALSE,0,,,,
+18,2018,Kabupaten Aceh Selatan,Menang,35.66,2,Bupati,"H. Azwir, S. Sos",Menang,46291,35.66,Menang,FALSE,1,Menang,Menang,,
+18,2018,Kabupaten Aceh Selatan,,1.08,3,Bupati,"Drs. H. Zulkarnaini, M. Si",,1396,1.08,,FALSE,1,,,,
+18,2018,Kabupaten Aceh Selatan,,1.3,4,Bupati,"Darman, Sp, M.M.",,1693,1.3,Menang,FALSE,1,Menang,Menang,,
+18,2018,Kabupaten Aceh Selatan,,28.79,5,Bupati,"H. T. Sama Indra, Sh",,37372,28.79,Menang,FALSE,1,Menang,Menang,,
+18,2018,Kabupaten Aceh Selatan,,25.99,6,Bupati,"H. Mirwan Ms, Se",,33739,25.99,,FALSE,1,,,,
+18,2018,Kabupaten Aceh Selatan,,2.71,7,Bupati,"H. Karman, Se",,352,2.71,,FALSE,1,,,,
+19,2018,Kota Subulussalam,,0.3,1,Walikota,Drh. Jalaluddin,,139,0.3,,FALSE,0,,,,
+19,2018,Kota Subulussalam,,29.68,2,Walikota,"Hj. Sartina, Na, Se. M.Si",,13673,29.68,Menang,FALSE,1,Menang,Menang,,
+19,2018,Kota Subulussalam,,25.97,3,Walikota,"H. Asmauddin, Se",,11962,25.97,,FALSE,1,,,,
+19,2018,Kota Subulussalam,,2.64,4,Walikota,"H. Anasri, St. Mt",,1214,2.64,,FALSE,1,,,,
+19,2018,Kota Subulussalam,Menang,41.41,5,Walikota,"H. Affan Alfian, Se",Menang,19073,41.41,Menang,FALSE,1,Menang,Menang,,
+20,2018,Kabupaten Pidie Jaya,,29.62,1,Bupati,Ir. H. Yusri Yusuf,,23543,29.62,,FALSE,0,,,,
+20,2018,Kabupaten Pidie Jaya,Menang,51.51,2,Bupati,Aiyub Bin Abbas,Menang,40945,51.51,Menang,FALSE,1,Menang,Menang,,
+20,2018,Kabupaten Pidie Jaya,,11.31,3,Bupati,Muhibbuddin M.Husen,,8987,11.31,,FALSE,1,,,,
+20,2018,Kabupaten Pidie Jaya,,7.57,4,Bupati,Muhammad Yusuf,,6014,7.57,,FALSE,1,,,,
+21,2018,Kabupaten Gianyar,,32.96,1,Bupati,"Tjokorda Raka Kerthyasa, S.Sos., M.Si.",,94666,32.96,,FALSE,0,,,,
+21,2018,Kabupaten Gianyar,Menang,67.04,2,Bupati,"I Made Mahayastra, Sst.Par., Map.",Menang,192533,67.04,Menang,FALSE,1,Menang,Menang,,
+22,2018,Kabupaten Klungkung,,23.94,1,Bupati,Tjokorda Bagus Oka,,29173,23.94,,FALSE,0,,,,
+22,2018,Kabupaten Klungkung,Menang,76.06,2,Bupati,I Nyoman Suwirta,Menang,92699,76.06,Menang,FALSE,1,Menang,Menang,,
+23,2018,Kota Serang,,30.08,1,Walikota,Vera Nurlaela,,24341,30.08,Menang,FALSE,0,Menang,Menang,,
+23,2018,Kota Serang,,26.87,2,Walikota,"Samsul Hidayat, S.Pd.I",,21743,26.87,,FALSE,1,,,,
+23,2018,Kota Serang,Menang,43.04,3,Walikota,"H. Syafrudin, S.Sos, M.Si",Menang,34828,43.04,Menang,FALSE,1,Menang,Menang,,
+24,2018,Kota Tangerang,Menang,85.58,1,Walikota,H. Arief R Wismansyah,Menang,604108,85.58,Menang,FALSE,0,Menang,Menang,,
+25,2018,Kabupaten Lebak,,76.99,1,Bupati,"Hj. Iti Octavia Jayabaya, Se., Mm",,453299,76.99,,FALSE,0,,,,
+26,2018,Kabupaten Tangerang,Menang,83.73,1,Bupati,"Ahmed Zaki Iskandar Z, B.Bus,Se,M.Si",Menang,941111,83.73,Menang,FALSE,0,Menang,Menang,,
+27,2018,Kota Bengkulu,,22.3,1,Walikota,David Suardi,,29688,22.3,Menang,FALSE,0,Menang,Menang,,
+27,2018,Kota Bengkulu,,17.05,2,Walikota,"Hj. Erna Sari Dewi, S.E",,22699,17.05,,FALSE,1,,,,
+27,2018,Kota Bengkulu,Menang,33.24,3,Walikota,"H. Helmi, S.E.",Menang,44254,33.24,Menang,FALSE,1,Menang,Menang,,
+27,2018,Kota Bengkulu,,27.42,4,Walikota,Ir. Patriana Sosialinda,,36506,27.42,,FALSE,1,,,,
+28,2018,Kabupaten Gorontalo Utara,Menang,43.54,1,Bupati,"Dr. H. Indra Yasin, Sh., Mh",Menang,31391,43.54,Menang,FALSE,0,Menang,Menang,,
+28,2018,Kabupaten Gorontalo Utara,,24.27,2,Bupati,"H. Idrus M.T. Mopili, Se., Mm",,17502,24.27,,FALSE,1,,,,
+28,2018,Kabupaten Gorontalo Utara,,32.19,3,Bupati,Drs. H. Roni Imran,,23208,32.19,Menang,FALSE,1,Menang,Menang,,
+29,2018,Kota Gorontalo,,36.05,1,Walikota,"H. Adhan Dambea, Sh, S.Sos, Ma",,37032,36.05,,FALSE,0,,,,
+29,2018,Kota Gorontalo,Menang,41.28,2,Walikota,"H. Marten A. Taha, Se., M.Ec Dev",Menang,42399,41.28,Menang,FALSE,1,Menang,Menang,,
+29,2018,Kota Gorontalo,,22.67,3,Walikota,Drs. H. Rum Pagau,,23282,22.67,,FALSE,1,,,,
+30,2018,Kabupaten Kerinci,,28.84,1,Bupati,"Monadi, S.Sos, M.Si",,42686,28.84,,FALSE,0,,,,
+30,2018,Kabupaten Kerinci,Menang,37.39,2,Bupati,"Dr. H. Adirozal, M.Si",Menang,55341,37.39,Menang,FALSE,1,Menang,Menang,,
+30,2018,Kabupaten Kerinci,,33.77,3,Bupati,"Zainal Abidin, Sh, Mh",,49989,33.77,,FALSE,1,,,,
+31,2018,Kota Jambi,,44.27,1,Walikota,"Drs. H. Abdullah Sani, M.Pd.I",,116554,44.27,,FALSE,0,,,,
+31,2018,Kota Jambi,Menang,55.73,2,Walikota,"Dr. H. Syarif Fasha, Me",Menang,146704,55.73,Menang,FALSE,1,Menang,Menang,,
+32,2018,Kabupaten Merangin,,19.88,1,Bupati,"Ir. H. Ahmad Fauzi, Mt",,37333,19.88,,FALSE,0,,,,
+32,2018,Kabupaten Merangin,Menang,44.77,2,Bupati,"Dr. H. Al Haris, S.Sos., Mh.",Menang,84068,44.77,Menang,FALSE,1,Menang,Menang,,
+32,2018,Kabupaten Merangin,,35.35,3,Bupati,"Dr. Drs. H. Nalim.Sh.,Mm.",,66392,35.35,,FALSE,1,,,,
+33,2018,Kabupaten Bandung Barat,,22.62,1,Bupati,"Dra. Hj. Elin Suharliah, M.Si",,195763,22.62,,FALSE,0,,,,
+33,2018,Kabupaten Bandung Barat,,28.93,2,Bupati,Ir. H. Doddy Imron Cholid,,250355,28.93,Menang,FALSE,1,Menang,Menang,,
+33,2018,Kabupaten Bandung Barat,Menang,48.45,3,Bupati,"Aa Umbara Sutisna, S.Ip",Menang,419225,48.45,Menang,FALSE,1,Menang,Menang,,
+34,2018,Kabupaten Bogor,,8.26,1,Bupati,"H. Fitri Putra Nugraha, Sos",,18355,8.26,,FALSE,0,,,,
+34,2018,Kabupaten Bogor,Menang,40.63,2,Bupati,Ade Yasin,Menang,903231,40.63,Menang,FALSE,1,Menang,Menang,,
+34,2018,Kabupaten Bogor,,38.73,3,Bupati,"H. Ade Ruhandi - Jaro Ade, Se",,860958,38.73,,FALSE,1,,,,
+34,2018,Kabupaten Bogor,,4.58,4,Bupati,Ir. H. Gunawan Hasan,,101711,4.58,,FALSE,1,,,,
+34,2018,Kabupaten Bogor,,7.8,5,Bupati,"Ade Wardhana Adinata, Se.,Mm",,173378,7.8,Menang,FALSE,1,Menang,Menang,,
+35,2018,Kabupaten Ciamis,Menang,59.59,1,Bupati,H. Herdiat Sunarya,Menang,41456,59.59,Menang,FALSE,0,Menang,Menang,,
+35,2018,Kabupaten Ciamis,,40.41,2,Bupati,H. Iing Syam Arifin,,281177,40.41,,FALSE,1,,,,
+36,2018,Kabupaten Cirebon,,27.28,1,Bupati,"Drs. H. Kalinga, Mm",,272429,27.28,,FALSE,0,,,,
+36,2018,Kabupaten Cirebon,Menang,30.94,2,Bupati,"Dr. H. Sunjaya Purwadisastra, M.M., M.Si.",Menang,309048,30.94,Menang,FALSE,1,Menang,Menang,,
+36,2018,Kabupaten Cirebon,,15.37,3,Bupati,H. Rakhmat,,153524,15.37,,FALSE,1,,,,
+36,2018,Kabupaten Cirebon,,26.41,4,Bupati,"H. Mohamad Luthfi, St",,263788,26.41,Menang,FALSE,1,Menang,Menang,,
+37,2018,Kabupaten Garut,Menang,35.83,1,Bupati,"H. Rudy Gunawan, Sh., Mh., Mp",Menang,427463,35.83,Menang,FALSE,0,Menang,Menang,,
+37,2018,Kabupaten Garut,,32.81,2,Bupati,Iman Alirahman,,391393,32.81,,FALSE,1,,,,
+37,2018,Kabupaten Garut,,11.18,3,Bupati,"Suryana, S.Ag",,133317,11.18,,FALSE,1,,,,
+37,2018,Kabupaten Garut,,20.18,4,Bupati,"H. Agus Hamdani Gs, S.Pd.I",,240702,20.18,Menang,FALSE,1,Menang,Menang,,
+38,2018,Kota Bandung,,23.9,1,Walikota,Nurul Qomaril Arifin,,302291,23.9,,FALSE,0,,,,
+38,2018,Kota Bandung,,26.08,2,Walikota,"Dr. H. Yossi Irianto, M.Si",,329878,26.08,Menang,FALSE,1,Menang,Menang,,
+38,2018,Kota Bandung,Menang,50.02,3,Walikota,Oded Mohamad Danial,Menang,632723,50.02,Menang,FALSE,1,Menang,Menang,,
+39,2018,Kota Banjar,Menang,52.36,1,Walikota,"Hj. Ade Uu Sukaesih, S.Ip, M.Si",Menang,5802,52.36,Menang,FALSE,0,Menang,Menang,,
+39,2018,Kota Banjar,,47.64,2,Walikota,Maman Suryaman,,52784,47.64,,FALSE,1,,,,
+40,2018,Kota Bekasi,Menang,67.5,1,Walikota,Dr. Rahmat Effendi,Menang,694446,67.5,Menang,FALSE,0,Menang,Menang,,
+40,2018,Kota Bekasi,,32.5,2,Walikota,"Dr. Nur Supriyanto, Mm",,334389,32.5,,FALSE,1,,,,
+41,2018,Kota Bogor,,31.03,1,Walikota,"Drh. H. Achmad Ru'Yat, M.Si",,146929,31.03,Menang,FALSE,0,Menang,Menang,,
+41,2018,Kota Bogor,,12.56,2,Walikota,"H. Edgar Suratman, Se., Mm",,59456,12.56,,FALSE,1,,,,
+41,2018,Kota Bogor,Menang,43.44,3,Walikota,Dr. H. Bima Arya Sugiarto,Menang,205686,43.44,Menang,FALSE,1,Menang,Menang,,
+41,2018,Kota Bogor,,12.98,4,Walikota,"H. Dadang Iskandar Danubrata, S.E",,61444,12.98,,FALSE,1,,,,
+42,2018,Kota Cirebon,,49.42,1,Walikota,"Bamunas Setiawan Boediman, Mba",,78587,49.42,,FALSE,0,,,,
+42,2018,Kota Cirebon,Menang,50.58,2,Walikota,"Drs. Nashrudin Azis, Sh",Menang,80422,50.58,Menang,FALSE,1,Menang,Menang,,
+43,2018,Kota Sukabumi,,23.26,1,Walikota,"Jona Arizona, S.Ip., Mm.",,38217,23.26,,FALSE,0,,,,
+43,2018,Kota Sukabumi,Menang,51.14,2,Walikota,H. Achmad Fahmi,Menang,84032,51.14,Menang,FALSE,1,Menang,Menang,,
+43,2018,Kota Sukabumi,,17.78,3,Walikota,"Dr. H. Mulyono, Mm.",,2922,17.78,,FALSE,1,,,,
+43,2018,Kota Sukabumi,,7.82,4,Walikota,"Dedi Rantjani Widjaja, Se., Mm.",,12856,7.82,,FALSE,1,,,,
+44,2018,Kabupaten Kuningan,,32.58,1,Bupati,Dr. Toto Taufikurohman Kosim,,196002,32.58,Menang,FALSE,0,Menang,Menang,,
+44,2018,Kabupaten Kuningan,,27.69,2,Bupati,"H. Dudy Pamuji, S.E, M.Si",,166545,27.69,,FALSE,1,,,,
+44,2018,Kabupaten Kuningan,Menang,39.73,3,Bupati,"H. Acep Purnama, S.H., M.H.",Menang,23902,39.73,Menang,FALSE,1,Menang,Menang,,
+45,2018,Kabupaten Majalengka,,19.87,1,Bupati,Maman Imanul Haq,,133433,19.87,,FALSE,0,,,,
+45,2018,Kabupaten Majalengka,Menang,46.1,2,Bupati,"Dr. H. Karna Sobahi, M.M.Pd.",Menang,309633,46.1,Menang,FALSE,1,Menang,Menang,,
+45,2018,Kabupaten Majalengka,,34.03,3,Bupati,"Dr. H. Sanwasi, Mm.",,228535,34.03,,FALSE,1,,,,
+46,2018,Kabupaten Purwakarta,,17.71,1,Bupati,"Drs. H. Padil Karsoma, M.Si",,87961,17.71,,FALSE,0,,,,
+46,2018,Kabupaten Purwakarta,Menang,43.79,2,Bupati,Hj. Anne Ratna Mustika,Menang,217488,43.79,Menang,FALSE,1,Menang,Menang,,
+46,2018,Kabupaten Purwakarta,,38.5,3,Bupati,"H. Zainal Arifin, Mt. Ir",,191252,38.5,,FALSE,1,,,,
+47,2018,Kabupaten Subang,Menang,39.95,1,Bupati,H. Ruhimat,Menang,307157,39.95,Menang,FALSE,0,Menang,Menang,,
+47,2018,Kabupaten Subang,,29.76,2,Bupati,"Hj. Imas Aryumningsih, Se",,228751,29.76,,FALSE,1,,,,
+47,2018,Kabupaten Subang,,30.29,3,Bupati,"Drs. Dedi Junaedi, Sh",,232858,30.29,Menang,FALSE,1,Menang,Menang,,
+48,2018,Kabupaten Sumedang,Menang,42.83,1,Bupati,"H. Dony Ahmad Munir, S.T., M.M.",Menang,275323,42.83,Menang,FALSE,0,Menang,Menang,,
+48,2018,Kabupaten Sumedang,,10.73,2,Bupati,"H. Setya Widodo, S.H.",,68949,10.73,,FALSE,1,,,,
+48,2018,Kabupaten Sumedang,,18.69,3,Bupati,"Drs. H. Zaenal Alimin, M.M.",,120163,18.69,Menang,FALSE,1,Menang,Menang,,
+48,2018,Kabupaten Sumedang,,15.97,4,Bupati,Irwansyah Putra,,10267,15.97,,FALSE,1,,,,
+48,2018,Kabupaten Sumedang,,11.77,5,Bupati,"Ir. H. Eka Setiawan, Dipl., S.E., M.M.",,75667,11.77,,FALSE,1,,,,
+49,2018,Kabupaten Banyumas,,44.32,1,Bupati,"Drs. H. Mardjoko, Mm",,409408,44.32,,FALSE,0,,,,
+49,2018,Kabupaten Banyumas,Menang,55.68,2,Bupati,Ir. H. Achmad Husein,Menang,514412,55.68,Menang,FALSE,1,Menang,Menang,,
+50,2018,Kabupaten Karanganyar,,43.8,1,Bupati,"H. Rohadi Widodo, Sp.",,231356,43.8,,FALSE,0,,,,
+50,2018,Kabupaten Karanganyar,Menang,56.2,2,Bupati,"Drs. H. Juliyatmono, Mm.",Menang,296873,56.2,Menang,FALSE,1,Menang,Menang,,
+51,2018,Kota Tegal,,15.48,1,Walikota,H.M. Nursholeh,,21029,15.48,Menang,FALSE,0,Menang,Menang,,
+51,2018,Kota Tegal,,12.65,2,Walikota,H. A. Ghautsun,,17189,12.65,,FALSE,1,,,,
+51,2018,Kota Tegal,Menang,28.01,3,Walikota,"H. Dedy Yon Supriyono, S.E., M.M.",Menang,38041,28.01,Menang,FALSE,1,Menang,Menang,,
+51,2018,Kota Tegal,,27.81,4,Walikota,"K. H. Habib Ali Zaenal Abidin, S.E., M.H.",,3777,27.81,,FALSE,1,,,,
+51,2018,Kota Tegal,,16.05,5,Walikota,"Herujito, S.I.P.",,21802,16.05,,FALSE,1,,,,
+52,2018,Kabupaten Kudus,,38.52,1,Bupati,"Masan, Se, Mm",,194205,38.52,Menang,FALSE,0,Menang,Menang,,
+52,2018,Kabupaten Kudus,,1.47,2,Bupati,"H. Nor Hartoyo, Sh",,7389,1.47,,FALSE,1,,,,
+52,2018,Kabupaten Kudus,,15.25,3,Bupati,"Hj. Sri Hartini, St",,76904,15.25,Menang,FALSE,1,Menang,Menang,,
+52,2018,Kabupaten Kudus,,2.24,4,Bupati,"H. Akhwan, Sh",,11315,2.24,,FALSE,1,,,,
+52,2018,Kabupaten Kudus,Menang,42.51,5,Bupati,"Ir. H. Muhammad Tamzil, Mt",Menang,214313,42.51,Menang,FALSE,1,Menang,Menang,,
+53,2018,Kabupaten Magelang,Menang,55.6,1,Bupati,"Zaenal Arifin, S.Ip",Menang,392996,55.6,Menang,FALSE,0,Menang,Menang,,
+53,2018,Kabupaten Magelang,,44.4,2,Bupati,"H.M. Zaenal Arifin, Sh",,313817,44.4,,FALSE,1,,,,
+54,2018,Kabupaten Tegal,,8.78,1,Bupati,H. Rusbandi,,6415,8.78,,FALSE,0,,,,
+54,2018,Kabupaten Tegal,,20.26,2,Bupati,"Drs. H. Haron Bagas Prakosa, M.Hum",,148037,20.26,Menang,FALSE,1,Menang,Menang,,
+54,2018,Kabupaten Tegal,Menang,70.95,3,Bupati,Dra. Hj. Umi Azizah,Menang,518327,70.95,Menang,FALSE,1,Menang,Menang,,
+55,2018,Kabupaten Temanggung,,32.97,1,Bupati,Drs. H M Bambang Sukarno,,156964,32.97,Menang,FALSE,0,Menang,Menang,,
+55,2018,Kabupaten Temanggung,,12.79,2,Bupati,Haryo Dewandono,,60894,12.79,,FALSE,1,,,,
+55,2018,Kabupaten Temanggung,Menang,54.24,3,Bupati,H.M. Al Khadziq,Menang,258243,54.24,Menang,FALSE,1,Menang,Menang,,
+56,2018,Kabupaten Bangkalan,,33.85,1,Bupati,"Dr. H. Moch. Farid Al Fauzi, St, Mm",,184358,33.85,Menang,FALSE,0,Menang,Menang,,
+56,2018,Kabupaten Bangkalan,,21.37,2,Bupati,"H. Imam Buchori, Sh",,1164,21.37,,FALSE,1,,,,
+56,2018,Kabupaten Bangkalan,Menang,44.78,3,Bupati,R. Abdul Latif Amin Imron,Menang,243939,44.78,Menang,FALSE,1,Menang,Menang,,
+57,2018,Kabupaten Bojonegoro,,25.49,1,Bupati,"Drs. H. Soehadi Moeljono, Mm.",,187487,25.49,Menang,FALSE,0,Menang,Menang,,
+57,2018,Kabupaten Bojonegoro,,19.44,2,Bupati,"Dra. Mahfudhoh, M.Si.",,142948,19.44,,FALSE,1,,,,
+57,2018,Kabupaten Bojonegoro,Menang,30.56,3,Bupati,Dr. Hj. Anna Mu'Awanah,Menang,224756,30.56,Menang,FALSE,1,Menang,Menang,,
+57,2018,Kabupaten Bojonegoro,,24.51,4,Bupati,"Drs. H. Basuki, M.Pd., M.Pd.I.",,180287,24.51,,FALSE,1,,,,
+58,2018,Kabupaten Bondowoso,Menang,52.04,1,Bupati,Drs. Kh. Salwa Arifin,Menang,227521,52.04,Menang,FALSE,0,Menang,Menang,,
+58,2018,Kabupaten Bondowoso,,47.96,2,Bupati,H. Ahmad Dhafir,,20965,47.96,,FALSE,1,,,,
+59,2018,Kabupaten Jombang,Menang,48.29,1,Bupati,Hj. Mundjidah Wahab,Menang,308609,48.29,Menang,FALSE,0,Menang,Menang,,
+59,2018,Kabupaten Jombang,,34.35,2,Bupati,Drs. Ec. H. Nyono Suharli Wihandoko,,219517,34.35,,FALSE,1,,,,
+59,2018,Kabupaten Jombang,,17.36,3,Bupati,"Dr.Syafiin, Sh, Mm, Mh",,11093,17.36,,FALSE,1,,,,
+60,2018,Kota Kediri,,20.15,1,Walikota,Aizzudin,,29848,20.15,,FALSE,0,,,,
+60,2018,Kota Kediri,Menang,57.74,2,Walikota,Abdullah Abu Bakar,Menang,85514,57.74,Menang,FALSE,1,Menang,Menang,,
+60,2018,Kota Kediri,,22.11,3,Walikota,"Dr. Samsul Ashar, Sp.Pd",,32752,22.11,,FALSE,1,,,,
+61,2018,Kota Madiun,Menang,38.53,1,Walikota,"Drs. H. Maidi, Sh, Mm, M.Pd",Menang,39465,38.53,Menang,FALSE,0,Menang,Menang,,
+61,2018,Kota Madiun,,34.52,2,Walikota,Dr. Harryadin Mahardika,,35353,34.52,,FALSE,1,,,,
+61,2018,Kota Madiun,,26.95,3,Walikota,"Yusuf Rohana, St",,27608,26.95,,FALSE,1,,,,
+62,2018,Kota Malang,,18.89,1,Walikota,"Ya'Qud Ananda Gudban, Ss, Mm.",,70006,18.89,,FALSE,0,,,,
+62,2018,Kota Malang,,36.6,2,Walikota,H. Anton,,135652,36.6,Menang,FALSE,1,Menang,Menang,,
+62,2018,Kota Malang,Menang,44.51,3,Walikota,Sutiaji,Menang,164995,44.51,Menang,FALSE,1,Menang,Menang,,
+63,2018,Kota Mojokerto,,27.63,1,Walikota,"Dr. H. Akmal Boedianto, Sh, M.Si",,19853,27.63,Menang,FALSE,0,Menang,Menang,,
+63,2018,Kota Mojokerto,,26.97,2,Walikota,Andy Soebjakto Molanggato,,19378,26.97,,FALSE,1,,,,
+63,2018,Kota Mojokerto,,12.55,3,Walikota,Warsito,,9013,12.55,,FALSE,1,,,,
+63,2018,Kota Mojokerto,Menang,32.85,4,Walikota,"Hj. Ika Puspitasari, Se",Menang,236,32.85,Menang,FALSE,1,Menang,Menang,,
+64,2018,Kota Probolinggo,,2.66,1,Walikota,Suwito,,3342,2.66,,FALSE,0,,,,
+64,2018,Kota Probolinggo,,37.28,2,Walikota,"H. Fernanda Zulkarnain, Bsee.Mscs.",,46777,37.28,Menang,FALSE,1,Menang,Menang,,
+64,2018,Kota Probolinggo,,11.97,3,Walikota,Syamsu Alam,,15022,11.97,,FALSE,1,,,,
+64,2018,Kota Probolinggo,Menang,48.09,4,Walikota,"Habib Hadi Zainal Abidin, S.Pd., Mm., M.Hp.",Menang,6035,48.09,Menang,FALSE,1,Menang,Menang,,
+65,2018,Kabupaten Lumajang,Menang,42.53,1,Bupati,"H. Thoriqul Haq, Mml",Menang,246954,42.53,Menang,FALSE,0,Menang,Menang,,
+65,2018,Kabupaten Lumajang,,34.67,2,Bupati,"Drs. H. As�T, M.Ag",,201305,34.67,,FALSE,1,,,,
+65,2018,Kabupaten Lumajang,,22.81,3,Bupati,"H. Rofik, Sh., Mh",,132431,22.81,,FALSE,1,,,,
+66,2018,Kabupaten Madiun,Menang,40.17,1,Bupati,"H.Ahmad Dawami Ragil Saputro,S.Sos",Menang,162012,40.17,Menang,FALSE,0,Menang,Menang,,
+66,2018,Kabupaten Madiun,,22.48,2,Bupati,"Rio Wing Dinaryhadi,St",,9067,22.48,,FALSE,1,,,,
+66,2018,Kabupaten Madiun,Menang,37.35,3,Bupati,Drs.Djoko Setijono,Menang,150668,37.35,Menang,FALSE,1,Menang,Menang,,
+67,2018,Kabupaten Magetan,,30.09,1,Bupati,Suyatni Priasmoro,,115395,30.09,Menang,FALSE,0,Menang,Menang,,
+67,2018,Kabupaten Magetan,,26.9,2,Bupati,"Ir. H. Sh. Miratul Mukminin, Mm",,103176,26.9,,FALSE,1,,,,
+67,2018,Kabupaten Magetan,Menang,43.01,3,Bupati,"Dr. Drs. Suprawoto, Sh, M.Si",Menang,164932,43.01,Menang,FALSE,1,Menang,Menang,,
+68,2018,Kabupaten Nganjuk,Menang,54.71,1,Bupati,"H. Novi Rahman Hidhayat, S.Sos., Mm.",Menang,303175,54.71,Menang,FALSE,0,Menang,Menang,,
+68,2018,Kabupaten Nganjuk,,35.07,2,Bupati,"Ir. Siti Nurhayati, Mm.",,194338,35.07,,FALSE,1,,,,
+68,2018,Kabupaten Nganjuk,,10.21,3,Bupati,"Desy Natalia Widya, Sip",,56593,10.21,,FALSE,1,,,,
+69,2018,Kabupaten Pamekasan,Menang,53.34,1,Bupati,"H. Badrut Tamam, S.Psi",Menang,259444,53.34,Menang,FALSE,0,Menang,Menang,,
+69,2018,Kabupaten Pamekasan,,46.66,2,Bupati,"Dr. Kh. Kholilurrahman, Sh.,M.Si",,226935,46.66,,FALSE,1,,,,
+70,2018,Kabupaten Pasuruan,Menang,77.44,1,Bupati,Mohammad Irsyad Yusuf,Menang,535453,77.44,Menang,FALSE,0,Menang,Menang,,
+71,2018,Kabupaten Probolinggo,Menang,57.66,1,Bupati,Hj. Puput Tantriana Sari,Menang,345797,57.66,Menang,FALSE,0,Menang,Menang,,
+71,2018,Kabupaten Probolinggo,,42.34,2,Bupati,"H. Abdul Malik Haramain, M.Si",,253918,42.34,,FALSE,1,,,,
+72,2018,Kabupaten Sampang,Menang,38.22,1,Bupati,H. Slamet Junaidi,Menang,252078,38.22,Menang,FALSE,0,Menang,Menang,,
+72,2018,Kabupaten Sampang,,37.05,2,Bupati,"Drh.H. Hermanto Subaidi, M.Si",,244348,37.05,,FALSE,1,,,,
+72,2018,Kabupaten Sampang,,24.73,3,Bupati,H. Hisan. Se,,16311,24.73,,FALSE,1,,,,
+73,2018,Kabupaten Tulungagung,,40.06,1,Bupati,Margiono,,237614,40.06,,FALSE,0,,,,
+73,2018,Kabupaten Tulungagung,Menang,59.94,2,Bupati,"Syahri Mulyo. Se., M.Si",Menang,355564,59.94,Menang,FALSE,1,Menang,Menang,,
+74,2018,Kabupaten Kayong Utara,,34.84,1,Bupati,"Masdar, S.Pd. Sd, M.Si",,19381,34.84,,FALSE,0,,,,
+74,2018,Kabupaten Kayong Utara,Menang,44.91,2,Bupati,Drs. Citra Duani,Menang,24978,44.91,Menang,FALSE,1,Menang,Menang,,
+74,2018,Kabupaten Kayong Utara,,20.25,3,Bupati,"Abdul Halim Hasin, S.Ip,M.Si.",,11264,20.25,,FALSE,1,,,,
+75,2018,Kota Pontianak,,17.16,1,Walikota,Harry Adryanto,,53987,17.16,,FALSE,0,,,,
+75,2018,Kota Pontianak,Menang,63.9,2,Walikota,"Ir. H. Edi Rusdi Kamtono, Mm, Mt",Menang,201076,63.9,Menang,FALSE,1,Menang,Menang,,
+75,2018,Kota Pontianak,,18.94,3,Walikota,"Satarudin, Sh",,59615,18.94,,FALSE,1,,,,
+76,2018,Kabupaten Kubu Raya,Menang,69.9,1,Bupati,"H. Muda Mahendrawan, Sh",Menang,19445,69.9,Menang,FALSE,0,Menang,Menang,,
+76,2018,Kabupaten Kubu Raya,,14.06,2,Bupati,"Ir. H. Werry Syahrial, M.H",,39111,14.06,,FALSE,1,,,,
+76,2018,Kabupaten Kubu Raya,,16.04,3,Bupati,"H. Hamzah Tawil, S.Ag. M.Si",,44624,16.04,Menang,FALSE,1,Menang,Menang,,
+77,2018,Kabupaten Mempawah,,12.96,1,Bupati,"Drs.H.Syech Bandar,M.Si",,16991,12.96,,FALSE,0,,,,
+77,2018,Kabupaten Mempawah,,22.59,2,Bupati,"Dr.H.Rahmad Satria,Sh.,Mh.",,29621,22.59,Menang,FALSE,1,Menang,Menang,,
+77,2018,Kabupaten Mempawah,Menang,41.5,3,Bupati,"Hj.Erlina, Sh.,Mh.",Menang,54424,41.5,Menang,FALSE,1,Menang,Menang,,
+77,2018,Kabupaten Mempawah,,22.96,4,Bupati,"Ir. H. Rudhy Bachtiar, M.Si",,30114,22.96,,FALSE,1,,,,
+78,2018,Kabupaten Sanggau,,42.91,1,Bupati,"Yansen Akun Effendy, Sh.M.Si,Mh",,100004,42.91,,FALSE,0,,,,
+78,2018,Kabupaten Sanggau,Menang,57.09,2,Bupati,"Paolus Hadi, S.Ip, M.Si",Menang,133032,57.09,Menang,FALSE,1,Menang,Menang,,
+79,2018,Kabupaten Hulu Sungai Selatan,,34.54,1,Bupati,H. Muhammad Najamuddin,,41349,34.54,,FALSE,0,,,,
+79,2018,Kabupaten Hulu Sungai Selatan,Menang,65.46,2,Bupati,"Drs. H. Achmad Fikry, M.Ap",Menang,78371,65.46,Menang,FALSE,1,Menang,Menang,,
+80,2018,Kabupaten Tabalong,,32.93,1,Bupati,H.Norhasani,,40765,32.93,Menang,FALSE,0,Menang,Menang,,
+80,2018,Kabupaten Tabalong,,6.55,2,Bupati,"H.Winarto, S.Pd, M.Si",,8103,6.55,,FALSE,1,,,,
+80,2018,Kabupaten Tabalong,Menang,35.95,3,Bupati,"Drs. H. Anang Syakhfiani, M.Si",Menang,44496,35.95,Menang,FALSE,1,Menang,Menang,,
+80,2018,Kabupaten Tabalong,,24.57,4,Bupati,"Hj. Noor Farida, Se",,30418,24.57,,FALSE,1,,,,
+81,2018,Kabupaten Tanah Laut,Menang,62.3,1,Bupati,Drs. H. Sukamta,Menang,107798,62.3,Menang,FALSE,0,Menang,Menang,,
+81,2018,Kabupaten Tanah Laut,,37.7,2,Bupati,"H. Bambang Alamsyah, S.T",,6522,37.7,,FALSE,1,,,,
+82,2018,Kabupaten Tapin,Menang,80.87,1,Bupati,"Drs. H. Muhammad Arifin Arpan, Mm",Menang,8583,80.87,Menang,FALSE,0,Menang,Menang,,
+83,2018,Kabupaten Barito Timur,,21.89,1,Bupati,"Pancani Gandrung, Sh., Msi",,12497,21.89,,FALSE,0,,,,
+83,2018,Kabupaten Barito Timur,,35.11,2,Bupati,"H. Supriatna, S.Pd, Mm",,20049,35.11,Menang,FALSE,1,Menang,Menang,,
+83,2018,Kabupaten Barito Timur,Menang,43,3,Bupati,"Ampera A. Y Mebas, Se, Mm",Menang,24555,43,Menang,FALSE,1,Menang,Menang,,
+84,2018,Kabupaten Barito Utara,Menang,69.02,1,Bupati,H.Nadalsyah,Menang,39281,69.02,Menang,FALSE,0,Menang,Menang,,
+84,2018,Kabupaten Barito Utara,,30.98,2,Bupati,"Taufik Nugraha, S.Kom",,17631,30.98,,FALSE,1,,,,
+85,2018,Kabupaten Gunung Mas,,22.97,1,Bupati,"Rony Karlos, S.Sos",,1279,22.97,,FALSE,0,,,,
+85,2018,Kabupaten Gunung Mas,,36.61,2,Bupati,Ir. Lohing Simon,,20387,36.61,Menang,FALSE,1,Menang,Menang,,
+85,2018,Kabupaten Gunung Mas,Menang,40.42,3,Bupati,"Jaya Samaya Monong, Se, M.Si",Menang,22509,40.42,Menang,FALSE,1,Menang,Menang,,
+86,2018,Kabupaten Kapuas,Menang,56.4,1,Bupati,"Ir. Ben Brahim.S. Bahat,Mm.Mt",Menang,93062,56.4,Menang,FALSE,0,Menang,Menang,,
+86,2018,Kabupaten Kapuas,,43.6,2,Bupati,"Ir. H. Muhammad Mawardi, M.M.,M.Si,.",,71937,43.6,,FALSE,1,,,,
+87,2018,Kabupaten Katingan,,27.79,1,Bupati,"Sakariyas, Se",,1951,27.79,Menang,FALSE,0,Menang,Menang,,
+87,2018,Kabupaten Katingan,,20.81,2,Bupati,"H. Fahmi Fauzi, S.Hut",,14608,20.81,,FALSE,1,,,,
+87,2018,Kabupaten Katingan,,23.34,3,Bupati,"H.Surya, Sh,M.Hum",,16389,23.34,Menang,FALSE,1,Menang,Menang,,
+87,2018,Kabupaten Katingan,,13.01,4,Bupati,"H. Ade Supriadi, Sp, Mh",,9134,13.01,,FALSE,1,,,,
+87,2018,Kabupaten Katingan,,15.06,5,Bupati,"H. Wiwin Susanto, S.Pd",,10572,15.06,Menang,FALSE,1,Menang,Menang,,
+88,2018,Kota Palangkaraya,,8.65,1,Walikota,Tuty Dau,,9822,8.65,,FALSE,0,,,,
+88,2018,Kota Palangkaraya,,13.88,2,Walikota,"H. Rusliansyah, Se.,M.Ap",,15757,13.88,Menang,FALSE,1,Menang,Menang,,
+88,2018,Kota Palangkaraya,Menang,43.59,3,Walikota,"Fairid Naparin, Se",Menang,49482,43.59,Menang,FALSE,1,Menang,Menang,,
+88,2018,Kota Palangkaraya,,33.87,4,Walikota,"Aries Marcorius Narang, Se., M.Si",,38452,33.87,,FALSE,1,,,,
+89,2018,Kabupaten Lamandau,Menang,6.37,1,Bupati,"Taji Pranito, S.Pd",Menang,2544,6.37,Menang,FALSE,0,Menang,Menang,,
+89,2018,Kabupaten Lamandau,,4.69,2,Bupati,Sata Umani,,1872,4.69,,FALSE,1,,,,
+89,2018,Kabupaten Lamandau,,28.35,3,Bupati,"Fx. Perwiragato, S.Ip",,11317,28.35,Menang,FALSE,1,Menang,Menang,,
+89,2018,Kabupaten Lamandau,Menang,60.59,4,Bupati,H. Hendra Lesmana,Menang,24189,60.59,Menang,FALSE,1,Menang,Menang,,
+90,2018,Kabupaten Murung Raya,,41.15,1,Bupati,"H. Aprian Noor, S.Sos",,21708,41.15,,FALSE,0,,,,
+90,2018,Kabupaten Murung Raya,Menang,57.19,2,Bupati,"Drs. Perdie, Ma",Menang,3017,57.19,Menang,FALSE,1,Menang,Menang,,
+90,2018,Kabupaten Murung Raya,,1.66,3,Bupati,"H. Syapuani, Se.,Mm",,877,1.66,,FALSE,1,,,,
+91,2018,Kabupaten Pulang Pisau,,47.97,1,Bupati,"H. Idham Amur, S.H., M.Si.",,33012,47.97,,FALSE,0,,,,
+91,2018,Kabupaten Pulang Pisau,Menang,52.03,2,Bupati,"H. Edy Pratowo, S.Sos., Mm.",Menang,35811,52.03,Menang,FALSE,1,Menang,Menang,,
+92,2018,Kabupaten Seruyan,,33.9,1,Bupati,"H. Sudarsono, S.H.",,20536,33.9,Menang,FALSE,0,Menang,Menang,,
+92,2018,Kabupaten Seruyan,,20.57,2,Bupati,Drs. H. Edy Riswan,,12462,20.57,,FALSE,1,,,,
+92,2018,Kabupaten Seruyan,Menang,45.53,3,Bupati,Yulhaidir,Menang,27583,45.53,Menang,FALSE,1,Menang,Menang,,
+93,2018,Kabupaten Sukamara,,36.02,1,Bupati,"H. Ahmad Darsoni, Skm, M.Si",,10799,36.02,Menang,FALSE,0,Menang,Menang,,
+93,2018,Kabupaten Sukamara,,16.61,2,Bupati,"H. Mugeni, Sh.,Mh",,4981,16.61,,FALSE,1,,,,
+93,2018,Kabupaten Sukamara,Menang,47.37,3,Bupati,H. Windu Subagio,Menang,14203,47.37,Menang,FALSE,1,Menang,Menang,,
+94,2018,Kabupaten Penajam Paser Utara,,16.08,1,Bupati,"Mustaqim, Mz.Mm",,13202,16.08,,FALSE,0,,,,
+94,2018,Kabupaten Penajam Paser Utara,,38.55,2,Bupati,"H. Andi Harahap, S.Sos",,3166,38.55,Menang,FALSE,1,Menang,Menang,,
+94,2018,Kabupaten Penajam Paser Utara,Menang,45.37,3,Bupati,Abdul Gafur,Menang,37265,45.37,Menang,FALSE,1,Menang,Menang,,
+95,2018,Kota Tarakan,,28.13,1,Walikota,"Hj. Umi Suhartini, S.Pd. M.H",,25611,28.13,,FALSE,0,,,,
+95,2018,Kota Tarakan,Menang,30.87,2,Walikota,"Dr. Khairul, M.Kes",Menang,28099,30.87,Menang,FALSE,1,Menang,Menang,,
+95,2018,Kota Tarakan,,19.69,3,Walikota,"Drs. H. Badrun, Msi",,17924,19.69,,FALSE,1,,,,
+95,2018,Kota Tarakan,,21.31,4,Walikota,"Ir. Sofian, M.Si",,19399,21.31,Menang,FALSE,1,Menang,Menang,,
+96,2018,Kabupaten Bangka,,28.48,1,Bupati,"Ir. H. Tarmizi H. Saat, Mm",,34706,28.48,,FALSE,0,,,,
+96,2018,Kabupaten Bangka,Menang,48.66,2,Bupati,"Mulkan, Sh. Mh",Menang,59304,48.66,Menang,FALSE,1,Menang,Menang,,
+96,2018,Kabupaten Bangka,,22.86,3,Bupati,"Dr.Ir. H. Kms. Daniel, Mm",,27864,22.86,,FALSE,1,,,,
+97,2018,Kabupaten Belitung,,26.13,1,Bupati,"Ir. H. Azwardy Azhar, Se., M.Si",,22458,26.13,,FALSE,0,,,,
+97,2018,Kabupaten Belitung,,30.22,2,Bupati,"Hellyana, Sh",,25973,30.22,Menang,FALSE,1,Menang,Menang,,
+97,2018,Kabupaten Belitung,,10.66,3,Bupati,"H. Andi Saparudin Lanna, Sh",,9163,10.66,,FALSE,1,,,,
+97,2018,Kabupaten Belitung,Menang,33,4,Bupati,"H. Sahani Saleh, S.Sos",Menang,28366,33,Menang,FALSE,1,Menang,Menang,,
+98,2018,Kota Pangkalpinang,,8.58,1,Walikota,"Rinaldi, S.E., M.H.",,6562,8.58,,FALSE,0,,,,
+98,2018,Kota Pangkalpinang,,33.07,2,Walikota,"Prof. H. Saparudin, M.T., Ph.D",,25283,33.07,Menang,FALSE,1,Menang,Menang,,
+98,2018,Kota Pangkalpinang,Menang,41.59,3,Walikota,"H. Maulan Aklil, S.I.P., M.Si.",Menang,31792,41.59,Menang,FALSE,1,Menang,Menang,,
+98,2018,Kota Pangkalpinang,,16.76,4,Walikota,"Endang Kusumawaty, S.T.",,12812,16.76,,FALSE,1,,,,
+99,2018,Kota Tanjungpinang,Menang,51.45,1,Walikota,"H. Syahrul, S.Pd.Sd",Menang,42559,51.45,Menang,FALSE,0,Menang,Menang,,
+99,2018,Kota Tanjungpinang,,48.55,2,Walikota,"H. Lis Darmansyah, Sh",,40161,48.55,,FALSE,1,,,,
+100,2018,Kabupaten Lampung Utara,Menang,32.84,1,Bupati,"Drs. Hi. ZAINAL ABIDIN, MM",Menang,97014,32.84,Menang,FALSE,0,Menang,Menang,,
+100,2018,Kabupaten Lampung Utara,,17.7,2,Bupati,Hi. APROZI ALAM,,52276,17.7,,FALSE,1,,,,
+100,2018,Kabupaten Lampung Utara,Menang,49.47,3,Bupati,"H. AGUNG ILMU MANGKUNEGARA, S.STP. MH.",Menang,146137,49.47,Menang,FALSE,1,Menang,Menang,,
+101,2018,Kabupaten Tanggamus,Menang,55.96,1,Bupati,"Hj. Dewi Handajani, Se, Mm",Menang,170399,55.96,Menang,FALSE,0,Menang,Menang,,
+101,2018,Kabupaten Tanggamus,,44.04,2,Bupati,"Hi. Samsul Hadi, M.Pd.I",,134084,44.04,,FALSE,1,,,,
+102,2018,Kota Tual,,19.59,1,Walikota,"Drs. Yunus Serang, M.Si",,6297,19.59,,FALSE,0,,,,
+102,2018,Kota Tual,Menang,49.63,2,Walikota,"Adam Rahayaan, S.Ag, M.Si",Menang,15956,49.63,Menang,FALSE,1,Menang,Menang,,
+102,2018,Kota Tual,,30.78,3,Walikota,"Drs. Basri Adlly Bandjar, M.Si",,9896,30.78,,FALSE,1,,,,
+103,2018,Kabupaten Maluku Tenggara,,24.21,1,Bupati,"Drs. Angelus Renjaan, M.Pd, Mh",,13047,24.21,,FALSE,0,,,,
+103,2018,Kabupaten Maluku Tenggara,,32.97,2,Bupati,"Esebius Utha Safsafubun, S.Ip",,17769,32.97,Menang,FALSE,1,Menang,Menang,,
+103,2018,Kabupaten Maluku Tenggara,Menang,42.83,3,Bupati,Muhamad Thaher Hanubun,Menang,23083,42.83,Menang,FALSE,1,Menang,Menang,,
+104,2018,Kota Bima,,39.54,1,Walikota,"H. A. Rahman, Se",,34902,39.54,,FALSE,0,,,,
+104,2018,Kota Bima,Menang,44.28,2,Walikota,"H. Muhammad Lutfi, Se",Menang,39081,44.28,Menang,FALSE,1,Menang,Menang,,
+104,2018,Kota Bima,,16.18,3,Walikota,"Subhan, Sh",,1428,16.18,,FALSE,1,,,,
+105,2018,Kabupaten Lombok Barat,,21.24,1,Bupati,"H. M. Izzul Islam, S.Mn",,73406,21.24,,FALSE,0,,,,
+105,2018,Kabupaten Lombok Barat,,32.89,2,Bupati,"Nauvar Furqony Farinduan, Sh., Mba",,113642,32.89,Menang,FALSE,1,Menang,Menang,,
+105,2018,Kabupaten Lombok Barat,Menang,45.87,3,Bupati,"H. Fauzan Khalid, S.Ag., M.Si",Menang,158502,45.87,Menang,FALSE,1,Menang,Menang,,
+106,2018,Kabupaten Lombok Timur,,26.89,1,Bupati,Drs. H. Haerul Warisin,,174188,26.89,Menang,FALSE,0,Menang,Menang,,
+106,2018,Kabupaten Lombok Timur,,5.1,2,Bupati,"Ali Masadi, S.H., M.Kn",,3303,5.1,,FALSE,1,,,,
+106,2018,Kabupaten Lombok Timur,Menang,41.84,3,Bupati,"Drs. H. Mohammad Sukiman Azmy, Mm.",Menang,27107,41.84,Menang,FALSE,1,Menang,Menang,,
+106,2018,Kabupaten Lombok Timur,,26.18,4,Bupati,H.M.Syamsul Luthfi,,169607,26.18,,FALSE,1,,,,
+107,2018,Kabupaten Alor,,46.35,1,Bupati,"Dr. Imanuel Ekadianus Blegur, M.Si",,51796,46.35,,FALSE,0,,,,
+107,2018,Kabupaten Alor,Menang,53.65,2,Bupati,Drs. Amon Djobo,Menang,59953,53.65,Menang,FALSE,1,Menang,Menang,,
+108,2018,Kabupaten Ende,,37.92,1,Bupati,"Drs. Don Bosco M. Wangge,M.Si",,49796,37.92,,FALSE,0,,,,
+108,2018,Kabupaten Ende,Menang,62.08,2,Bupati,Ir. Marselinus Y.W. Petu,Menang,81532,62.08,Menang,FALSE,1,Menang,Menang,,
+109,2018,Kabupaten Kupang,,24.28,1,Bupati,"Drs. Hendrik Paut, M.Pd",,37771,24.28,,FALSE,0,,,,
+109,2018,Kabupaten Kupang,Menang,33,2,Bupati,Drs. Korinus Masneno,Menang,51324,33,Menang,FALSE,1,Menang,Menang,,
+109,2018,Kabupaten Kupang,,15.23,3,Bupati,"Nelson O. Matara, S.Ip., M.Hum",,23693,15.23,,FALSE,1,,,,
+109,2018,Kabupaten Kupang,,18.2,4,Bupati,"Melianus Akulas, St",,28307,18.2,Menang,FALSE,1,Menang,Menang,,
+109,2018,Kabupaten Kupang,,9.29,5,Bupati,"Drs. Selfester M. Banfatin, M.Si",,14448,9.29,,FALSE,1,,,,
+110,2018,Kabupaten Manggarai Timur,Menang,32.62,1,Bupati,"Agas Andreas, Sh, M.Hum",Menang,46501,32.62,Menang,FALSE,0,Menang,Menang,,
+110,2018,Kabupaten Manggarai Timur,,18.31,2,Bupati,Drs. Marselis S,,26099,18.31,,FALSE,1,,,,
+110,2018,Kabupaten Manggarai Timur,,29.98,3,Bupati,Tarsisius Sjukur,,4274,29.98,Menang,FALSE,1,Menang,Menang,,
+110,2018,Kabupaten Manggarai Timur,,10.15,4,Bupati,"Bonefasius Uha, Sh",,14465,10.15,,FALSE,1,,,,
+110,2018,Kabupaten Manggarai Timur,,8.95,5,Bupati,Fransiskus Sarong,,12752,8.95,,FALSE,1,,,,
+111,2018,Kabupaten Nagekeo,,3.9,1,Bupati,"Paskalis Mb Ledo Bude, Se, Mm",,2968,3.9,,FALSE,0,,,,
+111,2018,Kabupaten Nagekeo,Menang,31.04,2,Bupati,"Dr. Johanes Don Bosco Do, M. Kes",Menang,23613,31.04,Menang,FALSE,1,Menang,Menang,,
+111,2018,Kabupaten Nagekeo,,28.76,3,Bupati,Drs. Elias Djo,,2188,28.76,,FALSE,1,,,,
+111,2018,Kabupaten Nagekeo,,6.68,4,Bupati,"Gaspar Batubata, Sh",,5081,6.68,,FALSE,1,,,,
+111,2018,Kabupaten Nagekeo,,29.63,5,Bupati,Paulinus Yohanes Nuwa Veto,,22543,29.63,Menang,FALSE,1,Menang,Menang,,
+112,2018,Kabupaten Rote Ndao,,21.72,1,Bupati,"Jonas Cornelius Lun, S.Pd",,14204,21.72,Menang,FALSE,0,Menang,Menang,,
+112,2018,Kabupaten Rote Ndao,,14.66,2,Bupati,"Drs. Mesakh Nitanel Nunuhitu, M.Si",,9585,14.66,,FALSE,1,,,,
+112,2018,Kabupaten Rote Ndao,Menang,33.79,3,Bupati,"Paulina Haning - Bullu, Se",Menang,22098,33.79,Menang,FALSE,1,Menang,Menang,,
+112,2018,Kabupaten Rote Ndao,,29.83,4,Bupati,"Bima Theodorianus Fanggidae, Mba",,19504,29.83,,FALSE,1,,,,
+113,2018,Kabupaten Sikka,,31.62,1,Bupati,Drs. Alexander Longginus,,49696,31.62,,FALSE,0,,,,
+113,2018,Kabupaten Sikka,Menang,40.11,2,Bupati,"Fransiskus Roberto Diogo, S.Sos, Msi.",Menang,6304,40.11,Menang,FALSE,1,Menang,Menang,,
+113,2018,Kabupaten Sikka,,28.26,3,Bupati,Drs. Yoseph Ansar Rera,,44417,28.26,,FALSE,1,,,,
+114,2018,Kabupaten Sumba Barat Daya,,44.58,1,Bupati,"Markus Dairo Talu, Sh",,63886,44.58,Menang,FALSE,0,Menang,Menang,,
+114,2018,Kabupaten Sumba Barat Daya,,8.13,2,Bupati,"Dominggus Dama, Sst, Mt",,11658,8.13,,FALSE,1,,,,
+114,2018,Kabupaten Sumba Barat Daya,Menang,47.29,3,Bupati,Dr. Kornelius Kodi Mete,Menang,67763,47.29,Menang,FALSE,1,Menang,Menang,,
+115,2018,Kabupaten Sumba Tengah,,18.67,1,Bupati,"Umbu Besi,S.Sos",,6965,18.67,,FALSE,0,,,,
+115,2018,Kabupaten Sumba Tengah,Menang,28.46,2,Bupati,Drs. Paulus S. K. Limu,Menang,10619,28.46,Menang,FALSE,1,Menang,Menang,,
+115,2018,Kabupaten Sumba Tengah,,17.1,3,Bupati,"Umbu Dondu, Bba",,6379,17.1,,FALSE,1,,,,
+115,2018,Kabupaten Sumba Tengah,,12.94,4,Bupati,"Umbu S. Samapaty, Sh, Mh",,4827,12.94,,FALSE,1,,,,
+115,2018,Kabupaten Sumba Tengah,,22.85,5,Bupati,Dr. Umbu M. Marisi,,8525,22.85,Menang,FALSE,1,Menang,Menang,,
+116,2018,Kabupaten Timor Tengah Selatan,,16.3,1,Bupati,"Ampera Seke Selan, Sh",,32192,16.3,,FALSE,0,,,,
+116,2018,Kabupaten Timor Tengah Selatan,Menang,32.83,2,Bupati,"Drs. Obed Naitboho, M.Si",Menang,64839,32.83,Menang,FALSE,1,Menang,Menang,,
+116,2018,Kabupaten Timor Tengah Selatan,,32.71,3,Bupati,"Egusem Piether Tahun, St, Mm",,64607,32.71,,FALSE,1,,,,
+116,2018,Kabupaten Timor Tengah Selatan,,18.16,4,Bupati,"Drs. Johanis Lakapu, M.Si",,35858,18.16,,FALSE,1,,,,
+117,2018,Kabupaten Biak Numfor,,23.36,1,Bupati,"Andreas Msen, Se. Mm",,12043,23.36,,FALSE,0,,,,
+117,2018,Kabupaten Biak Numfor,Menang,42.89,2,Bupati,"Herry Ario Naap, S.Si.,M.Pd.",Menang,22108,42.89,Menang,FALSE,1,Menang,Menang,,
+117,2018,Kabupaten Biak Numfor,,33.75,3,Bupati,Nichodemus Ronsumbre,,17397,33.75,,FALSE,1,,,,
+118,2018,Kabupaten Deiyai,,32.02,1,Bupati,Ateng Edowai S.Pd.K,,15804,32.02,Menang,FALSE,0,Menang,Menang,,
+118,2018,Kabupaten Deiyai,,15.01,2,Bupati,Keni Ikomou,,7411,15.01,,FALSE,1,,,,
+118,2018,Kabupaten Deiyai,,23.92,3,Bupati,"Dance Takimai, A.Ks",,11808,23.92,Menang,FALSE,1,Menang,Menang,,
+118,2018,Kabupaten Deiyai,Menang,29.04,4,Bupati,Inarius Douw,Menang,14335,29.04,Menang,FALSE,1,Menang,Menang,,
+119,2018,Kabupaten Jayawijaya,,0,1,Bupati,"Jhon Richard Banua Se,M.Si.",,0,0,,FALSE,0,,,,
+120,2018,Kabupaten Mamberamo Tengah,,0,1,Bupati,"Ricky Ham Pagawak, Sh, M.Si",,0,0,,FALSE,0,,,,
+121,2018,Kabupaten Mimika,,0,1,Bupati,Drs. Petrus Yanwarin,,0,0,,FALSE,0,,,,
+121,2018,Kabupaten Mimika,,7.93,2,Bupati,"Robertus Waraopea, Sh",,129,7.93,Menang,FALSE,1,Menang,Menang,,
+121,2018,Kabupaten Mimika,,2.58,3,Bupati,Wilhelmus Pigai,,42,2.58,,FALSE,1,,,,
+121,2018,Kabupaten Mimika,,21.82,4,Bupati,"Hans Magal, S.P",,355,21.82,Menang,FALSE,1,Menang,Menang,,
+121,2018,Kabupaten Mimika,,0.06,5,Bupati,"Maria Florida Kotorok, Se., M.H.Kes",,1,0.06,,FALSE,1,,,,
+121,2018,Kabupaten Mimika,Menang,67.61,6,Bupati,"Eltinus Omaleng, Se, Mh",Menang,11,67.61,Menang,FALSE,1,Menang,Menang,,
+121,2018,Kabupaten Mimika,,0,7,Bupati,"Philipus B. Wakerkwa Se, Msi",,0,0,,FALSE,1,,,,
+122,2018,Kabupaten Paniai,,0,1,Bupati,"Dr. Hengki Kayame, Sh.,Mh",,0,0,,FALSE,0,,,,
+122,2018,Kabupaten Paniai,,0,2,Bupati,"Naftali Yogi, S.Sos",,0,0,,FALSE,1,,,,
+122,2018,Kabupaten Paniai,,0,3,Bupati,Meki Nawipa,,0,0,,FALSE,1,,,,
+122,2018,Kabupaten Paniai,,0,4,Bupati,"Yunus Gobai, S.Sos",,0,0,,FALSE,1,,,,
+122,2018,Kabupaten Paniai,,0,5,Bupati,"Yehuda Gobai, S.Th., M.Si",,0,0,,FALSE,1,,,,
+123,2018,Kabupaten Puncak,,0,1,Bupati,"Willem Wandik, Se. Msi",,0,0,,FALSE,0,,,,
+124,2018,Kabupaten Indragiri Hilir,,23.35,1,Bupati,"H. Rosman Malomo, Sh, Mh",,56073,23.35,,FALSE,0,,,,
+124,2018,Kabupaten Indragiri Hilir,,24.95,2,Bupati,"Dr. H.M. Ramli, Se, M.Si",,59939,24.95,Menang,FALSE,1,Menang,Menang,,
+124,2018,Kabupaten Indragiri Hilir,Menang,51.7,3,Bupati,"Drs. H. Muhammad Wardan, Mp",Menang,124178,51.7,Menang,FALSE,1,Menang,Menang,,
+125,2018,Kabupaten Mamasa,Menang,61.24,1,Bupati,"Drs. Ramlan Badawi, Mh",Menang,48618,61.24,Menang,FALSE,0,Menang,Menang,,
+126,2018,Kabupaten Polewali Mandar,,44.66,1,Bupati,Salim S. Mengga,,97922,44.66,,FALSE,0,,,,
+126,2018,Kabupaten Polewali Mandar,Menang,55.34,2,Bupati,H. A. Ibrahim Masdar,Menang,121347,55.34,Menang,FALSE,1,Menang,Menang,,
+127,2018,Kabupaten Bantaeng,,16.22,1,Bupati,Muh.Alwi,,17155,16.22,,FALSE,0,,,,
+127,2018,Kabupaten Bantaeng,,37.85,2,Bupati,"Dra. Hj. Andi Sugiarti Mangun Karim, M. Si",,40017,37.85,Menang,FALSE,1,Menang,Menang,,
+127,2018,Kabupaten Bantaeng,Menang,45.93,3,Bupati,"Dr. H. Ilham Syah Azikin, M. Si",Menang,48562,45.93,Menang,FALSE,1,Menang,Menang,,
+128,2018,Kabupaten Bone,,62.95,1,Bupati,"Dr. H. A. Fahsar Mahdin Padjalangi, M.Si.",,232961,62.95,,FALSE,0,,,,
+129,2018,Kabupaten Enrekang,Menang,69.4,1,Bupati,"Drs. H. Muslimin Bando, M.Pd",Menang,68384,69.4,Menang,FALSE,0,Menang,Menang,,
+130,2018,Kabupaten Jeneponto,,30.23,1,Bupati,"H. Mulyadi Mustamu, Sh",,63369,30.23,Menang,FALSE,0,Menang,Menang,,
+130,2018,Kabupaten Jeneponto,,19.67,2,Bupati,"H. Muhammad Sarif, Sh, Mh",,41231,19.67,,FALSE,1,,,,
+130,2018,Kabupaten Jeneponto,Menang,43.38,3,Bupati,"Drs. H. Iksan Iskandar, M.Si",Menang,90942,43.38,Menang,FALSE,1,Menang,Menang,,
+130,2018,Kabupaten Jeneponto,,6.72,4,Bupati,"H.A. Baharuddin Baso Jaya, S.Sos, M.Si",,14094,6.72,,FALSE,1,,,,
+131,2018,Kota Makassar,,46.3,1,Walikota,"Munafri Arifuddin, Sh",,212143,46.3,,FALSE,0,,,,
+132,2018,Kota Palopo,Menang,60.4,1,Walikota,"Drs. H. M. Judas Amir, Mh",Menang,51695,60.4,Menang,FALSE,0,Menang,Menang,,
+132,2018,Kota Palopo,,39.6,2,Walikota,"Dr. Akhmad Syarifuddin Daud, Se., M.Si",,33887,39.6,,FALSE,1,,,,
+133,2018,Kota Pare Pare,Menang,51.22,1,Walikota,"Dr. H. M. Taufan Pawe, S.H.,M.H.",Menang,39996,51.22,Menang,FALSE,0,Menang,Menang,,
+133,2018,Kota Pare Pare,,48.78,2,Walikota,"Ir. H. Achmad Faisal Andi Sapada, S.E.,M.M.",,38098,48.78,,FALSE,1,,,,
+134,2018,Kabupaten Luwu,Menang,60.58,1,Bupati,"Drs. H. Basmin Mattayang, M.Pd",Menang,117027,60.58,Menang,FALSE,0,Menang,Menang,,
+134,2018,Kabupaten Luwu,,39.42,2,Bupati,"Patahudding, S.Ag",,76141,39.42,,FALSE,1,,,,
+135,2018,Kabupaten Pinrang,,38.08,1,Bupati,"Ir. H. Abdul Latif, M.Si, Mm, Ipm",,81191,38.08,,FALSE,0,,,,
+135,2018,Kabupaten Pinrang,Menang,40.43,2,Bupati,"H.A.Irwan Hamid,S.Sos",Menang,862,40.43,Menang,FALSE,1,Menang,Menang,,
+135,2018,Kabupaten Pinrang,,17.6,3,Bupati,H. Jamaluddin Jafar,,37535,17.6,,FALSE,1,,,,
+135,2018,Kabupaten Pinrang,,3.89,4,Bupati,"H. Hamka Mahmud, Sh.M.Si",,8301,3.89,,FALSE,1,,,,
+136,2018,Kabupaten Sidenreng Rappang,,38.86,1,Bupati,"Fatmawati Rusdi, Se",,67128,38.86,,FALSE,0,,,,
+136,2018,Kabupaten Sidenreng Rappang,Menang,61.14,2,Bupati,Ir. Dollah Mando,Menang,105598,61.14,Menang,FALSE,1,Menang,Menang,,
+137,2018,Kabupaten Sinjai,Menang,37.96,1,Bupati,Andi Seto Gadhista Asapa,Menang,51069,37.96,Menang,FALSE,0,Menang,Menang,,
+137,2018,Kabupaten Sinjai,,30.21,2,Bupati,"H. Sabirin Yahya, S.Sos",,40636,30.21,,FALSE,1,,,,
+137,2018,Kabupaten Sinjai,,31.83,3,Bupati,"H. Takyuddin Masse, Se., M.Si",,42828,31.83,Menang,FALSE,1,Menang,Menang,,
+138,2018,Kabupaten Wajo,Menang,57.91,1,Bupati,"Dr. H. Amran Mahmud, S,Sos., M.Si",Menang,104384,57.91,Menang,FALSE,0,Menang,Menang,,
+138,2018,Kabupaten Wajo,,42.09,2,Bupati,"Dr. H. Baso Rahmanuddin, M.M.,M.Kes.",,75876,42.09,,FALSE,1,,,,
+139,2018,Kabupaten Donggala,,25.95,1,Bupati,"Drg. Anita Bugiswaty Noerdin, M.Kes",,39727,25.95,,FALSE,0,,,,
+139,2018,Kabupaten Donggala,Menang,34.65,2,Bupati,"Drs. Kasman Lassa, Sh",Menang,53042,34.65,Menang,FALSE,1,Menang,Menang,,
+139,2018,Kabupaten Donggala,,27.34,3,Bupati,"Vera Elena Laruni, Se",,41858,27.34,,FALSE,1,,,,
+139,2018,Kabupaten Donggala,,12.07,4,Bupati,"Idham Pagaluma, Sh",,18472,12.07,,FALSE,1,,,,
+140,2018,Kabupaten Morowali,Menang,35.65,1,Bupati,Drs Taslim,Menang,26277,35.65,Menang,FALSE,0,Menang,Menang,,
+140,2018,Kabupaten Morowali,,24.09,2,Bupati,H. Ambo Dalle,,17758,24.09,,FALSE,1,,,,
+140,2018,Kabupaten Morowali,,27.71,3,Bupati,"H. Syarifudin Hafid, Sh",,20423,27.71,Menang,FALSE,1,Menang,Menang,,
+140,2018,Kabupaten Morowali,,4.19,4,Bupati,"H. Silahudin Karim, S.Sos",,3089,4.19,,FALSE,1,,,,
+140,2018,Kabupaten Morowali,,8.36,5,Bupati,"Haris Nunu, Se. Mm",,6164,8.36,Menang,FALSE,1,Menang,Menang,,
+141,2018,Kabupaten Parigi Moutong,Menang,44.73,1,Bupati,H. Samsurizal Tombolotutu,Menang,99069,44.73,Menang,FALSE,0,Menang,Menang,,
+141,2018,Kabupaten Parigi Moutong,,20.94,2,Bupati,"Erwin Burase, S.Kom",,46368,20.94,,FALSE,1,,,,
+141,2018,Kabupaten Parigi Moutong,,34.33,3,Bupati,"H. Amrullah Almahdaly, S.E",,76031,34.33,Menang,FALSE,1,Menang,Menang,,
+142,2018,Kabupaten Kolaka,Menang,62.82,1,Bupati,"H. Ahmad Safei, Sh, Mh",Menang,73004,62.82,Menang,FALSE,0,Menang,Menang,,
+142,2018,Kabupaten Kolaka,,37.18,2,Bupati,"Dr. Hj. Asmani Arif, Se., Mm",,43204,37.18,,FALSE,1,,,,
+143,2018,Kabupaten Konawe,,2.18,1,Bupati,"Muliati Saiman, S.Si",,2905,2.18,,FALSE,0,,,,
+143,2018,Kabupaten Konawe,,20.75,2,Bupati,"H. Litanto, Sh.,M.Si",,27624,20.75,Menang,FALSE,1,Menang,Menang,,
+143,2018,Kabupaten Konawe,,27.75,3,Bupati,"H. Irawan Laliasa, Se.,M.Si",,36942,27.75,Menang,FALSE,1,Menang,Menang,,
+143,2018,Kabupaten Konawe,,49.31,4,Bupati,Kery Saiful Konggoasa,,65646,49.31,Menang,FALSE,1,Menang,Menang,,
+144,2018,Kota Bau Bau,,24.57,1,Walikota,Hj. Roslina Rahim,,16094,24.57,,FALSE,0,,,,
+144,2018,Kota Bau Bau,Menang,30.92,2,Walikota,"Dr. H.A.S Tamrin, Mh",Menang,20255,30.92,Menang,FALSE,1,Menang,Menang,,
+144,2018,Kota Bau Bau,,5.89,3,Walikota,"Hj. Wa Ode Maasra Manarfa, S.Sos., M.Si",,3861,5.89,,FALSE,1,,,,
+144,2018,Kota Bau Bau,,25.97,4,Walikota,"H. Yusran Fahim, Se",,17014,25.97,Menang,FALSE,1,Menang,Menang,,
+144,2018,Kota Bau Bau,,12.65,5,Walikota,"Drs. H. Ibrahim Marsela, M.M.",,8284,12.65,,FALSE,1,,,,
+145,2018,Kabupaten Bolaang Mongondow Utara,,21.31,1,Bupati,"Karel Bangko, Sh",,10521,21.31,,FALSE,0,,,,
+145,2018,Kabupaten Bolaang Mongondow Utara,Menang,39.79,2,Bupati,Drs. Hi. Depri Pontoh,Menang,19645,39.79,Menang,FALSE,1,Menang,Menang,,
+145,2018,Kabupaten Bolaang Mongondow Utara,,38.9,3,Bupati,Drs. Hi. Hamdan Datunsolang,,19202,38.9,,FALSE,1,,,,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,,23.67,1,Bupati,"Alfrets Ronald Takarendehang, Se.Ak",,10833,23.67,Menang,FALSE,0,Menang,Menang,,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,,23.1,2,Bupati,"Siska Salindeho, Se",,10572,23.1,,FALSE,1,,,,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,,7.11,3,Bupati,Ad Almost Berd Maliogha,,3256,7.11,,FALSE,1,,,,
+146,2018,Kabupaten Kep. Siau Tagulandang Biaro,Menang,46.11,4,Bupati,Evangelian Sasingen,Menang,21103,46.11,Menang,FALSE,1,Menang,Menang,,
+147,2018,Kabupaten Kepulauan Talaud,Menang,39.09,1,Bupati,"Dr. Elly Engelbert Lasut, Me",Menang,22674,39.09,Menang,FALSE,0,Menang,Menang,,
+147,2018,Kabupaten Kepulauan Talaud,,28.17,2,Bupati,Welly Titah,,16341,28.17,,FALSE,1,,,,
+147,2018,Kabupaten Kepulauan Talaud,,25.04,3,Bupati,"Sri Wahyumi Maria Manalip, Se",,14525,25.04,,FALSE,1,,,,
+147,2018,Kabupaten Kepulauan Talaud,,7.69,4,Bupati,"Handri Piter Poae, S.H",,446,7.69,,FALSE,1,,,,
+148,2018,Kota Kotamobagu,Menang,54.31,1,Walikota,Ir. Hj. Tatong Bara,Menang,37508,54.31,Menang,FALSE,0,Menang,Menang,,
+148,2018,Kota Kotamobagu,,45.69,2,Walikota,Drs. Hi. Jainuddin Damopolii,,31561,45.69,,FALSE,1,,,,
+149,2018,Kabupaten Minahasa,,34.98,1,Bupati,Ivan Steven Joudrie Sarundajang,,71124,34.98,,FALSE,0,,,,
+149,2018,Kabupaten Minahasa,Menang,65.02,2,Bupati,"Ir. Royke Octavian Roring, M.Si",Menang,13219,65.02,Menang,FALSE,1,Menang,Menang,,
+150,2018,Kabupaten Minahasa Tenggara,Menang,67.26,1,Bupati,"James Sumendap,Sh",Menang,47499,67.26,Menang,FALSE,0,Menang,Menang,,
+151,2018,Kota Padang,,34.62,1,Walikota,"Ir. H. Emzalmi, M.Si",,62311,34.62,,FALSE,0,,,,
+151,2018,Kota Padang,Menang,65.38,2,Walikota,"H. Mahyeldi, Sp",Menang,117652,65.38,Menang,FALSE,1,Menang,Menang,,
+152,2018,Kota Padang Panjang,,16.54,1,Walikota,"Dr. Mawardi, Mkm",,4256,16.54,,FALSE,0,,,,
+152,2018,Kota Padang Panjang,,36.3,2,Walikota,"H. Hendri Arnis, Bsba",,9338,36.3,Menang,FALSE,1,Menang,Menang,,
+152,2018,Kota Padang Panjang,,7.54,3,Walikota,Ir. Rafdi M. Syarif,,194,7.54,,FALSE,1,,,,
+152,2018,Kota Padang Panjang,Menang,39.62,4,Walikota,Fadly Amran,Menang,10191,39.62,Menang,FALSE,1,Menang,Menang,,
+153,2018,Kota Pariaman,,0,1,Walikota,Ir. H. Mahyuddin,,0,0,,FALSE,0,,,,
+153,2018,Kota Pariaman,,0,2,Walikota,"Dewi Fitri Deswati, S.Pi",,0,0,,FALSE,1,,,,
+153,2018,Kota Pariaman,,0,3,Walikota,"Dr. Genius Umar, S.Sos, M.Si",,0,0,,FALSE,1,,,,
+154,2018,Kota Sawahlunto,,19.21,1,Walikota,H. Fauzi Hasan,,6659,19.21,,FALSE,0,,,,
+154,2018,Kota Sawahlunto,,33.7,2,Walikota,"Ali Yusuf, S.Pt",,11681,33.7,Menang,FALSE,1,Menang,Menang,,
+154,2018,Kota Sawahlunto,Menang,47.08,3,Walikota,"Deri Asta, Sh",Menang,16319,47.08,Menang,FALSE,1,Menang,Menang,,
+155,2018,Kabupaten Banyuasin,,9.21,1,Bupati,Drs. Agus Yudiantoro,,31758,9.21,,FALSE,0,,,,
+155,2018,Kabupaten Banyuasin,,25.53,2,Bupati,H. Arkoni Md,,88008,25.53,Menang,FALSE,1,Menang,Menang,,
+155,2018,Kabupaten Banyuasin,,20.33,3,Bupati,Buya H.M. Husni Thamrin Madani,,70109,20.33,,FALSE,1,,,,
+155,2018,Kabupaten Banyuasin,,10.64,4,Bupati,"Ir. H. Syaiful Bakhri Ar,M.Si",,36683,10.64,,FALSE,1,,,,
+155,2018,Kabupaten Banyuasin,Menang,34.29,5,Bupati,"H. Askolani, Sh., Mh",Menang,118227,34.29,Menang,FALSE,1,Menang,Menang,,
+156,2018,Kabupaten Empat Lawang,,34.75,1,Bupati,H. David Hadrianto Aljufri (Hda),,47042,34.75,,FALSE,0,,,,
+156,2018,Kabupaten Empat Lawang,Menang,60.16,2,Bupati,"H. Joncik Muhammad, S.Si.",Menang,81443,60.16,Menang,FALSE,1,Menang,Menang,,
+156,2018,Kabupaten Empat Lawang,,5.1,3,Bupati,"H.Yulizar Dinoto,Sh",,69,5.1,,FALSE,1,,,,
+157,2018,Kota Lubuklinggau,,7.05,1,Walikota,"H. Toyeb Rakembang, S.Ag",,7898,7.05,,FALSE,0,,,,
+157,2018,Kota Lubuklinggau,Menang,56.18,2,Walikota,"Drs. H. S.N.Prana Putra Sohe, Mm",Menang,62923,56.18,Menang,FALSE,1,Menang,Menang,,
+157,2018,Kota Lubuklinggau,,36.77,3,Walikota,"H. Rustam Effendi, Sh",,41179,36.77,,FALSE,1,,,,
+158,2018,Kota Pagar Alam,,2.35,1,Walikota,"Hermanto, Sh M.Si",,1969,2.35,,FALSE,0,,,,
+158,2018,Kota Pagar Alam,Menang,27.74,2,Walikota,"Alpian Maskoni, Sh",Menang,23217,27.74,Menang,FALSE,1,Menang,Menang,,
+158,2018,Kota Pagar Alam,,19.39,3,Walikota,"Dr. Hj. Ida Fitriati Basjuni, M.Kes",,16232,19.39,,FALSE,1,,,,
+158,2018,Kota Pagar Alam,,22.24,4,Walikota,Novirzah Djazuli. Se.,,18617,22.24,Menang,FALSE,1,Menang,Menang,,
+158,2018,Kota Pagar Alam,,13.94,5,Walikota,Ludi Oliansyah,,11669,13.94,,FALSE,1,,,,
+158,2018,Kota Pagar Alam,Menang,14.33,6,Walikota,"Ir. Gunawan, Mt",Menang,11998,14.33,Menang,FALSE,1,Menang,Menang,,
+159,2018,Kota Palembang,Menang,46.12,1,Walikota,"H. Harnojoyo, S.Sos",Menang,207015,46.12,Menang,FALSE,0,Menang,Menang,,
+159,2018,Kota Palembang,,37.2,2,Walikota,"Ir. H. Sarimuda, Mt.",,166976,37.2,,FALSE,1,,,,
+159,2018,Kota Palembang,,4.14,3,Walikota,H. M. Akbar Alfaro,,18584,4.14,,FALSE,1,,,,
+159,2018,Kota Palembang,,12.54,4,Walikota,H. Mularis Djahri,,56309,12.54,Menang,FALSE,1,Menang,Menang,,
+160,2018,Kota Prabumulih,Menang,79.27,1,Walikota,"Ir. H. Ridho Yahya, M.M.",Menang,7443,79.27,Menang,FALSE,0,Menang,Menang,,
+161,2018,Kabupaten Lahat,,21.51,1,Bupati,"H. Nopran Marjani, S. Pd",,45205,21.51,,FALSE,0,Menang,Menang,,
+161,2018,Kabupaten Lahat,,4.94,2,Bupati,"Ir. H. Hapit Padli, Mm",,10372,4.94,,FALSE,1,,,,
+161,2018,Kabupaten Lahat,Menang,43.32,3,Bupati,"Cik Ujang, Sh",Menang,91033,43.32,Menang,FALSE,1,Menang,Menang,,
+161,2018,Kabupaten Lahat,,23.63,4,Bupati,"H. Bursah Zarnubi, Se",,49666,23.63,,FALSE,1,,,,
+161,2018,Kabupaten Lahat,,6.6,5,Bupati,"Drs. H. Purnawarman Kias, Sh",,13877,6.6,,FALSE,1,,,,
+162,2018,Kabupaten Muara Enim,,19.85,1,Bupati,"Dr. Ir. H. Syamsul Bahri, Mm",,33113,19.85,,FALSE,0,,,,
+162,2018,Kabupaten Muara Enim,,24.09,2,Bupati,H. Nurul Aman,,40192,24.09,,FALSE,1,Menang,Menang,,
+162,2018,Kabupaten Muara Enim,,20.98,3,Bupati,"Dr. Hj. Shinta Paramita Sari, Sh, M.Hum",,35005,20.98,,FALSE,1,,,,
+162,2018,Kabupaten Muara Enim,Menang,35.07,4,Bupati,"Ir. H. Ahmad Yani.,Mm",Menang,58504,35.07,Menang,FALSE,1,Menang,Menang,,
+163,2018,Kabupaten Ogan Komering Ilir,Menang,46.91,1,Bupati,"H. Iskandar, Se",Menang,169027,46.91,Menang,FALSE,0,Menang,Menang,,
+163,2018,Kabupaten Ogan Komering Ilir,,32.87,2,Bupati,"Abdiyanto, Sh., Mh",,118438,32.87,,FALSE,1,,,,
+163,2018,Kabupaten Ogan Komering Ilir,,20.23,3,Bupati,H. Azhari,,72893,20.23,,FALSE,1,,,,
+164,2018,Kabupaten Batu Bara,,17.79,1,Bupati,"H. Rm. Harry Nugroho, Se",,31147,17.79,,FALSE,0,,,,
+164,2018,Kabupaten Batu Bara,,35.1,2,Bupati,"Drs. H. Darwis, M.Si",,61457,35.1,,FALSE,1,Menang,Menang,,
+164,2018,Kabupaten Batu Bara,Menang,41.84,3,Bupati,"Ir. H. Zahir, M.Ap",Menang,73251,41.84,Menang,FALSE,1,Menang,Menang,,
+164,2018,Kabupaten Batu Bara,,5.26,4,Bupati,"Khairil Anwar, Sh",,9213,5.26,,FALSE,1,,,,
+165,2018,Kabupaten Dairi,,40.22,1,Bupati,"Depriwanto Sitohang, St, Mm",,59086,40.22,,FALSE,0,,,,
+165,2018,Kabupaten Dairi,Menang,58.82,2,Bupati,Dr. Eddy Keleng Ate Berutu,Menang,86403,58.82,Menang,FALSE,1,Menang,Menang,,
+165,2018,Kabupaten Dairi,,0.96,3,Bupati,"St. Rimso Maruli Sinaga, Sh, Mh",,1408,0.96,,FALSE,1,,,,
+166,2018,Kabupaten Deli Serdang,Menang,82.22,1,Bupati,H. Ashari Tambunan,Menang,449908,82.22,Menang,FALSE,0,Menang,Menang,,
+167,2018,Kota Padang Sidimpuan,,25.43,1,Walikota,"H. Muhammad Isnandar Nasution, S.Sos",,25104,25.43,,FALSE,0,,,,
+167,2018,Kota Padang Sidimpuan,,30.37,2,Walikota,"H. Rusydi Nasution, S.T.P., M.M",,29973,30.37,,FALSE,1,Menang,Menang,,
+167,2018,Kota Padang Sidimpuan,Menang,44.2,3,Walikota,"Irsan Efendi Nasution, Sh",Menang,43628,44.2,Menang,FALSE,1,Menang,Menang,,
+168,2018,Kabupaten Langkat,Menang,51.68,1,Bupati,Terbit Rencana Perangin Angin,Menang,248078,51.68,Menang,FALSE,0,Menang,Menang,,
+168,2018,Kabupaten Langkat,,36.38,2,Bupati,"H. Rudi Hartono Bangun Se, Map",,17465,36.38,,FALSE,1,,,,
+168,2018,Kabupaten Langkat,,11.94,3,Bupati,"Drs. H. Sulistianto, M.Si",,57336,11.94,,FALSE,1,,,,
+169,2018,Kabupaten Padang Lawas,,27.5,1,Bupati,H. Tondi Roni Tua,,32178,27.5,,FALSE,0,,,,
+169,2018,Kabupaten Padang Lawas,Menang,56.73,2,Bupati,Ali Sutan Harahap,Menang,66365,56.73,Menang,FALSE,1,Menang,Menang,,
+169,2018,Kabupaten Padang Lawas,,15.77,3,Bupati,Drs. H. Rahmad Pardamean Hasibuan,,18448,15.77,,FALSE,1,,,,
+170,2018,Kabupaten Padang Lawas Utara,Menang,80.23,1,Bupati,"Andar Amin Harahap, S.Stp, M.Si",Menang,86976,80.23,Menang,FALSE,0,Menang,Menang,,
+171,2018,Kabupaten Tapanuli Utara,Menang,46.19,1,Bupati,"Drs. NIKSON NABABAN, M.Si",Menang,69443,46.19,Menang,FALSE,0,Menang,Menang,,
+171,2018,Kabupaten Tapanuli Utara,,40.57,2,Bupati,"Dr. JONIUS TP. HUTABARAT, S.Si, M.Si",,61002,40.57,,FALSE,1,,,,
+171,2018,Kabupaten Tapanuli Utara,,13.24,3,Bupati,"CHRISTMANTO LUMBANTOBING, S.Sos",,19901,13.24,,FALSE,1,,,,
