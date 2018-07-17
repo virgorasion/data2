@@ -1,0 +1,1172 @@
+[
+  {
+    "nama_sekolah": "SMA Negeri 101",
+    "kecamatan": "Kembangan",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 814,
+    "jumlah_guru": 56,
+    "latitude": -6.220937,
+    "longitude": 106.743484,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 112",
+    "kecamatan": "Kembangan",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 783,
+    "jumlah_guru": 47,
+    "latitude": -6.182198,
+    "longitude": 106.746201,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 19",
+    "kecamatan": "Tambora",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 598,
+    "jumlah_guru": 42,
+    "latitude": -6.141806,
+    "longitude": 106.810036,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 23",
+    "kecamatan": "Grogol Petamburan",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 676,
+    "jumlah_guru": 41,
+    "latitude": -6.172499,
+    "longitude": 106.797691,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 33",
+    "kecamatan": "Cengkareng",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 747,
+    "jumlah_guru": 46,
+    "latitude": -6.144139,
+    "longitude": 106.726486,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 56",
+    "kecamatan": "Kalideres",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 683,
+    "jumlah_guru": 42,
+    "latitude": -6.098908,
+    "longitude": 106.717361,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 57",
+    "kecamatan": "Kebon Jeruk",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 638,
+    "jumlah_guru": 44,
+    "latitude": -6.152843,
+    "longitude": 106.755417,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 65",
+    "kecamatan": "Kebon Jeruk",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 607,
+    "jumlah_guru": 37,
+    "latitude": -6.19039,
+    "longitude": 106.767776,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 78",
+    "kecamatan": "Palmerah",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 1208,
+    "jumlah_guru": 65,
+    "latitude": -6.191491,
+    "longitude": 106.782722,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 84",
+    "kecamatan": "Kalideres",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 750,
+    "jumlah_guru": 50,
+    "latitude": -6.145048,
+    "longitude": 106.704605,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 85",
+    "kecamatan": "Kembangan",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 697,
+    "jumlah_guru": 42,
+    "latitude": -6.204256,
+    "longitude": 106.756889,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 94",
+    "kecamatan": "Kalideres",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 640,
+    "jumlah_guru": 39,
+    "latitude": -6.167726,
+    "longitude": 106.702301,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 95",
+    "kecamatan": "Kalideres",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 919,
+    "jumlah_guru": 49,
+    "latitude": -6.108467,
+    "longitude": 106.705292,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 96",
+    "kecamatan": "Cengkareng",
+    "kota": "jakarta barat",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 43,
+    "latitude": -6.147083,
+    "longitude": 106.739555,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 1",
+    "kecamatan": "Sawah Besar",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 854,
+    "jumlah_guru": 38,
+    "latitude": -6.164364,
+    "longitude": 106.836617,
+    "perbandinganSiswaGuru": 22
+  },
+  {
+    "nama_sekolah": "SMA Negeri 10",
+    "kecamatan": "Sawah Besar",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 513,
+    "jumlah_guru": 28,
+    "latitude": -6.135178,
+    "longitude": 106.826233,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 20",
+    "kecamatan": "Sawah Besar",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 535,
+    "jumlah_guru": 29,
+    "latitude": -6.142603,
+    "longitude": 106.831635,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 24",
+    "kecamatan": "Tanah Abang",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 497,
+    "jumlah_guru": 44,
+    "latitude": -6.195851,
+    "longitude": 106.798676,
+    "perbandinganSiswaGuru": 11
+  },
+  {
+    "nama_sekolah": "SMA Negeri 25",
+    "kecamatan": "Gambir",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 528,
+    "jumlah_guru": 33,
+    "latitude": -6.14943,
+    "longitude": 106.811035,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 27",
+    "kecamatan": "Johar Baru",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 751,
+    "jumlah_guru": 45,
+    "latitude": -6.1825,
+    "longitude": 106.861298,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 30",
+    "kecamatan": "Cempaka Putih",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 839,
+    "jumlah_guru": 54,
+    "latitude": -6.12417,
+    "longitude": 106.874786,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 35",
+    "kecamatan": "Tanah Abang",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 635,
+    "jumlah_guru": 41,
+    "latitude": -6.198582,
+    "longitude": 106.815552,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 4",
+    "kecamatan": "Gambir",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 594,
+    "jumlah_guru": 41,
+    "latitude": -6.178838,
+    "longitude": 106.832809,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 68",
+    "kecamatan": "S e n e n",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 864,
+    "jumlah_guru": 51,
+    "latitude": -6.197708,
+    "longitude": 106.850815,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 7",
+    "kecamatan": "Tanah Abang",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 655,
+    "jumlah_guru": 37,
+    "latitude": -6.166497,
+    "longitude": 106.819839,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 77",
+    "kecamatan": "Cempaka Putih",
+    "kota": "jakarta pusat",
+    "jumlah_siswa": 638,
+    "jumlah_guru": 43,
+    "latitude": -6.160353,
+    "longitude": 106.873917,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 108",
+    "kecamatan": "Pesanggrahan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 545,
+    "jumlah_guru": 37,
+    "latitude": -6.239197,
+    "longitude": 106.782593,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 109",
+    "kecamatan": "Jagakarsa",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 740,
+    "jumlah_guru": 46,
+    "latitude": -6.334408,
+    "longitude": 106.837524,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 16",
+    "kecamatan": "Palmerah",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 752,
+    "jumlah_guru": 45,
+    "latitude": -6.182881,
+    "longitude": 106.793182,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 17",
+    "kecamatan": "Taman Sari",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 692,
+    "jumlah_guru": 38,
+    "latitude": -6.138507,
+    "longitude": 106.822708,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 2",
+    "kecamatan": "Taman Sari",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 713,
+    "jumlah_guru": 39,
+    "latitude": -6.148692,
+    "longitude": 106.815796,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 26",
+    "kecamatan": "T e b e t",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 646,
+    "jumlah_guru": 36,
+    "latitude": -6.233409,
+    "longitude": 106.848518,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 28",
+    "kecamatan": "Pasar Minggu",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 42,
+    "latitude": -6.281856,
+    "longitude": 106.832741,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 29",
+    "kecamatan": "Kebayoran Lama",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 743,
+    "jumlah_guru": 42,
+    "latitude": -6.214282,
+    "longitude": 106.784256,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 3",
+    "kecamatan": "Setia Budi",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 987,
+    "jumlah_guru": 50,
+    "latitude": -6.181516,
+    "longitude": 106.797882,
+    "perbandinganSiswaGuru": 20
+  },
+  {
+    "nama_sekolah": "SMA Negeri 32",
+    "kecamatan": "Kebayoran Lama",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 846,
+    "jumlah_guru": 49,
+    "latitude": -6.214111,
+    "longitude": 106.784851,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 37",
+    "kecamatan": "T e b e t",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 743,
+    "jumlah_guru": 44,
+    "latitude": -6.231688,
+    "longitude": 106.859108,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 38",
+    "kecamatan": "Jagakarsa",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 744,
+    "jumlah_guru": 43,
+    "latitude": -6.31837,
+    "longitude": 106.834976,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 46",
+    "kecamatan": "Kebayoran Baru",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 859,
+    "jumlah_guru": 57,
+    "latitude": -6.258005,
+    "longitude": 106.794807,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 47",
+    "kecamatan": "Kebayoran Lama",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 854,
+    "jumlah_guru": 55,
+    "latitude": -6.247169,
+    "longitude": 106.773109,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 49",
+    "kecamatan": "Jagakarsa",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 638,
+    "jumlah_guru": 45,
+    "latitude": -6.324615,
+    "longitude": 106.819748,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 55",
+    "kecamatan": "Pancoran",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 845,
+    "jumlah_guru": 51,
+    "latitude": -6.247558,
+    "longitude": 106.827766,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 6",
+    "kecamatan": "Kebayoran Baru",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 946,
+    "jumlah_guru": 59,
+    "latitude": -6.217695,
+    "longitude": 106.800735,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 60",
+    "kecamatan": "Mampang Prapatan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 756,
+    "jumlah_guru": 47,
+    "latitude": -6.23749,
+    "longitude": 106.826141,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 63",
+    "kecamatan": "Pesanggrahan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 640,
+    "jumlah_guru": 36,
+    "latitude": -6.228729,
+    "longitude": 106.749008,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 66",
+    "kecamatan": "Cilandak",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 748,
+    "jumlah_guru": 49,
+    "latitude": -6.3066,
+    "longitude": 106.805,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 70",
+    "kecamatan": "Kebayoran Baru",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 1086,
+    "jumlah_guru": 63,
+    "latitude": -6.24172,
+    "longitude": 106.796951,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 74",
+    "kecamatan": "Kebayoran Lama",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 733,
+    "jumlah_guru": 39,
+    "latitude": -6.250452,
+    "longitude": 106.785881,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 79",
+    "kecamatan": "Setia Budi",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 653,
+    "jumlah_guru": 38,
+    "latitude": -6.209162,
+    "longitude": 106.838554,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 8",
+    "kecamatan": "T e b e t",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 1041,
+    "jumlah_guru": 63,
+    "latitude": -6.217647,
+    "longitude": 106.8592,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 82",
+    "kecamatan": "Kebayoran Baru",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 627,
+    "jumlah_guru": 41,
+    "latitude": -6.220084,
+    "longitude": 106.802162,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 86",
+    "kecamatan": "Pesanggrahan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 640,
+    "jumlah_guru": 50,
+    "latitude": -6.262228,
+    "longitude": 106.761284,
+    "perbandinganSiswaGuru": 13
+  },
+  {
+    "nama_sekolah": "SMA Negeri 87",
+    "kecamatan": "Pesanggrahan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 678,
+    "jumlah_guru": 46,
+    "latitude": -6.286452,
+    "longitude": 106.7612,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 90",
+    "kecamatan": "Pesanggrahan",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 965,
+    "jumlah_guru": 70,
+    "latitude": -6.239847,
+    "longitude": 106.75193,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 97",
+    "kecamatan": "Jagakarsa",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 947,
+    "jumlah_guru": 64,
+    "latitude": -6.323488,
+    "longitude": 106.804169,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri Ragunan Jakarta",
+    "kecamatan": "Pasar Minggu",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 332,
+    "jumlah_guru": 20,
+    "latitude": -6.292435,
+    "longitude": 106.828598,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 100",
+    "kecamatan": "Jatinegara",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 642,
+    "jumlah_guru": 51,
+    "latitude": -6.229331,
+    "longitude": 106.882317,
+    "perbandinganSiswaGuru": 13
+  },
+  {
+    "nama_sekolah": "SMA Negeri 102",
+    "kecamatan": "Cakung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 45,
+    "latitude": -6.167233,
+    "longitude": 106.950645,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 103",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 716,
+    "jumlah_guru": 54,
+    "latitude": -6.212234,
+    "longitude": 106.938118,
+    "perbandinganSiswaGuru": 13
+  },
+  {
+    "nama_sekolah": "SMA Negeri 104",
+    "kecamatan": "Pasar Rebo",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 845,
+    "jumlah_guru": 52,
+    "latitude": -6.3006,
+    "longitude": 106.862747,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 105",
+    "kecamatan": "Ciracas",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 746,
+    "jumlah_guru": 49,
+    "latitude": -6.319393,
+    "longitude": 106.883186,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 106",
+    "kecamatan": "Pasar Rebo",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 747,
+    "jumlah_guru": 43,
+    "latitude": -6.34635,
+    "longitude": 106.860092,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 107",
+    "kecamatan": "Cakung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 713,
+    "jumlah_guru": 48,
+    "latitude": -6.205728,
+    "longitude": 106.925209,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 11",
+    "kecamatan": "Cakung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 643,
+    "jumlah_guru": 43,
+    "latitude": -6.193462,
+    "longitude": 106.950821,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 113",
+    "kecamatan": "Cipayung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 1036,
+    "jumlah_guru": 60,
+    "latitude": -6.29271,
+    "longitude": 106.903008,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 12",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 647,
+    "jumlah_guru": 39,
+    "latitude": -6.214586,
+    "longitude": 106.897964,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 14",
+    "kecamatan": "Kramat Jati",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 754,
+    "jumlah_guru": 52,
+    "latitude": -6.231347,
+    "longitude": 106.864594,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 21",
+    "kecamatan": "Pulo Gadung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 781,
+    "jumlah_guru": 52,
+    "latitude": -6.162401,
+    "longitude": 106.889313,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 22",
+    "kecamatan": "Matraman",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 892,
+    "jumlah_guru": 47,
+    "latitude": -6.185611,
+    "longitude": 106.870773,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 31",
+    "kecamatan": "Matraman",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 1107,
+    "jumlah_guru": 57,
+    "latitude": -6.201973,
+    "longitude": 106.864441,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 36",
+    "kecamatan": "Pulo Gadung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 872,
+    "jumlah_guru": 65,
+    "latitude": -6.199171,
+    "longitude": 106.899094,
+    "perbandinganSiswaGuru": 13
+  },
+  {
+    "nama_sekolah": "SMA Negeri 39",
+    "kecamatan": "Pasar Rebo",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 1072,
+    "jumlah_guru": 76,
+    "latitude": -6.315981,
+    "longitude": 106.848534,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 42",
+    "kecamatan": "Makasar",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 855,
+    "jumlah_guru": 53,
+    "latitude": -6.25619,
+    "longitude": 106.892761,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 43",
+    "kecamatan": "Setia Budi",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 629,
+    "jumlah_guru": 40,
+    "latitude": -6.216263,
+    "longitude": 106.841652,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 44",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 751,
+    "jumlah_guru": 42,
+    "latitude": -6.215306,
+    "longitude": 106.926987,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 48",
+    "kecamatan": "Makasar",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 859,
+    "jumlah_guru": 58,
+    "latitude": -6.286892,
+    "longitude": 106.883018,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 50",
+    "kecamatan": "Jatinegara",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 742,
+    "jumlah_guru": 40,
+    "latitude": -6.205749,
+    "longitude": 106.906731,
+    "perbandinganSiswaGuru": 19
+  },
+  {
+    "nama_sekolah": "SMA Negeri 51",
+    "kecamatan": "Kramat Jati",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 845,
+    "jumlah_guru": 55,
+    "latitude": -6.267011,
+    "longitude": 106.863129,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 53",
+    "kecamatan": "Jatinegara",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 746,
+    "jumlah_guru": 46,
+    "latitude": -6.2209,
+    "longitude": 106.883194,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 54",
+    "kecamatan": "Jatinegara",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 855,
+    "jumlah_guru": 51,
+    "latitude": -6.220532,
+    "longitude": 106.870834,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 58",
+    "kecamatan": "Ciracas",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 855,
+    "jumlah_guru": 60,
+    "latitude": -6.277761,
+    "longitude": 106.87146,
+    "perbandinganSiswaGuru": 14
+  },
+  {
+    "nama_sekolah": "SMA Negeri 59",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 748,
+    "jumlah_guru": 48,
+    "latitude": -6.216234,
+    "longitude": 106.908142,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 61",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 648,
+    "jumlah_guru": 36,
+    "latitude": -6.238375,
+    "longitude": 106.896263,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 62",
+    "kecamatan": "Kramat Jati",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 647,
+    "jumlah_guru": 40,
+    "latitude": -6.257967,
+    "longitude": 106.865967,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 64",
+    "kecamatan": "Cipayung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 63,
+    "latitude": -6.308474,
+    "longitude": 106.889999,
+    "perbandinganSiswaGuru": 12
+  },
+  {
+    "nama_sekolah": "SMA Negeri 67",
+    "kecamatan": "Makasar",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 859,
+    "jumlah_guru": 59,
+    "latitude": -6.250459,
+    "longitude": 106.882446,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 71",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 851,
+    "jumlah_guru": 54,
+    "latitude": -6.221108,
+    "longitude": 106.912659,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 76",
+    "kecamatan": "Cakung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 642,
+    "jumlah_guru": 41,
+    "latitude": -6.140555,
+    "longitude": 106.933258,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 81",
+    "kecamatan": "Makasar",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 859,
+    "jumlah_guru": 59,
+    "latitude": -6.250331,
+    "longitude": 106.917648,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 88",
+    "kecamatan": "Pasar Rebo",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 574,
+    "jumlah_guru": 46,
+    "latitude": -6.3277,
+    "longitude": 106.846878,
+    "perbandinganSiswaGuru": 12
+  },
+  {
+    "nama_sekolah": "SMA Negeri 89",
+    "kecamatan": "Cakung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 713,
+    "jumlah_guru": 43,
+    "latitude": -6.161718,
+    "longitude": 106.944931,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 9",
+    "kecamatan": "Makasar",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 48,
+    "latitude": -6.258708,
+    "longitude": 106.881409,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 91",
+    "kecamatan": "Duren Sawit",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 668,
+    "jumlah_guru": 51,
+    "latitude": -6.238631,
+    "longitude": 106.932434,
+    "perbandinganSiswaGuru": 13
+  },
+  {
+    "nama_sekolah": "SMA Negeri 93",
+    "kecamatan": "Kramat Jati",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 750,
+    "jumlah_guru": 43,
+    "latitude": -6.292188,
+    "longitude": 106.867332,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 98",
+    "kecamatan": "Pasar Rebo",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 992,
+    "jumlah_guru": 60,
+    "latitude": -6.3324,
+    "longitude": 106.8573,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 99",
+    "kecamatan": "Ciracas",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 1039,
+    "jumlah_guru": 62,
+    "latitude": -6.347387,
+    "longitude": 106.873474,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri Unggulan M. H. Thamrin",
+    "kecamatan": "Cipayung",
+    "kota": "jakarta timur",
+    "jumlah_siswa": 229,
+    "jumlah_guru": 34,
+    "latitude": -6.315796,
+    "longitude": 106.901711,
+    "perbandinganSiswaGuru": 7
+  },
+  {
+    "nama_sekolah": "SMA Negeri 110",
+    "kecamatan": "K o j a",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 851,
+    "jumlah_guru": 52,
+    "latitude": -6.133595,
+    "longitude": 106.904053,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 111",
+    "kecamatan": "Penjaringan",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 532,
+    "jumlah_guru": 35,
+    "latitude": -6.127583,
+    "longitude": 106.793236,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 114",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 522,
+    "jumlah_guru": 30,
+    "latitude": -6.088325,
+    "longitude": 106.913399,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 115",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 558,
+    "jumlah_guru": 31,
+    "latitude": -6.150966,
+    "longitude": 106.958832,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 13",
+    "kecamatan": "K o j a",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 935,
+    "jumlah_guru": 52,
+    "latitude": -6.100956,
+    "longitude": 106.897552,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 15",
+    "kecamatan": "Tanjung Priok",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 671,
+    "jumlah_guru": 38,
+    "latitude": -6.120073,
+    "longitude": 106.863907,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 18",
+    "kecamatan": "Tanjung Priok",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 745,
+    "jumlah_guru": 44,
+    "latitude": -6.099591,
+    "longitude": 106.883133,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 40",
+    "kecamatan": "Pademangan",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 641,
+    "jumlah_guru": 36,
+    "latitude": -6.12849,
+    "longitude": 106.840858,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 41",
+    "kecamatan": "Tanjung Priok",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 635,
+    "jumlah_guru": 35,
+    "latitude": -6.112307,
+    "longitude": 106.8731,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 45",
+    "kecamatan": "Kelapa Gading",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 855,
+    "jumlah_guru": 51,
+    "latitude": -6.167692,
+    "longitude": 106.904671,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 5",
+    "kecamatan": "Kemayoran",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 851,
+    "jumlah_guru": 47,
+    "latitude": -6.158845,
+    "longitude": 106.866791,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 52",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 852,
+    "jumlah_guru": 48,
+    "latitude": -6.122282,
+    "longitude": 106.923836,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 72",
+    "kecamatan": "Kelapa Gading",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 755,
+    "jumlah_guru": 47,
+    "latitude": -6.165924,
+    "longitude": 106.882843,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 73",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 674,
+    "jumlah_guru": 42,
+    "latitude": -6.111403,
+    "longitude": 106.92453,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 75",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 735,
+    "jumlah_guru": 46,
+    "latitude": -6.152633,
+    "longitude": 106.926872,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 80",
+    "kecamatan": "Tanjung Priok",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 788,
+    "jumlah_guru": 44,
+    "latitude": -6.227593,
+    "longitude": 106.931595,
+    "perbandinganSiswaGuru": 18
+  },
+  {
+    "nama_sekolah": "SMA Negeri 83",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 629,
+    "jumlah_guru": 40,
+    "latitude": -6.142944,
+    "longitude": 106.927132,
+    "perbandinganSiswaGuru": 16
+  },
+  {
+    "nama_sekolah": "SMA Negeri 92",
+    "kecamatan": "Cilincing",
+    "kota": "jakarta utara",
+    "jumlah_siswa": 817,
+    "jumlah_guru": 48,
+    "latitude": -6.099591,
+    "longitude": 106.926392,
+    "perbandinganSiswaGuru": 17
+  },
+  {
+    "nama_sekolah": "SMA Negeri 34",
+    "kecamatan": "Cilandak",
+    "kota": "jakarta selatan",
+    "jumlah_siswa": 857,
+    "jumlah_guru": 56,
+    "latitude": -6.3134,
+    "longitude": 106.7948,
+    "perbandinganSiswaGuru": 15
+  },
+  {
+    "nama_sekolah": "SMA Negeri 69 Pulau Pramuka",
+    "kecamatan": "Kepulauan Seribu Utara",
+    "kota": "kepualauan seribu",
+    "jumlah_siswa": 492,
+    "jumlah_guru": 30,
+    "latitude": -6.112904,
+    "longitude": 106.745514,
+    "perbandinganSiswaGuru": 16
+  }
+]
