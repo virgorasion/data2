@@ -1,0 +1,118 @@
+nama_sekolah,kecamatan,kota,jumlah_siswa,jumlah_guru,latitude,longitude,perbandinganSiswaGuru
+SMA Negeri 101,Kembangan,jakarta barat ,814,56,-6.220937,106.743484,15
+SMA Negeri 112,Kembangan,jakarta barat ,783,47,-6.182198,106.746201,17
+SMA Negeri 19,Tambora,jakarta barat ,598,42,-6.141806,106.810036,14
+SMA Negeri 23,Grogol Petamburan,jakarta barat ,676,41,-6.172499,106.797691,16
+SMA Negeri 33,Cengkareng,jakarta barat ,747,46,-6.144139,106.726486,16
+SMA Negeri 56,Kalideres,jakarta barat ,683,42,-6.098908,106.717361,16
+SMA Negeri 57,Kebon Jeruk,jakarta barat ,638,44,-6.152843,106.755417,15
+SMA Negeri 65,Kebon Jeruk,jakarta barat ,607,37,-6.19039,106.767776,16
+SMA Negeri 78,Palmerah,jakarta barat ,1208,65,-6.191491,106.782722,19
+SMA Negeri 84,Kalideres,jakarta barat ,750,50,-6.145048,106.704605,15
+SMA Negeri 85,Kembangan,jakarta barat ,697,42,-6.204256,106.756889,17
+SMA Negeri 94,Kalideres,jakarta barat ,640,39,-6.167726,106.702301,16
+SMA Negeri 95,Kalideres,jakarta barat ,919,49,-6.108467,106.705292,19
+SMA Negeri 96,Cengkareng,jakarta barat ,745,43,-6.147083,106.739555,17
+SMA Negeri 1,Sawah Besar,jakarta pusat,854,38,-6.164364,106.836617,22
+SMA Negeri 10,Sawah Besar,jakarta pusat,513,28,-6.135178,106.826233,18
+SMA Negeri 20,Sawah Besar,jakarta pusat,535,29,-6.142603,106.831635,18
+SMA Negeri 24,Tanah Abang,jakarta pusat,497,44,-6.195851,106.798676,11
+SMA Negeri 25,Gambir,jakarta pusat,528,33,-6.14943,106.811035,16
+SMA Negeri 27,Johar Baru,jakarta pusat,751,45,-6.1825,106.861298,17
+SMA Negeri 30,Cempaka Putih,jakarta pusat,839,54,-6.12417,106.874786,16
+SMA Negeri 35,Tanah Abang,jakarta pusat,635,41,-6.198582,106.815552,15
+SMA Negeri 4,Gambir,jakarta pusat,594,41,-6.178838,106.832809,14
+SMA Negeri 68,S e n e n,jakarta pusat,864,51,-6.197708,106.850815,17
+SMA Negeri 7,Tanah Abang,jakarta pusat,655,37,-6.166497,106.819839,18
+SMA Negeri 77,Cempaka Putih,jakarta pusat,638,43,-6.160353,106.873917,15
+SMA Negeri 108,Pesanggrahan,jakarta selatan,545,37,-6.239197,106.782593,15
+SMA Negeri 109,Jagakarsa,jakarta selatan,740,46,-6.334408,106.837524,16
+SMA Negeri 16,Palmerah,jakarta selatan,752,45,-6.182881,106.793182,17
+SMA Negeri 17,Taman Sari,jakarta selatan,692,38,-6.138507,106.822708,18
+SMA Negeri 2,Taman Sari,jakarta selatan,713,39,-6.148692,106.815796,18
+SMA Negeri 26,T e b e t,jakarta selatan,646,36,-6.233409,106.848518,18
+SMA Negeri 28,Pasar Minggu,jakarta selatan,745,42,-6.281856,106.832741,18
+SMA Negeri 29,Kebayoran Lama,jakarta selatan,743,42,-6.214282,106.784256,18
+SMA Negeri 3,Setia Budi,jakarta selatan,987,50,-6.181516,106.797882,20
+SMA Negeri 32,Kebayoran Lama,jakarta selatan,846,49,-6.214111,106.784851,17
+SMA Negeri 37,T e b e t,jakarta selatan,743,44,-6.231688,106.859108,17
+SMA Negeri 38,Jagakarsa,jakarta selatan,744,43,-6.31837,106.834976,17
+SMA Negeri 46,Kebayoran Baru,jakarta selatan,859,57,-6.258005,106.794807,15
+SMA Negeri 47,Kebayoran Lama,jakarta selatan,854,55,-6.247169,106.773109,16
+SMA Negeri 49,Jagakarsa,jakarta selatan,638,45,-6.324615,106.819748,14
+SMA Negeri 55,Pancoran,jakarta selatan,845,51,-6.247558,106.827766,17
+SMA Negeri 6,Kebayoran Baru,jakarta selatan,946,59,-6.217695,106.800735,16
+SMA Negeri 60,Mampang Prapatan,jakarta selatan,756,47,-6.23749,106.826141,16
+SMA Negeri 63,Pesanggrahan,jakarta selatan,640,36,-6.228729,106.749008,18
+SMA Negeri 66,Cilandak,jakarta selatan,748,49,-6.3066,106.805,15
+SMA Negeri 70,Kebayoran Baru,jakarta selatan,1086,63,-6.24172,106.796951,17
+SMA Negeri 74,Kebayoran Lama,jakarta selatan,733,39,-6.250452,106.785881,19
+SMA Negeri 79,Setia Budi,jakarta selatan,653,38,-6.209162,106.838554,17
+SMA Negeri 8,T e b e t,jakarta selatan,1041,63,-6.217647,106.8592,17
+SMA Negeri 82,Kebayoran Baru,jakarta selatan,627,41,-6.220084,106.802162,15
+SMA Negeri 86,Pesanggrahan,jakarta selatan,640,50,-6.262228,106.761284,13
+SMA Negeri 87,Pesanggrahan,jakarta selatan,678,46,-6.286452,106.7612,15
+SMA Negeri 90,Pesanggrahan,jakarta selatan,965,70,-6.239847,106.75193,14
+SMA Negeri 97,Jagakarsa,jakarta selatan,947,64,-6.323488,106.804169,15
+SMA Negeri Ragunan Jakarta,Pasar Minggu,jakarta selatan,332,20,-6.292435,106.828598,17
+SMA Negeri 100,Jatinegara,jakarta timur,642,51,-6.229331,106.882317,13
+SMA Negeri 102,Cakung,jakarta timur,745,45,-6.167233,106.950645,17
+SMA Negeri 103,Duren Sawit,jakarta timur,716,54,-6.212234,106.938118,13
+SMA Negeri 104,Pasar Rebo,jakarta timur,845,52,-6.3006,106.862747,16
+SMA Negeri 105,Ciracas,jakarta timur,746,49,-6.319393,106.883186,15
+SMA Negeri 106,Pasar Rebo,jakarta timur,747,43,-6.34635,106.860092,17
+SMA Negeri 107,Cakung,jakarta timur,713,48,-6.205728,106.925209,15
+SMA Negeri 11,Cakung,jakarta timur,643,43,-6.193462,106.950821,15
+SMA Negeri 113,Cipayung,jakarta timur,1036,60,-6.29271,106.903008,17
+SMA Negeri 12,Duren Sawit,jakarta timur,647,39,-6.214586,106.897964,17
+SMA Negeri 14,Kramat Jati,jakarta timur,754,52,-6.231347,106.864594,15
+SMA Negeri 21,Pulo Gadung,jakarta timur,781,52,-6.162401,106.889313,15
+SMA Negeri 22,Matraman,jakarta timur,892,47,-6.185611,106.870773,19
+SMA Negeri 31,Matraman,jakarta timur,1107,57,-6.201973,106.864441,19
+SMA Negeri 36,Pulo Gadung,jakarta timur,872,65,-6.199171,106.899094,13
+SMA Negeri 39,Pasar Rebo,jakarta timur,1072,76,-6.315981,106.848534,14
+SMA Negeri 42,Makasar,jakarta timur,855,53,-6.25619,106.892761,16
+SMA Negeri 43,Setia Budi,jakarta timur,629,40,-6.216263,106.841652,16
+SMA Negeri 44,Duren Sawit,jakarta timur,751,42,-6.215306,106.926987,18
+SMA Negeri 48,Makasar,jakarta timur,859,58,-6.286892,106.883018,15
+SMA Negeri 50,Jatinegara,jakarta timur,742,40,-6.205749,106.906731,19
+SMA Negeri 51,Kramat Jati,jakarta timur,845,55,-6.267011,106.863129,15
+SMA Negeri 53,Jatinegara,jakarta timur,746,46,-6.2209,106.883194,16
+SMA Negeri 54,Jatinegara,jakarta timur,855,51,-6.220532,106.870834,17
+SMA Negeri 58,Ciracas,jakarta timur,855,60,-6.277761,106.87146,14
+SMA Negeri 59,Duren Sawit,jakarta timur,748,48,-6.216234,106.908142,16
+SMA Negeri 61,Duren Sawit,jakarta timur,648,36,-6.238375,106.896263,18
+SMA Negeri 62,Kramat Jati,jakarta timur,647,40,-6.257967,106.865967,16
+SMA Negeri 64,Cipayung,jakarta timur,745,63,-6.308474,106.889999,12
+SMA Negeri 67,Makasar,jakarta timur,859,59,-6.250459,106.882446,15
+SMA Negeri 71,Duren Sawit,jakarta timur,851,54,-6.221108,106.912659,16
+SMA Negeri 76,Cakung,jakarta timur,642,41,-6.140555,106.933258,16
+SMA Negeri 81,Makasar,jakarta timur,859,59,-6.250331,106.917648,15
+SMA Negeri 88,Pasar Rebo,jakarta timur,574,46,-6.3277,106.846878,12
+SMA Negeri 89,Cakung,jakarta timur,713,43,-6.161718,106.944931,17
+SMA Negeri 9,Makasar,jakarta timur,745,48,-6.258708,106.881409,16
+SMA Negeri 91,Duren Sawit,jakarta timur,668,51,-6.238631,106.932434,13
+SMA Negeri 93,Kramat Jati,jakarta timur,750,43,-6.292188,106.867332,17
+SMA Negeri 98,Pasar Rebo,jakarta timur,992,60,-6.3324,106.8573,17
+SMA Negeri 99,Ciracas,jakarta timur,1039,62,-6.347387,106.873474,17
+SMA Negeri Unggulan M. H. Thamrin,Cipayung,jakarta timur,229,34,-6.315796,106.901711,7
+SMA Negeri 110,K o j a,jakarta utara,851,52,-6.133595,106.904053,16
+SMA Negeri 111,Penjaringan,jakarta utara,532,35,-6.127583,106.793236,15
+SMA Negeri 114,Cilincing,jakarta utara,522,30,-6.088325,106.913399,17
+SMA Negeri 115,Cilincing,jakarta utara,558,31,-6.150966,106.958832,18
+SMA Negeri 13,K o j a,jakarta utara,935,52,-6.100956,106.897552,18
+SMA Negeri 15,Tanjung Priok,jakarta utara,671,38,-6.120073,106.863907,18
+SMA Negeri 18,Tanjung Priok,jakarta utara,745,44,-6.099591,106.883133,17
+SMA Negeri 40,Pademangan,jakarta utara,641,36,-6.12849,106.840858,18
+SMA Negeri 41,Tanjung Priok,jakarta utara,635,35,-6.112307,106.8731,18
+SMA Negeri 45,Kelapa Gading,jakarta utara,855,51,-6.167692,106.904671,17
+SMA Negeri 5,Kemayoran,jakarta utara,851,47,-6.158845,106.866791,18
+SMA Negeri 52,Cilincing,jakarta utara,852,48,-6.122282,106.923836,18
+SMA Negeri 72,Kelapa Gading,jakarta utara,755,47,-6.165924,106.882843,16
+SMA Negeri 73,Cilincing,jakarta utara,674,42,-6.111403,106.92453,16
+SMA Negeri 75,Cilincing,jakarta utara,735,46,-6.152633,106.926872,16
+SMA Negeri 80,Tanjung Priok,jakarta utara,788,44,-6.227593,106.931595,18
+SMA Negeri 83,Cilincing,jakarta utara,629,40,-6.142944,106.927132,16
+SMA Negeri 92,Cilincing,jakarta utara,817,48,-6.099591,106.926392,17
+SMA Negeri 34,Cilandak,jakarta selatan,857,56,-6.3134,106.7948,15
+SMA Negeri 69 Pulau Pramuka,Kepulauan Seribu Utara,kepualauan seribu,492,30,-6.112904,106.745514,16
