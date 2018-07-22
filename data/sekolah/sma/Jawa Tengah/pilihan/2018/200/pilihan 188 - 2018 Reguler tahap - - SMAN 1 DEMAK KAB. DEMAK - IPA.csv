@@ -1,0 +1,933 @@
+Provinsi,Tahun,Jalur,Tahap,Sekolah,Jurusan,No Daftar,Nama,Jalur Masuk,Pilihan ke,SMA Pilihan,Jurusan Pilihan
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900489,Zahra Salsabila Jessedanta Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900489,Zahra Salsabila Jessedanta Putri ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900533,Ali Ja'Far Hasan Ngali ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900480,Ryan Haksa Ibrahim ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900480,Ryan Haksa Ibrahim ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900493,Zahra Salsabilla ,Dalam Zona II,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900493,Zahra Salsabilla ,Dalam Zona II,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900326,Putri Alfishky ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900326,Putri Alfishky ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900326,Putri Alfishky ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900326,Putri Alfishky ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900150,Prisilia Diah Puspita ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900150,Prisilia Diah Puspita ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900478,Mohamad Izudin Fikri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900487,Maftukhatun Nashikhah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900487,Maftukhatun Nashikhah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900056,Teguh Deni Pranoto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900056,Teguh Deni Pranoto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900359,Yusi Muhammad Sodrik ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900359,Yusi Muhammad Sodrik ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900359,Yusi Muhammad Sodrik ,Dalam Zona I,Pilihan Ke-3,SMAN 1 MIJEN KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900257,Ika Nura Yusufa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900257,Ika Nura Yusufa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900437,Siti Murdaningsih ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900437,Siti Murdaningsih ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900289,Malika Sofiana Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900436,Rofik ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900436,Rofik ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900393,Mohammad Dicky Faris Saputra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900384,Aliefya Siwi Handayani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900072,Khayimas Atha Chisbaini ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900072,Khayimas Atha Chisbaini ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900146,Asmaul Jauza ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900146,Asmaul Jauza ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900433,Ni'Amil Muttaqin ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900433,Ni'Amil Muttaqin ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900433,Ni'Amil Muttaqin ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900433,Ni'Amil Muttaqin ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900435,Eka Putri Falentina ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900435,Eka Putri Falentina ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900012,Fikri Aida Fitriyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900012,Fikri Aida Fitriyah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900012,Fikri Aida Fitriyah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900547,Tri Eri Arto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900547,Tri Eri Arto ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900547,Tri Eri Arto ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900547,Tri Eri Arto ,Dalam Zona I,Pilihan Ke-4,SMAN 1 MIJEN KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900380,Wulan Tri Nuraini ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900380,Wulan Tri Nuraini ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900380,Wulan Tri Nuraini ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900495,Yulia Widiharjanti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900495,Yulia Widiharjanti ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900083,Ayu Wardani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900083,Ayu Wardani ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900083,Ayu Wardani ,Dalam Zona I,Pilihan Ke-3,SMAN 1 MIJEN KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900229,Raga Bayu Sejati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900229,Raga Bayu Sejati ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900142,Natasya Arlinda Putri Xista ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900142,Natasya Arlinda Putri Xista ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900523,Risalatul Muthoharoh ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900523,Risalatul Muthoharoh ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900523,Risalatul Muthoharoh ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900523,Risalatul Muthoharoh ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900424,Muhammad Arif Kurniawan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900424,Muhammad Arif Kurniawan ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900424,Muhammad Arif Kurniawan ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900424,Muhammad Arif Kurniawan ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900180,Nandya Putri Ayu Ningtyas ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900180,Nandya Putri Ayu Ningtyas ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900180,Nandya Putri Ayu Ningtyas ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900180,Nandya Putri Ayu Ningtyas ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900203,Dilean Zeva Balistyadhana ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900203,Dilean Zeva Balistyadhana ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900203,Dilean Zeva Balistyadhana ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900203,Dilean Zeva Balistyadhana ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900438,Nova Amelia Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900438,Nova Amelia Putri ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900027,Rizki Dwi Ardianto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900027,Rizki Dwi Ardianto ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900027,Rizki Dwi Ardianto ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900312,Luluk Hidayatun Nasikhah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900312,Luluk Hidayatun Nasikhah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900312,Luluk Hidayatun Nasikhah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900300,Elisa Novia Ananta ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900300,Elisa Novia Ananta ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900300,Elisa Novia Ananta ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900276,Cindy Hanna Pratiwi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900276,Cindy Hanna Pratiwi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900276,Cindy Hanna Pratiwi ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900261,Amira  Hasna Mufida ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900261,Amira  Hasna Mufida ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900510,Dinda Sugiyanti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900510,Dinda Sugiyanti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900510,Dinda Sugiyanti ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900510,Dinda Sugiyanti ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900571,Any Saffana Ithri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900571,Any Saffana Ithri ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900571,Any Saffana Ithri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900415,Yos Rafif Rudi Langga ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900415,Yos Rafif Rudi Langga ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900415,Yos Rafif Rudi Langga ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900431,Alifia Ardhani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900431,Alifia Ardhani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900431,Alifia Ardhani ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900431,Alifia Ardhani ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMPET KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900191,Muhammad Satria Taufiqi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900191,Muhammad Satria Taufiqi ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900191,Muhammad Satria Taufiqi ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900191,Muhammad Satria Taufiqi ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900332,Hakam Yustisiadi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900332,Hakam Yustisiadi ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900286,Nur Afifatun Laila ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900286,Nur Afifatun Laila ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900286,Nur Afifatun Laila ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900345,Wahyu Prastiya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900394,Inayah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900394,Inayah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900333,Ilham Purnomo Aji ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900333,Ilham Purnomo Aji ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900333,Ilham Purnomo Aji ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900333,Ilham Purnomo Aji ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900239,Shofkha Ulaya Najkha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900239,Shofkha Ulaya Najkha ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900239,Shofkha Ulaya Najkha ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900239,Shofkha Ulaya Najkha ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900216,Muhammad Arif Triyantoro ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900216,Muhammad Arif Triyantoro ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900216,Muhammad Arif Triyantoro ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900216,Muhammad Arif Triyantoro ,Dalam Zona I,Pilihan Ke-4,SMAN 14 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900149,Alya Eka Wardianingrum ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900149,Alya Eka Wardianingrum ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900339,Muhammad Sokhibul Rizky ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900339,Muhammad Sokhibul Rizky ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900544,Nur Irham Kholid ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900544,Nur Irham Kholid ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900017,Devita Buana Tanjung ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900017,Devita Buana Tanjung ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900017,Devita Buana Tanjung ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900017,Devita Buana Tanjung ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900317,Bagus Al Qohar ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900317,Bagus Al Qohar ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900254,Aresha Hadiyannaufal ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900254,Aresha Hadiyannaufal ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900254,Aresha Hadiyannaufal ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900491,Anisa Rizqi Septiani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900491,Anisa Rizqi Septiani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900491,Anisa Rizqi Septiani ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900392,Agustin Nur Agni Hardian ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900392,Agustin Nur Agni Hardian ,Dalam Zona I,Pilihan Ke-2,SMAN 3 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900392,Agustin Nur Agni Hardian ,Dalam Zona I,Pilihan Ke-3,SMAN 5 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900392,Agustin Nur Agni Hardian ,Dalam Zona I,Pilihan Ke-4,SMAN 6 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900227,Sayyidatul Munnah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900227,Sayyidatul Munnah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900227,Sayyidatul Munnah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900227,Sayyidatul Munnah ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900386,Aulina Rahma Maulidya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900386,Aulina Rahma Maulidya ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900284,Dhia Ul Faruq Shafarian ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900284,Dhia Ul Faruq Shafarian ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900387,Nabilah Arifatuzzahro' ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900387,Nabilah Arifatuzzahro' ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900387,Nabilah Arifatuzzahro' ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900306,Dimas Maulana Adhi Nugraha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900306,Dimas Maulana Adhi Nugraha ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900306,Dimas Maulana Adhi Nugraha ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900306,Dimas Maulana Adhi Nugraha ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900423,Nafi' Andia Najmal Huda ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900423,Nafi' Andia Najmal Huda ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900177,Maulida Zahra Qutratu'Ain ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900177,Maulida Zahra Qutratu'Ain ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900177,Maulida Zahra Qutratu'Ain ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900177,Maulida Zahra Qutratu'Ain ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900320,Naila Karima Shofwa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900320,Naila Karima Shofwa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900320,Naila Karima Shofwa ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900543,Bisyifa Sinatriya Robbiyardho ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900543,Bisyifa Sinatriya Robbiyardho ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900543,Bisyifa Sinatriya Robbiyardho ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900543,Bisyifa Sinatriya Robbiyardho ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900085,Rahma Nur Sa'Adah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900085,Rahma Nur Sa'Adah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900085,Rahma Nur Sa'Adah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900085,Rahma Nur Sa'Adah ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900529,Amarullah Cafu Prabowo ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900529,Amarullah Cafu Prabowo ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900529,Amarullah Cafu Prabowo ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900529,Amarullah Cafu Prabowo ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900496,Novita Kumalasari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900496,Novita Kumalasari ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900496,Novita Kumalasari ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900383,Nanda Roseshynta Anisa Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900018,Malik Al Rasyidi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900018,Malik Al Rasyidi ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900512,Syafira Ashna Putri Nuha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900512,Syafira Ashna Putri Nuha ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900036,Dwi Octaviani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900036,Dwi Octaviani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900256,Fara Khoirun Nisa' ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900256,Fara Khoirun Nisa' ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900469,Tiara Aprilia Rizkya Justitian ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900469,Tiara Aprilia Rizkya Justitian ,Dalam Zona I,Pilihan Ke-2,SMAN 1 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900469,Tiara Aprilia Rizkya Justitian ,Dalam Zona I,Pilihan Ke-3,SMAN 1 BAE KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900469,Tiara Aprilia Rizkya Justitian ,Dalam Zona I,Pilihan Ke-4,SMAN 2 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900055,Shafa Nur Novitasari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900428,Nasya Permatasari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900428,Nasya Permatasari ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900243,Azriel Arya Adhinata ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900243,Azriel Arya Adhinata ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900237,Habib Yudha Pratama ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900237,Habib Yudha Pratama ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900237,Habib Yudha Pratama ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900014,Fatkhul Khakim Wijaya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900553,Arisaskia Mahardika Dewi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900553,Arisaskia Mahardika Dewi ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900553,Arisaskia Mahardika Dewi ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900553,Arisaskia Mahardika Dewi ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900173,Af'Idatul Ulya Fauziyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900173,Af'Idatul Ulya Fauziyah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900479,Ammar Farhan Taufiqi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900479,Ammar Farhan Taufiqi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900479,Ammar Farhan Taufiqi ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900262,Dea Adwitiya Daffa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900262,Dea Adwitiya Daffa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900262,Dea Adwitiya Daffa ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900262,Dea Adwitiya Daffa ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900422,Rakhmawati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900422,Rakhmawati ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900236,Dewi Husnul Fatimah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900236,Dewi Husnul Fatimah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900236,Dewi Husnul Fatimah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900528,Sonia Darojatul Aliyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900528,Sonia Darojatul Aliyah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900293,Ramadhani Satrianto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900293,Ramadhani Satrianto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900379,Cyntya Wahyu Muliarti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900379,Cyntya Wahyu Muliarti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900379,Cyntya Wahyu Muliarti ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900143,Aprilyanto Setiyawan Siburian ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900143,Aprilyanto Setiyawan Siburian ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900143,Aprilyanto Setiyawan Siburian ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900143,Aprilyanto Setiyawan Siburian ,Dalam Zona I,Pilihan Ke-4,SMAN 3 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900398,Ulin Nuha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900398,Ulin Nuha ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900079,Dian Ayu Rahmawati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900079,Dian Ayu Rahmawati ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900281,Annisa Auliya Handinni ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900281,Annisa Auliya Handinni ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900063,Ilya Ilma Nur Nazilah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900063,Ilya Ilma Nur Nazilah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900063,Ilya Ilma Nur Nazilah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900063,Ilya Ilma Nur Nazilah ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900364,Muhamad Rijal Alfajri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900364,Muhamad Rijal Alfajri ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900364,Muhamad Rijal Alfajri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900364,Muhamad Rijal Alfajri ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900141,Wahid Sandy Pujo Dzulhijayanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900141,Wahid Sandy Pujo Dzulhijayanto ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900246,Agus Haryo Bintoro ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900389,Daffa Ra'If Ridhodin ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900389,Daffa Ra'If Ridhodin ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900389,Daffa Ra'If Ridhodin ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900357,Muhammad Burhanul Kharir ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900357,Muhammad Burhanul Kharir ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900008,Muhammad Iqbal Prawiratama ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900008,Muhammad Iqbal Prawiratama ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900039,Yesa Hanifatul Azla ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900039,Yesa Hanifatul Azla ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900039,Yesa Hanifatul Azla ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900039,Yesa Hanifatul Azla ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900159,Niken Latifatuz Zahra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900159,Niken Latifatuz Zahra ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900159,Niken Latifatuz Zahra ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900315,Berlian Wilda Ahsani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900315,Berlian Wilda Ahsani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900371,Arya Ardhi Baskara ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900371,Arya Ardhi Baskara ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900371,Arya Ardhi Baskara ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900371,Arya Ardhi Baskara ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900081,Dzikri Maulana ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900081,Dzikri Maulana ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900540,Alang Sengkibar Dhima Arimbi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900540,Alang Sengkibar Dhima Arimbi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900540,Alang Sengkibar Dhima Arimbi ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900210,Erwin Suspatriya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900210,Erwin Suspatriya ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900482,Arian Yusuf Saputra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900482,Arian Yusuf Saputra ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900482,Arian Yusuf Saputra ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900482,Arian Yusuf Saputra ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900207,Alfian Nur Fariq ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900207,Alfian Nur Fariq ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900178,Kholilur Rohman ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900178,Kholilur Rohman ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900178,Kholilur Rohman ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900178,Kholilur Rohman ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900096,Reza Septiana Anggraeni ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900096,Reza Septiana Anggraeni ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900096,Reza Septiana Anggraeni ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900096,Reza Septiana Anggraeni ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900388,Indhika Hanafiatul Aisyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900388,Indhika Hanafiatul Aisyah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900388,Indhika Hanafiatul Aisyah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900089,Tya Wulandari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900089,Tya Wulandari ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900089,Tya Wulandari ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900089,Tya Wulandari ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900003,Fortuna Ega Pramudita ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900003,Fortuna Ega Pramudita ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900003,Fortuna Ega Pramudita ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900266,Eni Yuniarsih ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900266,Eni Yuniarsih ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900266,Eni Yuniarsih ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900266,Eni Yuniarsih ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900132,Tiaan Ainun Naim Pita Loka ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900132,Tiaan Ainun Naim Pita Loka ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900132,Tiaan Ainun Naim Pita Loka ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900132,Tiaan Ainun Naim Pita Loka ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900054,Annisa Nur Hanifah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900054,Annisa Nur Hanifah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900054,Annisa Nur Hanifah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900269,Nisrina Aulia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900269,Nisrina Aulia ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900269,Nisrina Aulia ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900269,Nisrina Aulia ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900161,Safira Pujining Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900161,Safira Pujining Putri ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900161,Safira Pujining Putri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900245,Nuva Urbach ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900245,Nuva Urbach ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900245,Nuva Urbach ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900355,Deanira Arya Syifa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900355,Deanira Arya Syifa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900355,Deanira Arya Syifa ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900355,Deanira Arya Syifa ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900534,Wahyu Leksono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900534,Wahyu Leksono ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900534,Wahyu Leksono ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900534,Wahyu Leksono ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900280,Faris Akbar Wicaksono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900280,Faris Akbar Wicaksono ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900280,Faris Akbar Wicaksono ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900408,David Tri Haryanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900408,David Tri Haryanto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900408,David Tri Haryanto ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900509,Farsya Salsabila ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900509,Farsya Salsabila ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900509,Farsya Salsabila ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900259,Rahma Intan Nurlaili ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900259,Rahma Intan Nurlaili ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900259,Rahma Intan Nurlaili ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321760422,Dhia Octavia Rahmasari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321760422,Dhia Octavia Rahmasari ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321760422,Dhia Octavia Rahmasari ,Dalam Zona I,Pilihan Ke-3,SMAN 2 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321760422,Dhia Octavia Rahmasari ,Dalam Zona I,Pilihan Ke-4,SMAN 1 BAE KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900323,Satria Ilma Maulana ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900323,Satria Ilma Maulana ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900323,Satria Ilma Maulana ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900418,Nugraha Adhi Santosa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900418,Nugraha Adhi Santosa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900131,Eri Bayu Setiawan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900131,Eri Bayu Setiawan ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900131,Eri Bayu Setiawan ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900048,Ilham Budi Hartanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900048,Ilham Budi Hartanto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900048,Ilham Budi Hartanto ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900032,Hamrosyul Ulya Assyarifah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900032,Hamrosyul Ulya Assyarifah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900032,Hamrosyul Ulya Assyarifah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900307,Pradipta Restuadjie Daniswara ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900307,Pradipta Restuadjie Daniswara ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900307,Pradipta Restuadjie Daniswara ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900307,Pradipta Restuadjie Daniswara ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900295,Rachmat Adi Basratama ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900295,Rachmat Adi Basratama ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900295,Rachmat Adi Basratama ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900218,Kumala Oktamie Vannesya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900218,Kumala Oktamie Vannesya ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900507,Lathifatun Nisa' ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900507,Lathifatun Nisa' ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900507,Lathifatun Nisa' ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900507,Lathifatun Nisa' ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900127,Zulia Nur Aisyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900127,Zulia Nur Aisyah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900127,Zulia Nur Aisyah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900366,Faiz Fikril Ilmy ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900366,Faiz Fikril Ilmy ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900162,Bekti Rahmawati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900162,Bekti Rahmawati ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900162,Bekti Rahmawati ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900162,Bekti Rahmawati ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900412,Muhamad Bahtiar Lutfil Hakim ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900412,Muhamad Bahtiar Lutfil Hakim ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900347,Areta Diandra Falihah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900347,Areta Diandra Falihah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900069,Wahyu Lestari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900069,Wahyu Lestari ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900069,Wahyu Lestari ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900069,Wahyu Lestari ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900219,Mikail Alif ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900219,Mikail Alif ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900219,Mikail Alif ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900219,Mikail Alif ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900015,Dewi Safitri Fatma Mawarni ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900015,Dewi Safitri Fatma Mawarni ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900268,Dian Fahreza Ayuningtyas ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900268,Dian Fahreza Ayuningtyas ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900268,Dian Fahreza Ayuningtyas ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900241,Makrus Abdullah Saleh ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900241,Makrus Abdullah Saleh ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900241,Makrus Abdullah Saleh ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900241,Makrus Abdullah Saleh ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900044,Aprilia Setyaningrum ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900171,Jasen Eurico ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900171,Jasen Eurico ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900171,Jasen Eurico ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900249,Fiqi Resa Yufita ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900249,Fiqi Resa Yufita ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900455,Nur Halisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900455,Nur Halisa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900455,Nur Halisa ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900504,Satria Timur Wicaksana ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900504,Satria Timur Wicaksana ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900504,Satria Timur Wicaksana ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900053,Nabila Arifatul Aisyiyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900053,Nabila Arifatul Aisyiyah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900053,Nabila Arifatul Aisyiyah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900073,Intan Anugrahsari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900073,Intan Anugrahsari ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900073,Intan Anugrahsari ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900502,Ganang Satria Kukuh Wicaksono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900502,Ganang Satria Kukuh Wicaksono ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900427,Puji Wulandari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900427,Puji Wulandari ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900126,Alba Trivena Patricia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900126,Alba Trivena Patricia ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900126,Alba Trivena Patricia ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900558,Albert Iqbal Nurussalam ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900558,Albert Iqbal Nurussalam ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900204,Ayunda Sherly Wahono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900066,Maulida Rohmaniyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900066,Maulida Rohmaniyah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900515,Arina Hasna Amalia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900515,Arina Hasna Amalia ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900515,Arina Hasna Amalia ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900515,Arina Hasna Amalia ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900247,Ihda Aulia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900247,Ihda Aulia ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900247,Ihda Aulia ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900119,Sulthan Fahrizal Hernanda ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900119,Sulthan Fahrizal Hernanda ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900119,Sulthan Fahrizal Hernanda ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900068,Alicia Adiyanti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900068,Alicia Adiyanti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900068,Alicia Adiyanti ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900068,Alicia Adiyanti ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900296,Muhammad Nur Hasan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900296,Muhammad Nur Hasan ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900450,Nabila Elena Putri Hidayat ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900450,Nabila Elena Putri Hidayat ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900450,Nabila Elena Putri Hidayat ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900101,Moch Farras Aris Roihan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900101,Moch Farras Aris Roihan ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900101,Moch Farras Aris Roihan ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900476,Aji Suseno ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900476,Aji Suseno ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900476,Aji Suseno ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900304,Alfina Nur Halimah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900304,Alfina Nur Halimah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900304,Alfina Nur Halimah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900304,Alfina Nur Halimah ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900009,Fadilla Inka Pawestri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900009,Fadilla Inka Pawestri ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900009,Fadilla Inka Pawestri ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900009,Fadilla Inka Pawestri ,Dalam Zona I,Pilihan Ke-4,SMAN 1 BOYOLALI KAB. BOYOLALI,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900274,Lailatul Indriani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900274,Lailatul Indriani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900274,Lailatul Indriani ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900277,Muhammad Lutfi Khakim Firmansyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900277,Muhammad Lutfi Khakim Firmansyah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900277,Muhammad Lutfi Khakim Firmansyah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900538,Khalimah Musaadah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900538,Khalimah Musaadah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900538,Khalimah Musaadah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900538,Khalimah Musaadah ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900397,Alfani Nadiatussholekha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900397,Alfani Nadiatussholekha ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900397,Alfani Nadiatussholekha ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900397,Alfani Nadiatussholekha ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900007,Septian Aji Pratama ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900007,Septian Aji Pratama ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900337,Rahma Nur Adriyanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900337,Rahma Nur Adriyanto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900484,Natasya Putri Nur Fitri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900484,Natasya Putri Nur Fitri ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900484,Natasya Putri Nur Fitri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900175,Dhavid Kasatria Hamzah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900175,Dhavid Kasatria Hamzah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900175,Dhavid Kasatria Hamzah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900322,Fika Putri Kharisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900322,Fika Putri Kharisa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900263,Husnul Mar Iyyah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900263,Husnul Mar Iyyah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900263,Husnul Mar Iyyah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900263,Husnul Mar Iyyah ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900205,Fatwa Akbar Jiwani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900205,Fatwa Akbar Jiwani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900205,Fatwa Akbar Jiwani ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900205,Fatwa Akbar Jiwani ,Dalam Zona I,Pilihan Ke-4,SMAN 1 MIJEN KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900358,Vevianti Khikmatunni'Mah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900358,Vevianti Khikmatunni'Mah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900358,Vevianti Khikmatunni'Mah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900174,Novita Kumala Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900174,Novita Kumala Putri ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900174,Novita Kumala Putri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900290,Adam Hariyanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900290,Adam Hariyanto ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900290,Adam Hariyanto ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900385,Miftahusy Syahidurrohman ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900385,Miftahusy Syahidurrohman ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900385,Miftahusy Syahidurrohman ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900319,Tera Iswaratyas Arum Pramudita ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900319,Tera Iswaratyas Arum Pramudita ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900330,Rakha Maulana Syahputra Ramadhan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900330,Rakha Maulana Syahputra Ramadhan ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900490,Muhammad Najmi Azizi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900490,Muhammad Najmi Azizi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900060,Isna Wahyuningsih ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900060,Isna Wahyuningsih ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900313,Handy Ichsa Janand ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900313,Handy Ichsa Janand ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900313,Handy Ichsa Janand ,Dalam Zona I,Pilihan Ke-3,SMAN 1 GUNTUR KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900167,Dinda Kurnia Rahmahani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900167,Dinda Kurnia Rahmahani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900167,Dinda Kurnia Rahmahani ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900198,Nivta Khasanah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900198,Nivta Khasanah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900169,Zidan Tri Iswanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900169,Zidan Tri Iswanto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900169,Zidan Tri Iswanto ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900169,Zidan Tri Iswanto ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900405,Suryo Agung Wicaksono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900405,Suryo Agung Wicaksono ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900405,Suryo Agung Wicaksono ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900140,Anggit Wahyu Khoirun Nisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900140,Anggit Wahyu Khoirun Nisa ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900140,Anggit Wahyu Khoirun Nisa ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900100,Muhammad Syihabuddin ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900100,Muhammad Syihabuddin ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900100,Muhammad Syihabuddin ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900100,Muhammad Syihabuddin ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900531,Ignatius Andri Wilujeng ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900531,Ignatius Andri Wilujeng ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900531,Ignatius Andri Wilujeng ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900531,Ignatius Andri Wilujeng ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900220,Nabila Riska Dewi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900220,Nabila Riska Dewi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900220,Nabila Riska Dewi ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900075,Meyzida Kamal Fasha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900075,Meyzida Kamal Fasha ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900075,Meyzida Kamal Fasha ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900568,Fina Himatus Sholikhah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900568,Fina Himatus Sholikhah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900275,Thaasa Dinda Asfara ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900275,Thaasa Dinda Asfara ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900125,Amanda Citra Syafira ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900125,Amanda Citra Syafira ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900231,Sahana Nadila Syafa Kamila ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900231,Sahana Nadila Syafa Kamila ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900447,Aldhi Pramudya Anung ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900447,Aldhi Pramudya Anung ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900023,Sultan Rasya Nair Al Ghifari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900023,Sultan Rasya Nair Al Ghifari ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900439,Desi Maimatun Sa'Adah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900439,Desi Maimatun Sa'Adah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900158,Thoriq Bhara Yulianto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900158,Thoriq Bhara Yulianto ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900278,Avilda Afrin Ammara ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900278,Avilda Afrin Ammara ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900238,Yunisha Ayu Ananda ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900238,Yunisha Ayu Ananda ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900105,Nafisa Illiyanasafa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900105,Nafisa Illiyanasafa ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900483,Sitta Tatsbita Rahmadhani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900483,Sitta Tatsbita Rahmadhani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900308,Mohammad Hilbram Mahendra Datta ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900308,Mohammad Hilbram Mahendra Datta ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900308,Mohammad Hilbram Mahendra Datta ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900308,Mohammad Hilbram Mahendra Datta ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900129,Putri Inna Wahidiyati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900129,Putri Inna Wahidiyati ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900129,Putri Inna Wahidiyati ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900145,Sigit Eko Mardianto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900145,Sigit Eko Mardianto ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900002,Desti Utami ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900002,Desti Utami ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900002,Desti Utami ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900041,Ghulam Za'Imul Haq ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900041,Ghulam Za'Imul Haq ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900179,Indah Sulistiyowati ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900179,Indah Sulistiyowati ,Dalam Zona I,Pilihan Ke-2,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900098,Sahda Hafi Karisma ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900098,Sahda Hafi Karisma ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900098,Sahda Hafi Karisma ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900097,Riyanti Terisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900097,Riyanti Terisa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900097,Riyanti Terisa ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900498,Alfiyana Febriyanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900498,Alfiyana Febriyanto ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900498,Alfiyana Febriyanto ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900498,Alfiyana Febriyanto ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900223,Edoardo Yanuar Putra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900223,Edoardo Yanuar Putra ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900223,Edoardo Yanuar Putra ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900223,Edoardo Yanuar Putra ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900038,Rahma Cantika ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900038,Rahma Cantika ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900508,Fahreza Ardhi Nugraha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900508,Fahreza Ardhi Nugraha ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900508,Fahreza Ardhi Nugraha ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900297,Indra Ragil Pamungkas ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900297,Indra Ragil Pamungkas ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900297,Indra Ragil Pamungkas ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900351,Desy Natalia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900351,Desy Natalia ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900351,Desy Natalia ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900311,Kuncoro Bayu Utomo ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900311,Kuncoro Bayu Utomo ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900065,Bagus Unggul Suseno ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900065,Bagus Unggul Suseno ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900065,Bagus Unggul Suseno ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900065,Bagus Unggul Suseno ,Dalam Zona I,Pilihan Ke-4,SMAN 1 DEMPET KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900221,Fitria Putri Maharani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900221,Fitria Putri Maharani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900221,Fitria Putri Maharani ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900152,Ryan Kusuma Hidayat ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900152,Ryan Kusuma Hidayat ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900202,Chesa Nadhifa Mutie ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900202,Chesa Nadhifa Mutie ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320930475,Pandu Satrio Witjaksono ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320930475,Pandu Satrio Witjaksono ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320930475,Pandu Satrio Witjaksono ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900022,Mohammad Zakky Zakaria ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900022,Mohammad Zakky Zakaria ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900022,Mohammad Zakky Zakaria ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900022,Mohammad Zakky Zakaria ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900153,Luk Luk Ul Mak Nun ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900153,Luk Luk Ul Mak Nun ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900153,Luk Luk Ul Mak Nun ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900407,Frency Rofiandika ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900407,Frency Rofiandika ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900407,Frency Rofiandika ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900042,Saelsya Tara Nadya Pratiwi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900042,Saelsya Tara Nadya Pratiwi ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900154,Yudha Mahendra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900154,Yudha Mahendra ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900135,Mohammad Rizki Affandi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900135,Mohammad Rizki Affandi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900130,Rika Apriliana ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900130,Rika Apriliana ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900362,Rahma Maulida Khasanah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900362,Rahma Maulida Khasanah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900362,Rahma Maulida Khasanah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900346,David Kurnia Rahman ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900346,David Kurnia Rahman ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900346,David Kurnia Rahman ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900555,Ahmad Rico Setyawan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900555,Ahmad Rico Setyawan ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900327,Muhammad Agus Kharir ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900327,Muhammad Agus Kharir ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900327,Muhammad Agus Kharir ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900327,Muhammad Agus Kharir ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900535,Muhammad Naim Fahlevi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900535,Muhammad Naim Fahlevi ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900535,Muhammad Naim Fahlevi ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900535,Muhammad Naim Fahlevi ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900084,Said Widodo Prasetyo ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900084,Said Widodo Prasetyo ,Dalam Zona I,Pilihan Ke-2,SMAN 2 KUDUS KAB. KUDUS,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900084,Said Widodo Prasetyo ,Dalam Zona I,Pilihan Ke-3,SMAN 1 KUDUS KAB. KUDUS,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900084,Said Widodo Prasetyo ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900128,Fadila Sekar Paramitha ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900128,Fadila Sekar Paramitha ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900128,Fadila Sekar Paramitha ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900183,Mohammad Reza Fahlevi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900183,Mohammad Reza Fahlevi ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900183,Mohammad Reza Fahlevi ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900217,Iva Maulida ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900217,Iva Maulida ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900217,Iva Maulida ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900217,Iva Maulida ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900080,Elicia Hanifatun Nazilah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900080,Elicia Hanifatun Nazilah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900006,Hasna Khairunnisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900006,Hasna Khairunnisa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900453,Sigit Parwanto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900453,Sigit Parwanto ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900453,Sigit Parwanto ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900151,Ausani Juliani Akhadun ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900151,Ausani Juliani Akhadun ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900151,Ausani Juliani Akhadun ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900151,Ausani Juliani Akhadun ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900010,Erica Nur Cahyani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900010,Erica Nur Cahyani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900010,Erica Nur Cahyani ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900010,Erica Nur Cahyani ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900240,Falahul Munif ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900240,Falahul Munif ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900021,Surya Oktova Pramudya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900021,Surya Oktova Pramudya ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900021,Surya Oktova Pramudya ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900367,Mitha Arum Sari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900367,Mitha Arum Sari ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900233,Zakiyatul Ulya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900233,Zakiyatul Ulya ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900233,Zakiyatul Ulya ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900474,Fitria Tiara Sani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900474,Fitria Tiara Sani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900321,Rochmad Romadhon ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900321,Rochmad Romadhon ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900321,Rochmad Romadhon ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900363,Rizal Intan Yasyifa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900363,Rizal Intan Yasyifa ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900363,Rizal Intan Yasyifa ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900363,Rizal Intan Yasyifa ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900115,Putri Safira Apriliyanti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900115,Putri Safira Apriliyanti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900115,Putri Safira Apriliyanti ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900546,Nazzla Lunar Rahman ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900546,Nazzla Lunar Rahman ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900318,Whanda Yasinta Dewi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900318,Whanda Yasinta Dewi ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900087,Juang Viscal Shafaro ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900087,Juang Viscal Shafaro ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900168,Salma Shafira Fatya Ardyani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900168,Salma Shafira Fatya Ardyani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900461,Reza Aji Satria ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900461,Reza Aji Satria ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900461,Reza Aji Satria ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900461,Reza Aji Satria ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900033,Novia Rahma Putri ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900033,Novia Rahma Putri ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900033,Novia Rahma Putri ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900033,Novia Rahma Putri ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900501,Yulia Dwi Fatimah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900501,Yulia Dwi Fatimah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900501,Yulia Dwi Fatimah ,Dalam Zona I,Pilihan Ke-3,SMAN 2 KUDUS KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900501,Yulia Dwi Fatimah ,Dalam Zona I,Pilihan Ke-4,SMAN 1 BAE KAB. KUDUS,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900451,Akmal Muiz Sinu ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900451,Akmal Muiz Sinu ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900499,Abdul Aziiz Hakim ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900499,Abdul Aziiz Hakim ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900499,Abdul Aziiz Hakim ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMPET KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900376,Aqila Zahra Azalea ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900376,Aqila Zahra Azalea ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900376,Aqila Zahra Azalea ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900273,Bagus Tri Utomo ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900273,Bagus Tri Utomo ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900273,Bagus Tri Utomo ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900213,Gimza Miftahul Fadilla ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900213,Gimza Miftahul Fadilla ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900213,Gimza Miftahul Fadilla ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900213,Gimza Miftahul Fadilla ,Dalam Zona I,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900155,Muhammad Yusuf Gusna ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900155,Muhammad Yusuf Gusna ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900155,Muhammad Yusuf Gusna ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900155,Muhammad Yusuf Gusna ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900343,Isna Ahsanu Nadia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900343,Isna Ahsanu Nadia ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900343,Isna Ahsanu Nadia ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900057,Edennia Restu Putri Setya Wijaya ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900057,Edennia Restu Putri Setya Wijaya ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900057,Edennia Restu Putri Setya Wijaya ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900057,Edennia Restu Putri Setya Wijaya ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900165,Nurul Eka Choirun Nisa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900165,Nurul Eka Choirun Nisa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900165,Nurul Eka Choirun Nisa ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900184,Anindia Yeni Widiastuti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900184,Anindia Yeni Widiastuti ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900194,Deni Rizki Kurniawan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900194,Deni Rizki Kurniawan ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900194,Deni Rizki Kurniawan ,Dalam Zona I,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900122,Bunga Septia Nurlela Wahyuningtyas ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900136,Sofatul Novita Ramadhani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900136,Sofatul Novita Ramadhani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900136,Sofatul Novita Ramadhani ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900043,Usman Abidin ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900441,Andini Sukma Mentari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900441,Andini Sukma Mentari ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900441,Andini Sukma Mentari ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900123,Threeya Andriyani Puspitasari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900123,Threeya Andriyani Puspitasari ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900123,Threeya Andriyani Puspitasari ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900123,Threeya Andriyani Puspitasari ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900356,Indhana Zulfa Shahara ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900356,Indhana Zulfa Shahara ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900356,Indhana Zulfa Shahara ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900102,Ahmad Rizqi Anwar ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900102,Ahmad Rizqi Anwar ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900456,Adam Faris Al Abiyyu ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900456,Adam Faris Al Abiyyu ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900456,Adam Faris Al Abiyyu ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900456,Adam Faris Al Abiyyu ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900378,Tahta Arya Pamungkas ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900378,Tahta Arya Pamungkas ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900378,Tahta Arya Pamungkas ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900530,Alfian Firman Setyawan ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900530,Alfian Firman Setyawan ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900530,Alfian Firman Setyawan ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900444,Iik Fatihatul Malihah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900444,Iik Fatihatul Malihah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900234,Salsa Syahrani Amelia ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900234,Salsa Syahrani Amelia ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900234,Salsa Syahrani Amelia ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900181,Jihan Mahira Wulandari ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900181,Jihan Mahira Wulandari ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900181,Jihan Mahira Wulandari ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900292,Fikri Haikal Alfian Diarti Putra ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900292,Fikri Haikal Alfian Diarti Putra ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900352,Dimas Aditya Pratama ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900352,Dimas Aditya Pratama ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900352,Dimas Aditya Pratama ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900403,Mya Tristina ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900403,Mya Tristina ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900403,Mya Tristina ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900557,Siti Imronah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900557,Siti Imronah ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900557,Siti Imronah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900557,Siti Imronah ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900421,Adil Putra Alfianto ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900421,Adil Putra Alfianto ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900421,Adil Putra Alfianto ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900421,Adil Putra Alfianto ,Dalam Zona I,Pilihan Ke-4,SMAN 1 TAHUNAN KAB. JEPARA,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900305,Fatichatul Malichah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900305,Fatichatul Malichah ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900305,Fatichatul Malichah ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900026,Dian Ajeng Nastiti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900026,Dian Ajeng Nastiti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900026,Dian Ajeng Nastiti ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900026,Dian Ajeng Nastiti ,Dalam Zona I,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900019,Dian Kusuma Wardani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900019,Dian Kusuma Wardani ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900094,Salamah Nanda Fitriani ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900094,Salamah Nanda Fitriani ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900094,Salamah Nanda Fitriani ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900094,Salamah Nanda Fitriani ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900466,Muhammad Chaidar Kafi ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900466,Muhammad Chaidar Kafi ,Dalam Zona I,Pilihan Ke-2,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900466,Muhammad Chaidar Kafi ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900067,Diah Ayu Narianti ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900067,Diah Ayu Narianti ,Dalam Zona I,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900067,Diah Ayu Narianti ,Dalam Zona I,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900067,Diah Ayu Narianti ,Dalam Zona I,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900354,Desy Kholisatus Shofa ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900354,Desy Kholisatus Shofa ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900354,Desy Kholisatus Shofa ,Dalam Zona I,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900460,Anis Arofah ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900460,Anis Arofah ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900458,Maulana Adi Nugroho ,Dalam Zona I,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900458,Maulana Adi Nugroho ,Dalam Zona I,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900552,Muhammad Ikhmal Akbar ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900552,Muhammad Ikhmal Akbar ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900552,Muhammad Ikhmal Akbar ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900552,Muhammad Ikhmal Akbar ,Luar Zona,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900369,Farina Rizka Meidina Putri ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900369,Farina Rizka Meidina Putri ,Luar Zona,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900369,Farina Rizka Meidina Putri ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310322430452,Mukhamad Nizam Hanif ,Luar Zona,Pilihan Ke-1,SMAN 1 PURWOREJO KAB. PURWOREJO,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310322430452,Mukhamad Nizam Hanif ,Luar Zona,Pilihan Ke-2,SMAN 7 PURWOREJO KAB. PURWOREJO,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310322430452,Mukhamad Nizam Hanif ,Luar Zona,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310322430452,Mukhamad Nizam Hanif ,Luar Zona,Pilihan Ke-4,SMAN 1 JEPARA KAB. JEPARA,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900361,Achmad Fauzan ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900361,Achmad Fauzan ,Luar Zona,Pilihan Ke-2,SMAN 2 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900361,Achmad Fauzan ,Luar Zona,Pilihan Ke-3,SMAN 11 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900361,Achmad Fauzan ,Luar Zona,Pilihan Ke-4,SMAN 15 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900406,Akmal Irfansyah ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900406,Akmal Irfansyah ,Luar Zona,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900406,Akmal Irfansyah ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321030468,Alvito Rizky Dwiyantama ,Luar Zona,Pilihan Ke-1,SMAN 1 PURWODADI KAB. GROBOGAN,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321030468,Alvito Rizky Dwiyantama ,Luar Zona,Pilihan Ke-2,SMAN 5 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321030468,Alvito Rizky Dwiyantama ,Luar Zona,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310321030468,Alvito Rizky Dwiyantama ,Luar Zona,Pilihan Ke-4,SMAN 1 GODONG KAB. GROBOGAN,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900566,Muhamad Saeful Nizar ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900566,Muhamad Saeful Nizar ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900566,Muhamad Saeful Nizar ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900566,Muhamad Saeful Nizar ,Luar Zona,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900514,Maili Nadhi Fatul Azka ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900514,Maili Nadhi Fatul Azka ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900514,Maili Nadhi Fatul Azka ,Luar Zona,Pilihan Ke-3,SMAN 1 PURWODADI KAB. GROBOGAN,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900514,Maili Nadhi Fatul Azka ,Luar Zona,Pilihan Ke-4,SMAN 1 GODONG KAB. GROBOGAN,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900561,Rafal Guna Nugraha ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900561,Rafal Guna Nugraha ,Luar Zona,Pilihan Ke-2,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900561,Rafal Guna Nugraha ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900561,Rafal Guna Nugraha ,Luar Zona,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900467,Habib Daniel A'La Mustofa ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900467,Habib Daniel A'La Mustofa ,Luar Zona,Pilihan Ke-2,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900467,Habib Daniel A'La Mustofa ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900559,Muhammad Edy Saputro ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900559,Muhammad Edy Saputro ,Luar Zona,Pilihan Ke-2,SMAN 1 GUBUG KAB. GROBOGAN,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900559,Muhammad Edy Saputro ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900074,Fauziah Illiyatul Wakhidah ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900074,Fauziah Illiyatul Wakhidah ,Luar Zona,Pilihan Ke-2,SMAN 1 MIJEN KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900074,Fauziah Illiyatul Wakhidah ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170542,Noeke Nabila Zahra ,Luar Zona,Pilihan Ke-1,SMAN 10 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170542,Noeke Nabila Zahra ,Luar Zona,Pilihan Ke-2,SMAN 14 KOTA SEMARANG,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170542,Noeke Nabila Zahra ,Luar Zona,Pilihan Ke-3,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170542,Noeke Nabila Zahra ,Luar Zona,Pilihan Ke-4,SMAN 1 KARANGTENGAH KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900560,Azka Maraya Putra Arya Pradhana ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900560,Azka Maraya Putra Arya Pradhana ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900560,Azka Maraya Putra Arya Pradhana ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900560,Azka Maraya Putra Arya Pradhana ,Luar Zona,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900516,Rifka Fattarani ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900516,Rifka Fattarani ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900516,Rifka Fattarani ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900516,Rifka Fattarani ,Luar Zona,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900563,Khezan Amartya Awanda Primurti ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900563,Khezan Amartya Awanda Primurti ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900563,Khezan Amartya Awanda Primurti ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900563,Khezan Amartya Awanda Primurti ,Luar Zona,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900548,Aulia Rahma Dewi ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900548,Aulia Rahma Dewi ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900548,Aulia Rahma Dewi ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900548,Aulia Rahma Dewi ,Luar Zona,Pilihan Ke-4,SMAN 2 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900517,Alex Rifqi ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900517,Alex Rifqi ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900517,Alex Rifqi ,Luar Zona,Pilihan Ke-3,SMAN 2 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170060,Alfira Ananda Suhartini ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170060,Alfira Ananda Suhartini ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170060,Alfira Ananda Suhartini ,Luar Zona,Pilihan Ke-3,SMAN 10 KOTA SEMARANG,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310323170060,Alfira Ananda Suhartini ,Luar Zona,Pilihan Ke-4,SMAN 14 KOTA SEMARANG,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900536,Zunna Syifa Nianing Sukma ,Luar Zona,Pilihan Ke-1,SMAN 1 DEMAK KAB. DEMAK,MIPA
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900536,Zunna Syifa Nianing Sukma ,Luar Zona,Pilihan Ke-2,SMAN 1 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900536,Zunna Syifa Nianing Sukma ,Luar Zona,Pilihan Ke-3,SMAN 3 DEMAK KAB. DEMAK,IPS
+Prov. Jawa Tengah,2018,Reguler,-,SMAN 1 DEMAK KAB. DEMAK,IPA,48310320900536,Zunna Syifa Nianing Sukma ,Luar Zona,Pilihan Ke-4,SMAN 3 DEMAK KAB. DEMAK,MIPA
